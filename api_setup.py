@@ -8,7 +8,7 @@ import pprint
 key = "db2208bcd8a86d5b3a817f122e6ef489"
 endpoint = "beers"
 page = "1"
-pp = pprint.PrettyPrinter(indent=4)
+pp = pprint.PrettyPrinter(indent=1)
 
 
 def get_data(endpoint="beers", page='1', key="db2208bcd8a86d5b3a817f122e6ef489"):
@@ -19,7 +19,7 @@ def get_data(endpoint="beers", page='1', key="db2208bcd8a86d5b3a817f122e6ef489")
 def navigate_json(data):
     
     pp.pprint(data)
-    print("-------------------------------------")
+    print("--------------------------------------------------------------------------")
     next_step = ''
     order = 'data'
     while next_step != 'stop':
@@ -38,8 +38,8 @@ def navigate_json(data):
             order = f"{order}['{next_step}']"
         data = data[next_step]
         
-        print("-------------------------------------")
+        print("--------------------------------------------------------------------------")
         pp.pprint(data)
-        print("-------------------------------------")
+        print("--------------------------------------------------------------------------")
         print(f"Your current query is: {order}")
         print()

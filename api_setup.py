@@ -13,7 +13,7 @@ pp = pprint.PrettyPrinter(indent=1)
 custom=''
 
 
-def get_data(endpoint="beers", page='1', key=api_key, custom):
+def get_data(endpoint="beers", page='1', key=api_key, custom=custom):
     url = f"http://api.brewerydb.com/v2/{endpoint}/?key={key}&p={page}{custom}"
     response = requests.get(url).json()
     return response

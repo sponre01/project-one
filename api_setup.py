@@ -23,7 +23,7 @@ def navigate_json(data):
     pp.pprint(data)
     print("--------------------------------------------------------------------------")
     next_step = ''
-    order = 'data'
+    order = f"{data}"
     while next_step != 'stop':
         print("Here are the current values you may select: ")
         if type(data) == list:

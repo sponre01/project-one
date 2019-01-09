@@ -10,10 +10,11 @@ key = api_key
 endpoint = "beers"
 page = "1"
 pp = pprint.PrettyPrinter(indent=1)
+custom=''
 
 
-def get_data(endpoint="beers", page='1', key=api_key):
-    url = f"http://api.brewerydb.com/v2/{endpoint}/?key={key}&p={page}"
+def get_data(endpoint="beers", page='1', key=api_key, custom=custom):
+    url = f"http://api.brewerydb.com/v2/{endpoint}/?key={key}&p={page}{custom}"
     response = requests.get(url).json()
     return response
 
@@ -22,7 +23,7 @@ def navigate_json(data):
     pp.pprint(data)
     print("--------------------------------------------------------------------------")
     next_step = ''
-    order = 'data'
+    order = f"{data}"
     while next_step != 'stop':
         print("Here are the current values you may select: ")
         if type(data) == list:

@@ -1,0 +1,1 @@
+.jquery-notify-bar{width:100%;position:fixed;top:50px;left:0;z-index:32768;background-color:#C60;font-size:18px;color:#fff;text-align:center;padding:20px 0;border-bottom:1px solid #bbb}.jquery-notify-bar.error{color:red;background-color:#fdd}.jquery-notify-bar.success{color:#060;background-color:#BBFFB6}.notify-bar-close{position:absolute;left:95%;font-size:11px}

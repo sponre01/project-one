@@ -1,0 +1,1161 @@
+,style_id,Super Style,Style,Unnamed: 0,beer_id,name,display_name,abv,year,glass_id,organic,brewery_id,retired,status
+0,1.0,British Origin Ales,Classic English-Style Pale Ale,113.0,ZK2Swv,Beer Camp: Atlantic-Style Vintage Ale,Beer Camp: Atlantic-Style Vintage Ale (2017),8.5,2017.0,,N,nHLlnK,N,verified
+1,1.0,British Origin Ales,Classic English-Style Pale Ale,466.0,ZVmIsO,Golden Flash,Golden Flash,5.7,,,N,AqEUBQ,N,verified
+2,1.0,British Origin Ales,Classic English-Style Pale Ale,732.0,zdjQs9,Northdown,Northdown,4.1,,,N,VEY3Xa,N,verified
+3,2.0,British Origin Ales,English-Style India Pale Ale,447.0,UFPFnA,Fusion 36: London Confusion,Fusion 36: London Confusion,6.5,,,N,nLsoQ9,N,verified
+4,2.0,British Origin Ales,English-Style India Pale Ale,1083.0,655f2d,Wicket IPA,Wicket IPA,5.4,,,N,VEY3Xa,N,verified
+5,3.0,British Origin Ales,Ordinary Bitter,67.0,cBZj1z,Audition - English-Style Bitter,Audition - English-Style Bitter,5.6,,,N,nHLlnK,N,verified
+6,3.0,British Origin Ales,Ordinary Bitter,377.0,RsTK7E,Dude of York,Dude of York,4.5,,5.0,N,941OaA,N,verified
+7,3.0,British Origin Ales,Ordinary Bitter,816.0,T9hizi,Pond Scum,Pond Scum,,,,N,q6vJUK,N,verified
+8,3.0,British Origin Ales,Ordinary Bitter,974.0,0a0nmv,SweetWater Motor Boat,SweetWater Motor Boat,5.6,,5.0,N,TMc6H2,N,verified
+9,3.0,British Origin Ales,Ordinary Bitter,1009.0,JsJS48,There and Back - Beer Camp Across America,There and Back - Beer Camp Across America (2014),5.6,2014.0,5.0,N,nHLlnK,N,verified
+10,4.0,British Origin Ales,Special Bitter or Best Bitter,42.0,hbF6tu,ABLE Best Britter,ABLE Best Britter,4.3,,5.0,N,nHLlnK,N,verified
+11,5.0,British Origin Ales,Extra Special Bitter,3.0,xwYSL2,15th Anniversary Ale,15th Anniversary Ale,,,,N,TMc6H2,N,verified
+12,5.0,British Origin Ales,Extra Special Bitter,29.0,fa0oqf,471 ESB - Extra Special Bitter,471 ESB - Extra Special Bitter,7.8,,5.0,N,IImUD9,Y,verified
+13,5.0,British Origin Ales,Extra Special Bitter,161.0,gLBFNH,Bitter Over Ewe,Bitter Over Ewe,,,,Y,p1tFbP,N,verified
+14,5.0,British Origin Ales,Extra Special Bitter,213.0,d2nhC0,Brown's Point ESB,Brown's Point ESB,5.6,,,N,DMU2Kf,N,verified
+15,5.0,British Origin Ales,Extra Special Bitter,305.0,S1oEH9,CSB ESB,CSB ESB,,,,N,yX6twV,Y,verified
+16,5.0,British Origin Ales,Extra Special Bitter,381.0,AC98pm,Earth Day EPA,Earth Day EPA,5.2,,5.0,N,nHLlnK,N,verified
+17,5.0,British Origin Ales,Extra Special Bitter,389.0,MtJRP6,ESB,ESB,5.5,,,Y,4F7QA9,N,verified
+18,5.0,British Origin Ales,Extra Special Bitter,396.0,H20aOl,Extra ESB - Small Batch Series,Extra ESB - Small Batch Series,7.8,,,N,IImUD9,N,verified
+19,5.0,British Origin Ales,Extra Special Bitter,758.0,Uz0Uxf,Old Chico ESB,Old Chico ESB,,,,N,nHLlnK,N,verified
+20,5.0,British Origin Ales,Extra Special Bitter,933.0,Uwcqsj,Southern Hemisphere Hopped ESB,Southern Hemisphere Hopped ESB,6.0,,,N,q6vJUK,N,verified
+21,5.0,British Origin Ales,Extra Special Bitter,1069.0,60GVov,Well Built E.S.B.,Well Built E.S.B.,7.8,,,N,IImUD9,N,verified
+22,6.0,British Origin Ales,English-Style Summer Ale,,,,,,,,,,,
+23,7.0,British Origin Ales,Scottish-Style Light Ale,,,,,,,,,,,
+24,8.0,British Origin Ales,Scottish-Style Heavy Ale,460.0,HiunCp,Gingerbread Old Chub,Gingerbread Old Chub,8.0,,,N,q6vJUK,N,verified
+25,8.0,British Origin Ales,Scottish-Style Heavy Ale,982.0,5ErplG,Tater Ridge - Beer Camp Across America,Tater Ridge - Beer Camp Across America (2014),7.0,2014.0,5.0,N,nHLlnK,N,verified
+26,9.0,British Origin Ales,Scottish-Style Export Ale,,,,,,,,,,,
+27,10.0,British Origin Ales,English-Style Pale Mild Ale,647.0,J183HL,London Calling,London Calling,3.2,,,N,VEY3Xa,N,verified
+28,10.0,British Origin Ales,English-Style Pale Mild Ale,1041.0,QSwjKh,Twisted Cedar,Twisted Cedar,5.8,,,N,AqEUBQ,N,verified
+29,11.0,British Origin Ales,English-Style Dark Mild Ale,869.0,5fM3ER,Rye Barrel Aged Cubcrawler,Rye Barrel Aged Cubcrawler,,,,N,p1tFbP,N,verified
+30,12.0,British Origin Ales,English-Style Brown Ale,785.0,8Ug3hm,Oxford Education,Oxford Education,7.3,,,N,q6vJUK,N,verified
+31,13.0,British Origin Ales,Old Ale,108.0,2rqlKs,Beer Camp 013: Old Cantankerous,Beer Camp 013: Old Cantankerous,6.6,,,N,nHLlnK,N,verified
+32,13.0,British Origin Ales,Old Ale,289.0,gfFqa1,Cold Nose Winter Ale,Cold Nose Winter Ale,,,,N,yX6twV,Y,verified
+33,13.0,British Origin Ales,Old Ale,756.0,lr1zya,Old Ale,Old Ale,6.9,,,N,VEY3Xa,N,verified
+34,13.0,British Origin Ales,Old Ale,1001.0,9RNMJQ,The Gimp,The Gimp,10.3,,,N,TMc6H2,N,verified
+35,14.0,British Origin Ales,Strong Ale,24.0,ajbd6g,35th Anniversary  - Brewer's Reserve,35th Anniversary  - Brewer's Reserve,8.0,,,N,nHLlnK,N,verified
+36,14.0,British Origin Ales,Strong Ale,306.0,AvtUms,Cubcrawler,Cubcrawler,,,,Y,p1tFbP,N,verified
+37,14.0,British Origin Ales,Strong Ale,712.0,tGCD2j,New Holland Brewing 20th Anniversary Ale,New Holland Brewing 20th Anniversary Ale,20.0,,,N,AqEUBQ,N,verified
+38,15.0,British Origin Ales,Scotch Ale,72.0,eOVHdT,Audition - Scotch Ale,Audition - Scotch Ale,7.3,,,N,nHLlnK,N,verified
+39,15.0,British Origin Ales,Scotch Ale,176.0,QFJ250,Blantons Barrel Aged Scotch Ale,Blantons Barrel Aged Scotch Ale,11.3,,,N,nHLlnK,N,verified
+40,15.0,British Origin Ales,Scotch Ale,240.0,BbrPm8,Buffalo Trace Aged Scotch Ale,Buffalo Trace Aged Scotch Ale,11.1,,,N,nHLlnK,N,verified
+41,15.0,British Origin Ales,Scotch Ale,330.0,24UMt9,Davey Murray's Best Scotch Ale,Davey Murray's Best Scotch Ale,9.5,,,N,nLsoQ9,N,verified
+42,15.0,British Origin Ales,Scotch Ale,380.0,nvaDvZ,Eagle Rare Barrel Aged Scotch Ale,Eagle Rare Barrel Aged Scotch Ale,11.3,,,N,nHLlnK,N,verified
+43,15.0,British Origin Ales,Scotch Ale,501.0,hf0GB8,Hairy Highlander,Hairy Highlander,,,,Y,p1tFbP,N,verified
+44,15.0,British Origin Ales,Scotch Ale,668.0,iNpc02,Maple Scotch-Style Ale,Maple Scotch-Style Ale,7.3,,,N,nHLlnK,N,verified
+45,15.0,British Origin Ales,Scotch Ale,760.0,KmsdoV,Old Chub,Old Chub,8.0,,5.0,N,q6vJUK,N,verified
+46,15.0,British Origin Ales,Scotch Ale,761.0,9bNjNs,Old Chub Nitro,Old Chub Nitro,8.0,,,N,q6vJUK,N,verified
+47,15.0,British Origin Ales,Scotch Ale,887.0,IzBcZt,Scotch-Style Ale,Scotch-Style Ale,7.3,,,N,nHLlnK,N,verified
+48,15.0,British Origin Ales,Scotch Ale,1020.0,i5EwQe,Trip In The Woods,Trip In The Woods,9.6,,,N,nHLlnK,N,verified
+49,15.0,British Origin Ales,Scotch Ale,1027.0,kKHKCn,Trip in the Woods: Maple Scotch,Trip in the Woods: Maple Scotch,9.8,,,N,nHLlnK,N,verified
+50,15.0,British Origin Ales,Scotch Ale,1090.0,Edea9J,Winter Ale,Winter Ale,6.1,,,N,DifSi4,N,verified
+51,16.0,British Origin Ales,British-Style Imperial Stout,415.0,3wspDn,Foreign Extra Stout (Ghana),Foreign Extra Stout (Ghana),7.5,,,N,HaPdSL,N,verified
+52,16.0,British Origin Ales,British-Style Imperial Stout,914.0,1EDyEY,Smaug's Breath,Smaug's Breath,11.0,,,N,AqEUBQ,N,verified
+53,16.0,British Origin Ales,British-Style Imperial Stout,999.0,cvma3B,The Dogfather Imperial Stout - Bourbon Barrel,The Dogfather Imperial Stout - Bourbon Barrel,10.85,,,N,yX6twV,N,verified
+54,16.0,British Origin Ales,British-Style Imperial Stout,1029.0,LPQCSx,Trip In The Woods: Tawny Narwhal,Trip In The Woods: Tawny Narwhal,11.4,,,N,nHLlnK,N,verified
+55,17.0,British Origin Ales,British-Style Barley Wine Ale,154.0,qUIYuC,Bigfoot,Bigfoot,9.6,,6.0,N,nHLlnK,N,verified
+56,17.0,British Origin Ales,British-Style Barley Wine Ale,895.0,N87g0e,Shipwrecker Circus,Shipwrecker Circus,10.5,,,N,q6vJUK,N,verified
+57,18.0,British Origin Ales,Brown Porter,60.0,IyyejS,Anubis Imperial Coffee Porter,Anubis Imperial Coffee Porter,8.0,,,N,yX6twV,N,verified
+58,18.0,British Origin Ales,Brown Porter,114.0,BdlH6M,Beer Camp: Campout Porter,Beer Camp: Campout Porter (2017),7.7,2017.0,,N,nHLlnK,N,verified
+59,18.0,British Origin Ales,Brown Porter,163.0,pkEofb,Black Cat Porter,Black Cat Porter,5.2,,,N,VEY3Xa,N,verified
+60,18.0,British Origin Ales,Brown Porter,175.0,fekpJv,Blackstrap Fever,Blackstrap Fever,6.1,,,N,q6vJUK,N,verified
+61,18.0,British Origin Ales,Brown Porter,263.0,1t3vFB,Chai Porter,Chai Porter,5.6,,,Y,p1tFbP,N,verified
+62,18.0,British Origin Ales,Brown Porter,321.0,ov7fgF,Dank Tank Pulled Porter,Dank Tank Pulled Porter,7.7,,,N,TMc6H2,N,verified
+63,18.0,British Origin Ales,Brown Porter,326.0,sqELhU,Dark Knight,Dark Knight,,,,Y,p1tFbP,N,verified
+64,18.0,British Origin Ales,Brown Porter,334.0,HXVdFT,Death By Coconut,Death By Coconut,6.5,,,N,q6vJUK,N,verified
+65,18.0,British Origin Ales,Brown Porter,446.0,cX0XkP,Fusion 34 Michiganja,Fusion 34 Michiganja,6.7,,,N,nLsoQ9,N,verified
+66,18.0,British Origin Ales,Brown Porter,500.0,FAIsfG,Guinness West Indies Porter,Guinness West Indies Porter,6.0,,,N,HaPdSL,N,verified
+67,18.0,British Origin Ales,Brown Porter,571.0,fOFhEa,Hotbox Coffee Porter,Hotbox Coffee Porter,6.5,,,N,q6vJUK,N,verified
+68,18.0,British Origin Ales,Brown Porter,665.0,u0mJPG,Man Full of Trouble,Man Full of Trouble,5.0,,,N,p3YrOa,N,verified
+69,18.0,British Origin Ales,Brown Porter,674.0,tupCCv,Mean Joe Bean,Mean Joe Bean,8.5,,,N,TMc6H2,N,verified
+70,18.0,British Origin Ales,Brown Porter,714.0,3PXm6h,Nib Sip Chub,Nib Sip Chub,7.0,,,N,q6vJUK,N,verified
+71,18.0,British Origin Ales,Brown Porter,725.0,Cwuozg,Nitro Vanilla Porter (NVP),Nitro Vanilla Porter (NVP),4.7,,,N,IImUD9,N,verified
+72,18.0,British Origin Ales,Brown Porter,802.0,UmJ5Wm,Pecan Porter,Pecan Porter,8.0,,,N,yX6twV,N,verified
+73,18.0,British Origin Ales,Brown Porter,818.0,0K21pW,Porter,Porter,5.6,,5.0,N,nHLlnK,N,verified
+74,18.0,British Origin Ales,Brown Porter,828.0,FMWVLR,Puget Brown Porter,Puget Brown Porter,5.6,,,N,DMU2Kf,N,verified
+75,18.0,British Origin Ales,Brown Porter,922.0,Ieu3Wi,Snowday Porter,Snowday Porter,,,,Y,p1tFbP,N,verified
+76,18.0,British Origin Ales,Brown Porter,970.0,6owRQn,SweetWater Exodus Porter,SweetWater Exodus Porter,,,5.0,N,TMc6H2,N,verified
+77,18.0,British Origin Ales,Brown Porter,1015.0,zsoUNy,Toked Porter,Toked Porter,,,,N,q6vJUK,N,verified
+78,18.0,British Origin Ales,Brown Porter,1052.0,Bk34Go,Vanilla Porter,Vanilla Porter,5.4,,5.0,N,IImUD9,N,verified
+79,19.0,British Origin Ales,Robust Porter,172.0,NgU9h0,Black Shack Porter,Black Shack Porter,5.3,,5.0,N,DifSi4,N,verified
+80,19.0,British Origin Ales,Robust Porter,819.0,aBYXhp,Porter Porter,Porter Porter,7.5,,5.0,N,IImUD9,Y,verified
+81,19.0,British Origin Ales,Robust Porter,973.0,FDSQ5n,SweetWater Mean Joe Bean,SweetWater Mean Joe Bean,8.5,,5.0,N,TMc6H2,N,verified
+82,20.0,British Origin Ales,Sweet or Cream Stout,59.0,HIuMUM,Antwerpen Stout,Antwerpen Stout,8.0,,,N,HaPdSL,N,verified
+83,20.0,British Origin Ales,Sweet or Cream Stout,252.0,qa1QZU,Cappuccino Stout,Cappuccino Stout,8.9,,5.0,N,nLsoQ9,N,verified
+84,20.0,British Origin Ales,Sweet or Cream Stout,301.0,BkSzxg,Cream Ale,Cream Ale,5.9,,,Y,p1tFbP,N,verified
+85,20.0,British Origin Ales,Sweet or Cream Stout,353.0,LVSSPk,Double Latte - Beer Camp Across America,Double Latte - Beer Camp Across America (2014),7.6,2014.0,5.0,N,nHLlnK,Y,verified
+86,20.0,British Origin Ales,Sweet or Cream Stout,495.0,Ia4uJ0,Guinness Milk Stout,Guinness Milk Stout,5.0,,,N,HaPdSL,N,verified
+87,20.0,British Origin Ales,Sweet or Cream Stout,521.0,Oawv0J,Hatchery series #4 Chocolate Milk Stout,Hatchery series #4 Chocolate Milk Stout,5.4,,,N,TMc6H2,N,verified
+88,20.0,British Origin Ales,Sweet or Cream Stout,680.0,qxNOIk,Milk Stout,Milk Stout,5.8,,5.0,N,DifSi4,N,verified
+89,20.0,British Origin Ales,Sweet or Cream Stout,724.0,l4L4RO,Nitro Series: Chocolate Orange Stout,Nitro Series: Chocolate Orange Stout,6.0,,,N,IImUD9,N,verified
+90,20.0,British Origin Ales,Sweet or Cream Stout,915.0,FlmKOv,Smidy,Smidy,5.2,,,N,q6vJUK,N,verified
+91,20.0,British Origin Ales,Sweet or Cream Stout,1080.0,rRe2jl,Whole Lotta Lov,Whole Lotta Lov,5.4,,,N,VEY3Xa,N,verified
+92,20.0,British Origin Ales,Sweet or Cream Stout,1089.0,1B8Hrr,Willettized Imperial Coffee Stout,Willettized Imperial Coffee Stout,12.6,,,N,nLsoQ9,N,verified
+93,21.0,British Origin Ales,Oatmeal Stout,740.0,Jio9R0,Oatmeal Stout,Oatmeal Stout,5.0,,5.0,N,IImUD9,N,verified
+94,21.0,British Origin Ales,Oatmeal Stout,741.0,1HeKZM,Oatmeal Stout - Beer Camp #45,Oatmeal Stout - Beer Camp #45,9.0,,,N,nHLlnK,N,verified
+95,21.0,British Origin Ales,Oatmeal Stout,742.0,qACg0q,Oatmeal Stout ,Oatmeal Stout ,5.5,,,Y,4F7QA9,N,verified
+96,21.0,British Origin Ales,Oatmeal Stout,1006.0,eVgnFV,The Poet,The Poet,5.2,,5.0,N,AqEUBQ,N,verified
+97,22.0,Irish Origin Ales,Irish-Style Red Ale,184.0,oYED15,Blue Ridge Red,Blue Ridge Red,6.3,,,N,nHLlnK,N,verified
+98,22.0,Irish Origin Ales,Irish-Style Red Ale,494.0,c9u7Eo,Guinness Generous Ale,Guinness Generous Ale,5.6,,5.0,N,HaPdSL,N,verified
+99,22.0,Irish Origin Ales,Irish-Style Red Ale,505.0,CD9BLy,Harmon Killerbrew,Harmon Killerbrew,7.6,,5.0,N,DMU2Kf,N,verified
+100,22.0,Irish Origin Ales,Irish-Style Red Ale,587.0,8zibUO,Imperial Red Ale,Imperial Red Ale,7.6,,5.0,N,DMU2Kf,N,verified
+101,22.0,Irish Origin Ales,Irish-Style Red Ale,701.0,Esu28L,Murphy's Law Red Ale,Murphy's Law Red Ale,5.0,,,N,4F7QA9,N,verified
+102,22.0,Irish Origin Ales,Irish-Style Red Ale,850.0,O9XhOw,RIPA,RIPA,5.9,,,N,AqEUBQ,N,verified
+103,22.0,Irish Origin Ales,Irish-Style Red Ale,890.0,VgbSMs,Selkie,Selkie,4.9,,,N,4F7QA9,N,verified
+104,22.0,Irish Origin Ales,Irish-Style Red Ale,893.0,gVuwQ6,Shameless McDale,Shameless McDale,4.8,,5.0,N,941OaA,N,verified
+105,22.0,Irish Origin Ales,Irish-Style Red Ale,916.0,9BJRbZ,Smithwick's Premium Red Ale,Smithwick's Premium Red Ale,4.5,,,N,HaPdSL,N,verified
+106,23.0,Irish Origin Ales,Classic Irish-Style Dry Stout,397.0,35wxef,Extra Stout,Extra Stout,5.3,,,N,VEY3Xa,N,verified
+107,23.0,Irish Origin Ales,Classic Irish-Style Dry Stout,490.0,StkEiv,Guinness Draught,Guinness Draught,4.3,,5.0,N,HaPdSL,N,verified
+108,23.0,Irish Origin Ales,Classic Irish-Style Dry Stout,497.0,JfC6wN,Guinness Red Harvest Stout,Guinness Red Harvest Stout,4.1,,5.0,N,HaPdSL,N,verified
+109,23.0,Irish Origin Ales,Classic Irish-Style Dry Stout,624.0,FNByFy,Knightro,Knightro,4.6,,,N,nHLlnK,N,verified
+110,23.0,Irish Origin Ales,Classic Irish-Style Dry Stout,721.0,YrOqvr,Nitro Irish Stout,Nitro Irish Stout,4.8,,,N,IImUD9,N,verified
+111,23.0,Irish Origin Ales,Classic Irish-Style Dry Stout,853.0,6iwkrE,Robert Beedus Jr,Robert Beedus Jr,,,,N,q6vJUK,N,verified
+112,24.0,Irish Origin Ales,Foreign (Export)-Style Stout,11.0,MgdJep,200th Anniversary Export Stout,200th Anniversary Export Stout,6.0,,,N,HaPdSL,N,verified
+113,24.0,Irish Origin Ales,Foreign (Export)-Style Stout,242.0,dRIuaV,Bulleit Bourbon Ten Fidy,Bulleit Bourbon Ten Fidy,,,,N,q6vJUK,N,verified
+114,24.0,Irish Origin Ales,Foreign (Export)-Style Stout,243.0,5ON8OO,Bulleit Bourbon Ten Fidy,Bulleit Bourbon Ten Fidy (2013),11.0,2013.0,,N,q6vJUK,N,verified
+115,24.0,Irish Origin Ales,Foreign (Export)-Style Stout,491.0,gkSM7N,Guinness Dublin Porter,Guinness Dublin Porter,3.8,,5.0,N,HaPdSL,N,verified
+116,24.0,Irish Origin Ales,Foreign (Export)-Style Stout,493.0,J9xszw,Guinness Foreign Extra,Guinness Foreign Extra,7.5,,5.0,N,HaPdSL,N,verified
+117,24.0,Irish Origin Ales,Foreign (Export)-Style Stout,499.0,unQfZE,Guinness Special Export,Guinness Special Export,8.0,,,N,HaPdSL,N,verified
+118,25.0,North American Origin Ales,American-Style Pale Ale,2.0,zfP2fK,12th Of Never,12th Of Never,5.5,,,N,nLsoQ9,N,verified
+119,25.0,North American Origin Ales,American-Style Pale Ale,25.0,NoNhan,420 Extra Pale Ale,420 Extra Pale Ale,5.4,,5.0,N,TMc6H2,N,verified
+120,25.0,North American Origin Ales,American-Style Pale Ale,41.0,svXHfu,A Little Sumpin' Sumpin',A Little Sumpin' Sumpin',7.5,,5.0,N,nLsoQ9,N,verified
+121,25.0,North American Origin Ales,American-Style Pale Ale,45.0,RK9Po6,Ale 20,Ale 20,5.7,,,N,nHLlnK,N,verified
+122,25.0,North American Origin Ales,American-Style Pale Ale,48.0,DbeLZF,All Colorado Wet Hop Pale Ale,All Colorado Wet Hop Pale Ale,5.8,,,N,q6vJUK,N,verified
+123,25.0,North American Origin Ales,American-Style Pale Ale,55.0,b6nCMj,Anniversary Ale,Anniversary Ale,3.8,,,N,VEY3Xa,N,verified
+124,25.0,North American Origin Ales,American-Style Pale Ale,69.0,lEPIZg,Audition - Pale Ale,Audition - Pale Ale,6.5,,,N,nHLlnK,N,verified
+125,25.0,North American Origin Ales,American-Style Pale Ale,86.0,18Ki63,Barrel Aged Dale's Pale Ale (Makers Mark),Barrel Aged Dale's Pale Ale (Makers Mark),6.5,,,N,q6vJUK,N,verified
+126,25.0,North American Origin Ales,American-Style Pale Ale,96.0,PZL75k,Barrel-Aged Thunder Ann,Barrel-Aged Thunder Ann,,,,Y,p1tFbP,N,verified
+127,25.0,North American Origin Ales,American-Style Pale Ale,196.0,QdPbTF,Born Yesterday,Born Yesterday,7.5,,,N,nLsoQ9,N,verified
+128,25.0,North American Origin Ales,American-Style Pale Ale,256.0,PLnqH7,Celebration Ale 1992,Celebration Ale 1992,,,,N,nHLlnK,N,verified
+129,25.0,North American Origin Ales,American-Style Pale Ale,274.0,Z10a03,Chico King - Beer Camp Across America,Chico King - Beer Camp Across America (2014),6.5,2014.0,5.0,N,nHLlnK,N,verified
+130,25.0,North American Origin Ales,American-Style Pale Ale,283.0,yQqOSf,Citra Pale Ale,Citra Pale Ale,,,,Y,p1tFbP,N,verified
+131,25.0,North American Origin Ales,American-Style Pale Ale,285.0,8pAabO,CitruSinensis,CitruSinensis,7.9,,,Y,nLsoQ9,N,verified
+132,25.0,North American Origin Ales,American-Style Pale Ale,296.0,ehb1eB,Country Pale Ale,Country Pale Ale,5.1,,5.0,N,DifSi4,N,verified
+133,25.0,North American Origin Ales,American-Style Pale Ale,303.0,537zpn,Credits & Debits,Credits & Debits,5.0,,,N,AqEUBQ,N,verified
+134,25.0,North American Origin Ales,American-Style Pale Ale,311.0,iT9pf4,Dale's Pale Ale,Dale's Pale Ale,6.5,,5.0,N,q6vJUK,N,verified
+135,25.0,North American Origin Ales,American-Style Pale Ale,312.0,2ADEYR,Dale's Pale Ale Nitro,Dale's Pale Ale Nitro,6.5,,,N,q6vJUK,N,verified
+136,25.0,North American Origin Ales,American-Style Pale Ale,313.0,JDzrBR,Dales Dry Hop Equinox,Dales Dry Hop Equinox,6.5,,,N,q6vJUK,N,verified
+137,25.0,North American Origin Ales,American-Style Pale Ale,314.0,vXifKs,Dales T45 Dry Hop,Dales T45 Dry Hop,6.5,,,N,q6vJUK,N,verified
+138,25.0,North American Origin Ales,American-Style Pale Ale,315.0,XrRTUJ,Dales T90 Dry Hop,Dales T90 Dry Hop,6.5,,,N,q6vJUK,N,verified
+139,25.0,North American Origin Ales,American-Style Pale Ale,371.0,4GgbWG,Draught-Style Pale Ale,Draught-Style Pale Ale,5.0,,,N,nHLlnK,N,verified
+140,25.0,North American Origin Ales,American-Style Pale Ale,387.0,DGhJbX,Equinox,Equinox,8.4,,,Y,nLsoQ9,N,verified
+141,25.0,North American Origin Ales,American-Style Pale Ale,390.0,TavGRG,ESB - Early Spring Beer,ESB - Early Spring Beer,5.9,,5.0,N,nHLlnK,N,verified
+142,25.0,North American Origin Ales,American-Style Pale Ale,409.0,9Ylplt,Fistful of Hops,Fistful of Hops,6.2,,,N,nHLlnK,N,verified
+143,25.0,North American Origin Ales,American-Style Pale Ale,416.0,3nrJLN,Four Hopsmen - Comet Dry Hopped,Four Hopsmen - Comet Dry Hopped,5.2,,,N,q6vJUK,N,verified
+144,25.0,North American Origin Ales,American-Style Pale Ale,417.0,g7a7Uo,Four Hopsmen - HBC 472,Four Hopsmen - HBC 472,5.2,,,N,q6vJUK,N,verified
+145,25.0,North American Origin Ales,American-Style Pale Ale,418.0,IRIveF,Four Hopsmen - Hop Head Farms Eperimental Dry Hopped,Four Hopsmen - Hop Head Farms Eperimental Dry Hopped,5.2,,,N,q6vJUK,N,verified
+146,25.0,North American Origin Ales,American-Style Pale Ale,419.0,ul1jng,Four Hopsmen - Mandarina Bavaria Dry Hopped,Four Hopsmen - Mandarina Bavaria Dry Hopped,5.2,,,N,q6vJUK,N,verified
+147,25.0,North American Origin Ales,American-Style Pale Ale,448.0,GNtxMV,Fusion 39,Fusion 39,5.5,,,N,nLsoQ9,N,verified
+148,25.0,North American Origin Ales,American-Style Pale Ale,469.0,FocTXx,Goofer Dust,Goofer Dust,6.1,,,Y,q6vJUK,N,verified
+149,25.0,North American Origin Ales,American-Style Pale Ale,482.0,avUZok,Ground Score,Ground Score,7.1,,,N,TMc6H2,N,verified
+150,25.0,North American Origin Ales,American-Style Pale Ale,508.0,eIZS7k,Harvest Ale,Harvest Ale,6.5,,5.0,N,nHLlnK,Y,verified
+151,25.0,North American Origin Ales,American-Style Pale Ale,509.0,GGaceU,Harvest Ale 2007,Harvest Ale 2007,6.7,,5.0,N,nHLlnK,N,verified
+152,25.0,North American Origin Ales,American-Style Pale Ale,547.0,JOxnlJ,Hop Dog Harvest Pale Ale,Hop Dog Harvest Pale Ale,6.2,,8.0,N,yX6twV,N,verified
+153,25.0,North American Origin Ales,American-Style Pale Ale,596.0,gVynTw,India Pale Ale,India Pale Ale,6.8,,,N,nHLlnK,N,verified
+154,25.0,North American Origin Ales,American-Style Pale Ale,616.0,xw3Nti,Karaoke Fail,Karaoke Fail,6.7,,,N,nHLlnK,N,verified
+155,25.0,North American Origin Ales,American-Style Pale Ale,630.0,DwGaaX,Lagunitas Undercover Investigation Shut-Down Ale,Lagunitas Undercover Investigation Shut-Down Ale,9.6,,5.0,N,nLsoQ9,N,verified
+156,25.0,North American Origin Ales,American-Style Pale Ale,634.0,QNucGY,Left Behind,Left Behind,,,,Y,p1tFbP,N,verified
+157,25.0,North American Origin Ales,American-Style Pale Ale,644.0,jshi8D,Little Sumpin’ Wild,Little Sumpin’ Wild,8.74,,5.0,N,nLsoQ9,N,verified
+158,25.0,North American Origin Ales,American-Style Pale Ale,645.0,XDaNfi,Little Wolf,Little Wolf,4.7,,,N,VEY3Xa,N,verified
+159,25.0,North American Origin Ales,American-Style Pale Ale,667.0,dS0wsG,Mango Mosaic Pale Ale,Mango Mosaic Pale Ale,5.5,,,N,IImUD9,N,verified
+160,25.0,North American Origin Ales,American-Style Pale Ale,675.0,2z4qK8,Michigan Awesome Hatter,Michigan Awesome Hatter,5.8,,5.0,N,AqEUBQ,N,verified
+161,25.0,North American Origin Ales,American-Style Pale Ale,695.0,YWt2Ld,Moving To the Country,Moving To the Country,5.0,,,N,TMc6H2,N,verified
+162,25.0,North American Origin Ales,American-Style Pale Ale,710.0,eI5fN2,New Dogtown Pale Ale,New Dogtown Pale Ale,6.2,,5.0,N,nLsoQ9,N,verified
+163,25.0,North American Origin Ales,American-Style Pale Ale,757.0,jChDlj,Old Chico Crystal Wheat,Old Chico Crystal Wheat,4.8,,5.0,N,nHLlnK,N,verified
+164,25.0,North American Origin Ales,American-Style Pale Ale,787.0,fQSwqJ,Pacific Ridge Pale Ale,Pacific Ridge Pale Ale,,,,N,BznahA,N,verified
+165,25.0,North American Origin Ales,American-Style Pale Ale,788.0,rbRRxm,Palé,Palé,7.1,,,N,AqEUBQ,N,verified
+166,25.0,North American Origin Ales,American-Style Pale Ale,789.0,cdkpyx,Pale Ale,Pale Ale,5.6,,5.0,N,nHLlnK,N,verified
+167,25.0,North American Origin Ales,American-Style Pale Ale,790.0,CZn6nT,Pale Ale,Pale Ale,5.6,,,N,yX6twV,N,verified
+168,25.0,North American Origin Ales,American-Style Pale Ale,791.0,bnURKM,Paleooza,Paleooza,4.4,,5.0,N,AqEUBQ,N,verified
+169,25.0,North American Origin Ales,American-Style Pale Ale,796.0,QkHinm,Passion Grass,Passion Grass,5.0,,,N,nLsoQ9,N,verified
+170,25.0,North American Origin Ales,American-Style Pale Ale,797.0,Y9X4cN,Pat-Rye-Ot,Pat-Rye-Ot,5.6,,,N,nHLlnK,N,verified
+171,25.0,North American Origin Ales,American-Style Pale Ale,809.0,0j4t2Z,Pinnacle Peak Pale Ale,Pinnacle Peak Pale Ale,4.2,,,N,DMU2Kf,N,verified
+172,25.0,North American Origin Ales,American-Style Pale Ale,826.0,NQwb75,Puck American Pale Ale,Puck American Pale Ale,5.2,,,Y,p1tFbP,N,verified
+173,25.0,North American Origin Ales,American-Style Pale Ale,898.0,LB8JzL,Sidecar Orange Pale Ale,Sidecar Orange Pale Ale,5.6,,,N,nHLlnK,N,verified
+174,25.0,North American Origin Ales,American-Style Pale Ale,901.0,ULNeg7,Simcoe Pale Ale,Simcoe Pale Ale,5.2,,,Y,p1tFbP,N,verified
+175,25.0,North American Origin Ales,American-Style Pale Ale,920.0,P2rD30,Snow Glare,Snow Glare,6.0,,,N,IImUD9,N,verified
+176,25.0,North American Origin Ales,American-Style Pale Ale,932.0,xXJuyA,Southern Hemisphere Harvest,Southern Hemisphere Harvest,6.7,,1.0,N,nHLlnK,N,verified
+177,25.0,North American Origin Ales,American-Style Pale Ale,947.0,eBelPz,Stone Mill Organic Pale Ale,Stone Mill Organic Pale Ale,5.5,,,N,BznahA,N,verified
+178,25.0,North American Origin Ales,American-Style Pale Ale,963.0,2yXCVa,Sumpin' Easy Ale,Sumpin' Easy Ale,5.7,,,N,nLsoQ9,N,verified
+179,25.0,North American Origin Ales,American-Style Pale Ale,997.0,ej16Dh,The Carhartt Woodsman,The Carhartt Woodsman,4.4,,5.0,N,AqEUBQ,N,verified
+180,25.0,North American Origin Ales,American-Style Pale Ale,1000.0,TFcGop,The Down Low Ale,The Down Low Ale,3.9,,,N,nLsoQ9,N,verified
+181,25.0,North American Origin Ales,American-Style Pale Ale,1011.0,hz4rNs,Thunder Ann,Thunder Ann,5.5,,,N,p1tFbP,N,verified
+182,25.0,North American Origin Ales,American-Style Pale Ale,1019.0,kuAItj,Trademark Pale Ale,Trademark Pale Ale,5.7,,5.0,N,IImUD9,N,verified
+183,25.0,North American Origin Ales,American-Style Pale Ale,1040.0,bf76fr,Twin Peaks,Twin Peaks,5.0,,,N,nHLlnK,N,verified
+184,25.0,North American Origin Ales,American-Style Pale Ale,1051.0,Il48ZU,United in Orange,United in Orange,5.3,,,N,IImUD9,N,verified
+185,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",195.0,HmjnXt,Born Again Yesterday,Born Again Yesterday,7.5,,,N,nLsoQ9,N,verified
+186,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",255.0,KY5gtZ,Celebration Ale,Celebration Ale,6.8,,5.0,N,nHLlnK,N,verified
+187,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",425.0,YaI6zp,Fresh Hop - Mountain Series,Fresh Hop - Mountain Series,6.2,,5.0,N,IImUD9,N,verified
+188,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",443.0,BZGnql,Fusion 26,Fusion 26,6.65,,,N,nLsoQ9,N,verified
+189,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",511.0,x8U1bY,Harvest Fresh Hop IPA - Southern Hemisphere Harvest,Harvest Fresh Hop IPA - Southern Hemisphere Harvest,6.7,,,N,nHLlnK,N,verified
+190,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",517.0,ZSCpkz,Harvest Wet Hop IPA - Northern Hemisphere Harvest,Harvest Wet Hop IPA - Northern Hemisphere Harvest,6.7,,,N,nHLlnK,N,verified
+191,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",546.0,fqgLPD,Hop Dog Fresh Hop Pale,Hop Dog Fresh Hop Pale,5.6,,5.0,N,yX6twV,N,verified
+192,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",551.0,Xmetdp,Hop Hunter IPA,Hop Hunter IPA,6.2,,,N,nHLlnK,N,verified
+193,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",558.0,bn1wGG,Hopivore,Hopivore,5.84,,5.0,N,AqEUBQ,N,verified
+194,26.0,North American Origin Ales,"Fresh ""Wet"" Hop Ale",677.0,RiwjnU,Michigan Wet-Hopped Harvest Ale,Michigan Wet-Hopped Harvest Ale,,,,N,AqEUBQ,N,verified
+195,27.0,North American Origin Ales,Pale American-Belgo-Style Ale,564.0,qpyuqH,Hoppy Seconds,Hoppy Seconds,8.4,,,N,q6vJUK,N,verified
+196,28.0,North American Origin Ales,Dark American-Belgo-Style Ale,65.0,zrqusY,Audition - Dark Ale,Audition - Dark Ale,8.5,,,N,nHLlnK,N,verified
+197,28.0,North American Origin Ales,Dark American-Belgo-Style Ale,201.0,5lW8HD,Bourbon Barrel Aged Maillard's Odyssey,Bourbon Barrel Aged Maillard's Odyssey,,,,N,nHLlnK,N,verified
+198,28.0,North American Origin Ales,Dark American-Belgo-Style Ale,663.0,whHlqc,Maillard's Odyssey - Beer Camp Across America,Maillard's Odyssey - Beer Camp Across America (2014),8.5,2014.0,5.0,N,nHLlnK,N,verified
+199,29.0,North American Origin Ales,American-Style Strong Pale Ale,207.0,IkgmFq,Breckenridge Christmas Ale,Breckenridge Christmas Ale,7.4,,5.0,N,IImUD9,N,verified
+200,29.0,North American Origin Ales,American-Style Strong Pale Ale,212.0,TpiDMC,Brown Shugga',Brown Shugga',9.9,,5.0,N,nLsoQ9,N,verified
+201,29.0,North American Origin Ales,American-Style Strong Pale Ale,257.0,v5a7l8,Celebrator Beer News,Celebrator Beer News,9.3,,,N,nHLlnK,N,verified
+202,29.0,North American Origin Ales,American-Style Strong Pale Ale,832.0,otVuwu,Purebred A.P.A. Citra,Purebred A.P.A. Citra,6.2,,5.0,N,yX6twV,N,verified
+203,29.0,North American Origin Ales,American-Style Strong Pale Ale,1002.0,xlOpbL,The Hairy Eyeball,The Hairy Eyeball,8.8,,5.0,N,nLsoQ9,N,verified
+204,30.0,North American Origin Ales,American-Style India Pale Ale,12.0,ISTT06,2017 Beer Camp,2017 Beer Camp (2017),6.5,2017.0,,N,nHLlnK,N,verified
+205,30.0,North American Origin Ales,American-Style India Pale Ale,27.0,jIKwgZ,420 Strain G13 IPA,420 Strain G13 IPA,6.0,,,N,TMc6H2,N,verified
+206,30.0,North American Origin Ales,American-Style India Pale Ale,34.0,j9cp5e,471 Small Batch IPA,471 Small Batch IPA,9.2,,8.0,N,IImUD9,N,verified
+207,30.0,North American Origin Ales,American-Style India Pale Ale,35.0,5MX880,5 C's IPA,5 C's IPA,6.5,,,N,4F7QA9,N,verified
+208,30.0,North American Origin Ales,American-Style India Pale Ale,56.0,fBZZUJ,Anniversary Ale,Anniversary Ale,5.9,,,N,nHLlnK,N,verified
+209,30.0,North American Origin Ales,American-Style India Pale Ale,57.0,iEMsk8,Anniversary Ale 2007,Anniversary Ale 2007,5.9,,,N,nHLlnK,N,verified
+210,30.0,North American Origin Ales,American-Style India Pale Ale,58.0,ItEVNY,Anniversary Ale 2009,Anniversary Ale 2009,5.9,,,N,nHLlnK,N,verified
+211,30.0,North American Origin Ales,American-Style India Pale Ale,93.0,AZgmir,Barrel-Aged Hoptimum  (Trip in the Woods),Barrel-Aged Hoptimum  (Trip in the Woods),11.5,,,N,nHLlnK,N,verified
+212,30.0,North American Origin Ales,American-Style India Pale Ale,97.0,4A41PO,Barrel-Aged Torpedo Extra IPA,Barrel-Aged Torpedo Extra IPA,8.5,,,N,nHLlnK,N,verified
+213,30.0,North American Origin Ales,American-Style India Pale Ale,100.0,kvklwS,Bayside Black IPA,Bayside Black IPA,7.1,,,N,q6vJUK,N,verified
+214,30.0,North American Origin Ales,American-Style India Pale Ale,110.0,6mTebP,Beer Camp Golden IPA,Beer Camp Golden IPA (2017),6.5,2017.0,,N,nHLlnK,N,verified
+215,30.0,North American Origin Ales,American-Style India Pale Ale,112.0,pGqazY,Beer Camp Tropical IPA,Beer Camp Tropical IPA (2015),6.7,2015.0,,N,nHLlnK,N,verified
+216,30.0,North American Origin Ales,American-Style India Pale Ale,119.0,z8iAm9,Beer Camp: East Meets West IPA,Beer Camp: East Meets West IPA (2017),7.0,2017.0,,N,nHLlnK,N,verified
+217,30.0,North American Origin Ales,American-Style India Pale Ale,125.0,h331gl,Beer Camp: White IPA with Yuzu,Beer Camp: White IPA with Yuzu (2017),7.0,2017.0,,N,nHLlnK,N,verified
+218,30.0,North American Origin Ales,American-Style India Pale Ale,159.0,Rxu5Bd,Bing Bing,Bing Bing,6.8,,,N,VEY3Xa,N,verified
+219,30.0,North American Origin Ales,American-Style India Pale Ale,167.0,kZadFf,Black IPA,Black IPA,6.5,,,Y,4F7QA9,N,verified
+220,30.0,North American Origin Ales,American-Style India Pale Ale,168.0,fyj05b,Black IPA,Black IPA,6.9,,,N,nHLlnK,N,verified
+221,30.0,North American Origin Ales,American-Style India Pale Ale,182.0,bK4vxh,Blue Dream,Blue Dream,6.4,,,N,q6vJUK,N,verified
+222,30.0,North American Origin Ales,American-Style India Pale Ale,194.0,AEFy0R,Boomerang,Boomerang,6.7,,,N,nHLlnK,N,verified
+223,30.0,North American Origin Ales,American-Style India Pale Ale,198.0,Yjd19k,Bottle Rocket IPA,Bottle Rocket IPA,6.5,,,N,4F7QA9,N,verified
+224,30.0,North American Origin Ales,American-Style India Pale Ale,206.0,pZEIiV,Breck IPA,Breck IPA,6.3,,,N,IImUD9,N,verified
+225,30.0,North American Origin Ales,American-Style India Pale Ale,208.0,RcyKuX,Bretthead,Bretthead,6.1,,,N,VEY3Xa,N,verified
+226,30.0,North American Origin Ales,American-Style India Pale Ale,211.0,CRw8Gu,Brown Eyed Buckeye,Brown Eyed Buckeye,8.6,,5.0,N,TMc6H2,N,verified
+227,30.0,North American Origin Ales,American-Style India Pale Ale,282.0,iTZlLw,Citra IPL,Citra IPL,5.2,,,Y,p1tFbP,N,verified
+228,30.0,North American Origin Ales,American-Style India Pale Ale,291.0,h2d5zt,Conehead,Conehead,5.7,,,N,VEY3Xa,N,verified
+229,30.0,North American Origin Ales,American-Style India Pale Ale,324.0,zc3p4y,Dank Tank: Smokey and the Brett,Dank Tank: Smokey and the Brett,7.3,,,N,TMc6H2,N,verified
+230,30.0,North American Origin Ales,American-Style India Pale Ale,340.0,7dkC8e,Deviant Dale’s,Deviant Dale’s,8.0,,5.0,N,q6vJUK,N,verified
+231,30.0,North American Origin Ales,American-Style India Pale Ale,344.0,cOSoch,Dire Wolf,Dire Wolf,6.2,,,N,p1tFbP,N,verified
+232,30.0,North American Origin Ales,American-Style India Pale Ale,348.0,aabOus,DogZilla Black IPA,DogZilla Black IPA,6.9,,3.0,N,yX6twV,N,verified
+233,30.0,North American Origin Ales,American-Style India Pale Ale,372.0,1LvpyW,Drink This IPA,Drink This IPA,6.1,,,N,DMU2Kf,N,verified
+234,30.0,North American Origin Ales,American-Style India Pale Ale,403.0,xqbL8h,Fat Slim,Fat Slim,5.0,,,N,q6vJUK,N,verified
+235,30.0,North American Origin Ales,American-Style India Pale Ale,410.0,ceP1Cs,Five Hop - Experimental IPA,Five Hop - Experimental IPA,5.8,,,N,nHLlnK,N,verified
+236,30.0,North American Origin Ales,American-Style India Pale Ale,412.0,OxvWPv,Floral IPA - Beer Camp #53,Floral IPA - Beer Camp #53,5.9,,,N,nHLlnK,N,verified
+237,30.0,North American Origin Ales,American-Style India Pale Ale,427.0,1FBXjy,Fresh Hop IPA,Fresh Hop IPA,6.4,,,N,nHLlnK,N,verified
+238,30.0,North American Origin Ales,American-Style India Pale Ale,430.0,907FUe,Fugli,Fugli,5.8,,5.0,N,q6vJUK,N,verified
+239,30.0,North American Origin Ales,American-Style India Pale Ale,439.0,HG1dy6,Fusion 21,Fusion 21,4.7,,,N,nLsoQ9,N,verified
+240,30.0,North American Origin Ales,American-Style India Pale Ale,441.0,Cn8hSH,Fusion 23,Fusion 23,7.0,,,N,nLsoQ9,N,verified
+241,30.0,North American Origin Ales,American-Style India Pale Ale,445.0,GXDZpo,Fusion 32,Fusion 32,7.5,,,N,nLsoQ9,N,verified
+242,30.0,North American Origin Ales,American-Style India Pale Ale,450.0,yZruL5,Fusion 48,Fusion 48,8.3,,,N,nLsoQ9,N,verified
+243,30.0,North American Origin Ales,American-Style India Pale Ale,451.0,vLTky5,Fusion 49,Fusion 49,6.5,,,N,nLsoQ9,N,verified
+244,30.0,North American Origin Ales,American-Style India Pale Ale,453.0,7BGyan,Fuzzworthy,Fuzzworthy,5.9,,,N,VEY3Xa,N,verified
+245,30.0,North American Origin Ales,American-Style India Pale Ale,454.0,mUt5nB,G'Afternoon,G'Afternoon,6.0,,,N,q6vJUK,N,verified
+246,30.0,North American Origin Ales,American-Style India Pale Ale,459.0,oLL7QN,German Style IPA,German Style IPA,6.1,,,N,nHLlnK,N,verified
+247,30.0,North American Origin Ales,American-Style India Pale Ale,463.0,jMQlvu,Goin' Coastal,Goin' Coastal,6.1,,,N,TMc6H2,N,verified
+248,30.0,North American Origin Ales,American-Style India Pale Ale,467.0,llmv40,Golden IPA,Golden IPA,5.9,,,N,nHLlnK,N,verified
+249,30.0,North American Origin Ales,American-Style India Pale Ale,478.0,nPSHXY,Green Monsta IPA,Green Monsta IPA,7.3,,5.0,N,DifSi4,N,verified
+250,30.0,North American Origin Ales,American-Style India Pale Ale,481.0,7gKo41,Grizzly Imperial Pale Ale,Grizzly Imperial Pale Ale,8.1,,,N,4F7QA9,N,verified
+251,30.0,North American Origin Ales,American-Style India Pale Ale,496.0,8LowIZ,Guinness Nitro IPA,Guinness Nitro IPA,5.8,,,N,HaPdSL,N,verified
+252,30.0,North American Origin Ales,American-Style India Pale Ale,510.0,YEIMmF,Harvest Brewers Select IPA,Harvest Brewers Select IPA (2016),6.6,2016.0,,N,nHLlnK,N,verified
+253,30.0,North American Origin Ales,American-Style India Pale Ale,512.0,CU1fkx,Harvest Newly Developed Hop IPA (2015),Harvest Newly Developed Hop IPA (2015),6.5,,,N,nHLlnK,N,verified
+254,30.0,North American Origin Ales,American-Style India Pale Ale,513.0,peyS4P,Harvest Single Hop IPA - Equinox Hops,Harvest Single Hop IPA - Equinox Hops,6.5,,5.0,N,nHLlnK,N,verified
+255,30.0,North American Origin Ales,American-Style India Pale Ale,514.0,0oHOZv,Harvest Single Hop IPA - Idaho 7 Varietal,Harvest Single Hop IPA - Idaho 7 Varietal,6.5,,,N,nHLlnK,N,verified
+256,30.0,North American Origin Ales,American-Style India Pale Ale,515.0,zGsXaD,Harvest Single Hop Mandarina Hops,Harvest Single Hop Mandarina Hops,6.5,,,N,nHLlnK,N,verified
+257,30.0,North American Origin Ales,American-Style India Pale Ale,516.0,FK6HtH,Harvest Single Hop Yakima #291,Harvest Single Hop Yakima #291,6.5,,,N,nHLlnK,N,verified
+258,30.0,North American Origin Ales,American-Style India Pale Ale,518.0,Mx9jQm,Harvest Wild Hop IPA - Neomexicanus Varietal,Harvest Wild Hop IPA - Neomexicanus Varietal,6.5,,,N,nHLlnK,N,verified
+259,30.0,North American Origin Ales,American-Style India Pale Ale,522.0,JzAHi3,Hatchery Series #5 - NE Style IPA,Hatchery Series #5 - NE Style IPA,7.5,,,N,TMc6H2,N,verified
+260,30.0,North American Origin Ales,American-Style India Pale Ale,523.0,ygnsjS,Hatchery Series 1 - Mosaic Hop IPA,Hatchery Series 1 - Mosaic Hop IPA,6.4,,,N,TMc6H2,N,verified
+261,30.0,North American Origin Ales,American-Style India Pale Ale,526.0,b601KW,Hazy Little Thing,Hazy Little Thing,6.7,,,N,nHLlnK,N,verified
+262,30.0,North American Origin Ales,American-Style India Pale Ale,539.0,C0Ax0o,Holiday Haze,Holiday Haze,6.5,,,N,nHLlnK,N,verified
+263,30.0,North American Origin Ales,American-Style India Pale Ale,548.0,kVKPX7,Hop Harmony,Hop Harmony,6.7,,5.0,N,nHLlnK,N,verified
+264,30.0,North American Origin Ales,American-Style India Pale Ale,552.0,kQiE9q,Hop Peak,Hop Peak,6.5,,,N,IImUD9,N,verified
+265,30.0,North American Origin Ales,American-Style India Pale Ale,560.0,xcGtHr,Hoppy Anniversary IPA,Hoppy Anniversary IPA,5.9,,,Y,p1tFbP,N,verified
+266,30.0,North American Origin Ales,American-Style India Pale Ale,561.0,x8Bv0f,Hoppy Floppy,Hoppy Floppy,7.5,,,N,q6vJUK,N,verified
+267,30.0,North American Origin Ales,American-Style India Pale Ale,565.0,XFwk42,Hoppy Wheat IPA,Hoppy Wheat IPA,6.2,,,N,nHLlnK,N,verified
+268,30.0,North American Origin Ales,American-Style India Pale Ale,568.0,nOFAoT,Hoptinite,Hoptinite,8.0,,,N,nHLlnK,N,verified
+269,30.0,North American Origin Ales,American-Style India Pale Ale,570.0,ZRujA6,Hotbox Coffee IPA,Hotbox Coffee IPA,7.2,,,N,q6vJUK,N,verified
+270,30.0,North American Origin Ales,American-Style India Pale Ale,577.0,Oobtwc,IceyPA,IceyPA,7.0,,,N,q6vJUK,N,verified
+271,30.0,North American Origin Ales,American-Style India Pale Ale,597.0,3WxXFm,India Pale Ale IPA,India Pale Ale IPA,6.4,,,N,yX6twV,N,verified
+272,30.0,North American Origin Ales,American-Style India Pale Ale,598.0,yEe3T6,Interstate SMASH Express - Calypso,Interstate SMASH Express - Calypso,7.1,,,N,q6vJUK,N,verified
+273,30.0,North American Origin Ales,American-Style India Pale Ale,600.0,si7pxG,IPA,IPA,5.6,,,N,DifSi4,N,verified
+274,30.0,North American Origin Ales,American-Style India Pale Ale,601.0,DiM4QZ,IPA with Rosemary,IPA with Rosemary,,,,N,TMc6H2,N,verified
+275,30.0,North American Origin Ales,American-Style India Pale Ale,613.0,NaTBQp,Juicy Dust,Juicy Dust,6.2,,,N,q6vJUK,N,verified
+276,30.0,North American Origin Ales,American-Style India Pale Ale,621.0,OIKxkJ,Kill Ugly Radio,Kill Ugly Radio,7.8,,,N,nLsoQ9,N,verified
+277,30.0,North American Origin Ales,American-Style India Pale Ale,629.0,iLlMCb,Lagunitas IPA,Lagunitas IPA,6.2,,5.0,N,nLsoQ9,N,verified
+278,30.0,North American Origin Ales,American-Style India Pale Ale,632.0,jZMQtq,Larry Imperial IPA,Larry Imperial IPA,8.5,,5.0,N,DifSi4,N,verified
+279,30.0,North American Origin Ales,American-Style India Pale Ale,636.0,Oklbuw,Leghorn Rye IPA,Leghorn Rye IPA,6.0,,,Y,p1tFbP,N,verified
+280,30.0,North American Origin Ales,American-Style India Pale Ale,640.0,2NsDUk,Light IPA,Light IPA,4.0,,5.0,N,DifSi4,N,verified
+281,30.0,North American Origin Ales,American-Style India Pale Ale,642.0,a29mU4,Little Birdy,Little Birdy,6.9,,,N,VEY3Xa,N,verified
+282,30.0,North American Origin Ales,American-Style India Pale Ale,646.0,DqTrrP,Lolo IPA,Lolo IPA,6.4,,,Y,4F7QA9,N,verified
+283,30.0,North American Origin Ales,American-Style India Pale Ale,649.0,epip51,Long Steam IPA,Long Steam IPA,5.8,,5.0,N,nHLlnK,N,verified
+284,30.0,North American Origin Ales,American-Style India Pale Ale,654.0,eEWCFd,Lucky U IPA,Lucky U IPA,6.2,,5.0,N,IImUD9,N,verified
+285,30.0,North American Origin Ales,American-Style India Pale Ale,655.0,SItgWZ,Lupu Lava Tropical IPA,Lupu Lava Tropical IPA,6.8,,,N,q6vJUK,N,verified
+286,30.0,North American Origin Ales,American-Style India Pale Ale,659.0,baONtD,Mad Hatter IPA,Mad Hatter IPA,7.0,,5.0,N,AqEUBQ,N,verified
+287,30.0,North American Origin Ales,American-Style India Pale Ale,672.0,fnqCGB,Maximus,Maximus,8.2,,5.0,N,nLsoQ9,N,verified
+288,30.0,North American Origin Ales,American-Style India Pale Ale,676.0,TMp47T,Michigan Hatter,Michigan Hatter,4.8,,5.0,N,AqEUBQ,N,verified
+289,30.0,North American Origin Ales,American-Style India Pale Ale,678.0,1j4prL,Mid Winter India Pale Ale,Mid Winter India Pale Ale,,,,N,TMc6H2,N,verified
+290,30.0,North American Origin Ales,American-Style India Pale Ale,697.0,69Yqbc,Mozango,Mozango,7.7,,,N,nLsoQ9,N,verified
+291,30.0,North American Origin Ales,American-Style India Pale Ale,703.0,9XJBp9,Narconaut,Narconaut,6.6,,,N,VEY3Xa,N,verified
+292,30.0,North American Origin Ales,American-Style India Pale Ale,709.0,TPdvZt,Neomixicanus,Neomixicanus,6.5,,,N,nHLlnK,N,verified
+293,30.0,North American Origin Ales,American-Style India Pale Ale,715.0,OXcz6Z,Nice Things IPA,Nice Things IPA,6.4,,,N,p3YrOa,N,verified
+294,30.0,North American Origin Ales,American-Style India Pale Ale,722.0,ZliVSZ,Nitro Lucky U IPA,Nitro Lucky U IPA,5.7,,,N,IImUD9,N,verified
+295,30.0,North American Origin Ales,American-Style India Pale Ale,726.0,TOBHd9,No Middle Ground,No Middle Ground,6.9,,,N,nHLlnK,N,verified
+296,30.0,North American Origin Ales,American-Style India Pale Ale,731.0,OhhDEr,Nooner Session IPA,Nooner Session IPA,4.8,,5.0,N,nHLlnK,N,verified
+297,30.0,North American Origin Ales,American-Style India Pale Ale,733.0,WCKkkd,Now You Know,Now You Know,6.1,,,N,IImUD9,N,verified
+298,30.0,North American Origin Ales,American-Style India Pale Ale,735.0,2EkHBG,NXS,NXS,6.5,,,N,nHLlnK,N,verified
+299,30.0,North American Origin Ales,American-Style India Pale Ale,766.0,qQPhVI,Oskar Blues IPA,Oskar Blues IPA,6.43,,5.0,N,q6vJUK,N,verified
+300,30.0,North American Origin Ales,American-Style India Pale Ale,798.0,AJwGIV,Peach IPA,Peach IPA,5.8,,,N,nHLlnK,N,verified
+301,30.0,North American Origin Ales,American-Style India Pale Ale,814.0,AY6Jg8,Point Defiance IPA,Point Defiance IPA,6.1,,,N,DMU2Kf,N,verified
+302,30.0,North American Origin Ales,American-Style India Pale Ale,834.0,OAko81,R. Prime,R. Prime,6.2,,,N,VEY3Xa,N,verified
+303,30.0,North American Origin Ales,American-Style India Pale Ale,846.0,Lt3xMf,Renee IPA,Renee IPA,,,5.0,N,AqEUBQ,N,verified
+304,30.0,North American Origin Ales,American-Style India Pale Ale,847.0,YVWopx,Return of the Red Eye IPA,Return of the Red Eye IPA,6.5,,,N,nHLlnK,N,verified
+305,30.0,North American Origin Ales,American-Style India Pale Ale,855.0,yBrlNu,Rocket Dog Rye I.P.A,Rocket Dog Rye I.P.A,6.9,,5.0,N,yX6twV,N,verified
+306,30.0,North American Origin Ales,American-Style India Pale Ale,856.0,tuzag8,Rockin Blues IPA,Rockin Blues IPA,,,,N,q6vJUK,N,verified
+307,30.0,North American Origin Ales,American-Style India Pale Ale,866.0,qOKA1F,Ruthless Rye IPA,Ruthless Rye IPA,6.6,,,N,nHLlnK,N,verified
+308,30.0,North American Origin Ales,American-Style India Pale Ale,867.0,f16hLl,Ruthlessly Delicious,Ruthlessly Delicious,6.2,,,N,nLsoQ9,N,verified
+309,30.0,North American Origin Ales,American-Style India Pale Ale,872.0,Y6VFJW,Rye IPA,Rye IPA,6.8,,,N,p3YrOa,N,verified
+310,30.0,North American Origin Ales,American-Style India Pale Ale,888.0,Z4LnaP,Second Helping IPA,Second Helping IPA,7.4,,,N,TMc6H2,N,verified
+311,30.0,North American Origin Ales,American-Style India Pale Ale,896.0,FtZRre,Sidcar Orange IPA,Sidcar Orange IPA,6.8,,,N,nHLlnK,N,verified
+312,30.0,North American Origin Ales,American-Style India Pale Ale,899.0,z71HIM,Sierra Nevada Torpedo Cask,Sierra Nevada Torpedo Cask,7.2,,,N,nHLlnK,N,verified
+313,30.0,North American Origin Ales,American-Style India Pale Ale,904.0,P8KXUd,Single Hop Amarillo IPA,Single Hop Amarillo IPA,6.7,,,N,nHLlnK,N,verified
+314,30.0,North American Origin Ales,American-Style India Pale Ale,905.0,dqKU6w,Single Hop Cascade IPA,Single Hop Cascade IPA,6.3,,,N,nHLlnK,N,verified
+315,30.0,North American Origin Ales,American-Style India Pale Ale,909.0,Mvh5U2,Single Hop Series: Liberty,Single Hop Series: Liberty,5.0,,,Y,p1tFbP,N,verified
+316,30.0,North American Origin Ales,American-Style India Pale Ale,912.0,e0bg5f,Six Rights IPA -  Beer Camp,Six Rights IPA -  Beer Camp,8.0,,,N,nHLlnK,N,verified
+317,30.0,North American Origin Ales,American-Style India Pale Ale,919.0,FxxNhs,Snow Cone IPA,Snow Cone IPA,7.0,,5.0,N,nHLlnK,N,verified
+318,30.0,North American Origin Ales,American-Style India Pale Ale,921.0,LPjakS,Snow Wit,Snow Wit,5.7,,,N,nHLlnK,N,verified
+319,30.0,North American Origin Ales,American-Style India Pale Ale,925.0,fX6odn,Solar Storm - Beer Camp #71,Solar Storm - Beer Camp #71,5.8,,,N,nHLlnK,N,verified
+320,30.0,North American Origin Ales,American-Style India Pale Ale,936.0,8TQNbT,Spinner,Spinner,5.6,,,N,q6vJUK,N,verified
+321,30.0,North American Origin Ales,American-Style India Pale Ale,940.0,sYYgGI,Squeeze Box,Squeeze Box,6.1,,,N,TMc6H2,N,verified
+322,30.0,North American Origin Ales,American-Style India Pale Ale,945.0,xg7BJX,Sticky Icky,Sticky Icky,6.5,,,N,q6vJUK,N,verified
+323,30.0,North American Origin Ales,American-Style India Pale Ale,951.0,ZyZ1g3,Strawberry White Pale Ale,Strawberry White Pale Ale,5.1,,,N,nLsoQ9,N,verified
+324,30.0,North American Origin Ales,American-Style India Pale Ale,972.0,uzOl1k,SweetWater IPA,SweetWater IPA,6.3,,5.0,N,TMc6H2,N,verified
+325,30.0,North American Origin Ales,American-Style India Pale Ale,977.0,XeZfaD,T.L.A. I.P.A.,T.L.A. I.P.A.,5.7,,,N,VEY3Xa,N,verified
+326,30.0,North American Origin Ales,American-Style India Pale Ale,979.0,GbTnYM,Tangerine Space Machine,Tangerine Space Machine,6.8,,,N,AqEUBQ,N,verified
+327,30.0,North American Origin Ales,American-Style India Pale Ale,981.0,YmuNgG,Tasmanian Hatter,Tasmanian Hatter,7.0,,5.0,N,AqEUBQ,N,verified
+328,30.0,North American Origin Ales,American-Style India Pale Ale,983.0,FbD1pJ,Taz IPA,Taz IPA,6.0,,,N,AqEUBQ,N,verified
+329,30.0,North American Origin Ales,American-Style India Pale Ale,1008.0,7GLf2A,The White Buffalo,The White Buffalo,6.0,,,N,q6vJUK,N,verified
+330,30.0,North American Origin Ales,American-Style India Pale Ale,1017.0,JaS6T7,Torpedo Extra IPA,Torpedo Extra IPA,7.2,,5.0,N,nHLlnK,N,verified
+331,30.0,North American Origin Ales,American-Style India Pale Ale,1033.0,eXzIZz,TripleTail,TripleTail,5.5,,,N,TMc6H2,N,verified
+332,30.0,North American Origin Ales,American-Style India Pale Ale,1037.0,KuflHE,Tropical Torpedo,Tropical Torpedo,6.7,,,N,nHLlnK,N,verified
+333,30.0,North American Origin Ales,American-Style India Pale Ale,1059.0,8rc5kA,Wachusetts IPA,Wachusetts IPA,5.6,,5.0,N,DifSi4,N,verified
+334,30.0,North American Origin Ales,American-Style India Pale Ale,1061.0,vxQzSS,Wally,Wally,7.0,,,N,DifSi4,N,verified
+335,30.0,North American Origin Ales,American-Style India Pale Ale,1064.0,YcAgdR,Warrior Bomb,Warrior Bomb,5.0,,,Y,p1tFbP,N,verified
+336,30.0,North American Origin Ales,American-Style India Pale Ale,1074.0,pYXY7M,Whiplash,Whiplash,6.3,,5.0,N,TMc6H2,N,verified
+337,30.0,North American Origin Ales,American-Style India Pale Ale,1078.0,rjJiAx,White IPA - Asheville Beer Week,White IPA - Asheville Beer Week (2014),5.5,2014.0,,N,q6vJUK,Y,verified
+338,30.0,North American Origin Ales,American-Style India Pale Ale,1079.0,JR5uca,White Lightning ,White Lightning ,6.5,,,Y,4F7QA9,N,verified
+339,30.0,North American Origin Ales,American-Style India Pale Ale,1082.0,vkoim1,Wicked Wheat IPA ,Wicked Wheat IPA ,5.6,,,Y,4F7QA9,N,verified
+340,31.0,North American Origin Ales,Imperial or Double India Pale Ale,13.0,v4KRep,20th Anniversary Imperial Hash IPA on Brett,20th Anniversary Imperial Hash IPA on Brett,9.0,,,N,TMc6H2,N,verified
+341,31.0,North American Origin Ales,Imperial or Double India Pale Ale,26.0,pOUbfg,420 Fest,420 Fest,8.0,,,N,TMc6H2,N,verified
+342,31.0,North American Origin Ales,Imperial or Double India Pale Ale,28.0,lWygSS,471 Double IPA - Hull Melon,471 Double IPA - Hull Melon,9.2,,,N,IImUD9,N,verified
+343,31.0,North American Origin Ales,Imperial or Double India Pale Ale,30.0,HZMvCT,471 IPA Barrel Series: Citra,471 IPA Barrel Series: Citra,11.3,,,N,IImUD9,N,verified
+344,31.0,North American Origin Ales,Imperial or Double India Pale Ale,31.0,GysKeq,471 IPA Barrel Series: Eureka!,471 IPA Barrel Series: Eureka!,11.2,,,N,IImUD9,N,verified
+345,31.0,North American Origin Ales,Imperial or Double India Pale Ale,32.0,tw2Iw0,471 IPA. Aggressive Hoppiness,471 IPA. Aggressive Hoppiness,9.2,,,N,IImUD9,Y,verified
+346,31.0,North American Origin Ales,Imperial or Double India Pale Ale,40.0,Au0v9G,A Little Sumpin' Extra,A Little Sumpin' Extra,8.7,,,N,nLsoQ9,N,verified
+347,31.0,North American Origin Ales,Imperial or Double India Pale Ale,49.0,aG4Ie2,Alpha Dog Imperial IPA,Alpha Dog Imperial IPA,8.5,,,N,yX6twV,N,verified
+348,31.0,North American Origin Ales,Imperial or Double India Pale Ale,66.0,BJFSW8,Audition - Double IPA,Audition - Double IPA,8.5,,,N,nHLlnK,N,verified
+349,31.0,North American Origin Ales,Imperial or Double India Pale Ale,83.0,wRkDGh,Barrel Aged 471 IPA. Aggressive Hoppiness,Barrel Aged 471 IPA. Aggressive Hoppiness,9.2,,,N,IImUD9,N,verified
+350,31.0,North American Origin Ales,Imperial or Double India Pale Ale,109.0,7iFx4r,Beer Camp Across America,Beer Camp Across America (2014),8.6,2014.0,,N,nHLlnK,N,verified
+351,31.0,North American Origin Ales,Imperial or Double India Pale Ale,124.0,4jKDXK,Beer Camp: West Coast DIPA,Beer Camp: West Coast DIPA (2017),8.2,2017.0,,N,nHLlnK,N,verified
+352,31.0,North American Origin Ales,Imperial or Double India Pale Ale,160.0,BJymUV,Bitter Oats,Bitter Oats,10.5,,,N,nLsoQ9,N,verified
+353,31.0,North American Origin Ales,Imperial or Double India Pale Ale,269.0,LkfL1Y,Cherry Chocolate Stout,Cherry Chocolate Stout,8.5,,,N,nHLlnK,N,verified
+354,31.0,North American Origin Ales,Imperial or Double India Pale Ale,278.0,EBgR2m,Choice Make Good,Choice Make Good,8.3,,,N,VEY3Xa,N,verified
+355,31.0,North American Origin Ales,Imperial or Double India Pale Ale,316.0,6gFiUn,Dank Tank Border Hopper,Dank Tank Border Hopper,8.6,,,N,TMc6H2,N,verified
+356,31.0,North American Origin Ales,Imperial or Double India Pale Ale,318.0,69tWZj,Dank Tank Ghoulash,Dank Tank Ghoulash,8.5,,5.0,N,TMc6H2,N,verified
+357,31.0,North American Origin Ales,Imperial or Double India Pale Ale,341.0,RDEj6L,Devil Dog Imperial IPA,Devil Dog Imperial IPA,10.8,,,N,yX6twV,N,verified
+358,31.0,North American Origin Ales,Imperial or Double India Pale Ale,342.0,3XBmmp,Devils Double,Devils Double,8.0,,,N,p3YrOa,N,verified
+359,31.0,North American Origin Ales,Imperial or Double India Pale Ale,343.0,kK34fk,Diggler Double IPA,Diggler Double IPA,8.0,,,N,4F7QA9,N,verified
+360,31.0,North American Origin Ales,Imperial or Double India Pale Ale,384.0,PSRi4b,Electric Ray,Electric Ray,8.5,,,N,nHLlnK,N,verified
+361,31.0,North American Origin Ales,Imperial or Double India Pale Ale,393.0,Dn64tp,Experimental Hop Double IPA,Experimental Hop Double IPA,8.0,,,N,nHLlnK,N,verified
+362,31.0,North American Origin Ales,Imperial or Double India Pale Ale,426.0,FVFucy,Fresh Hop Double IPA,Fresh Hop Double IPA,8.0,,,N,nHLlnK,N,verified
+363,31.0,North American Origin Ales,Imperial or Double India Pale Ale,429.0,tDKmD5,Fresh Sticky Nugs,Fresh Sticky Nugs,8.0,,,N,TMc6H2,N,verified
+364,31.0,North American Origin Ales,Imperial or Double India Pale Ale,438.0,hy7HsS,Fusion 20,Fusion 20,9.0,,,N,nLsoQ9,N,verified
+365,31.0,North American Origin Ales,Imperial or Double India Pale Ale,449.0,dTCluj,Fusion 40,Fusion 40,8.5,,,N,nLsoQ9,N,verified
+366,31.0,North American Origin Ales,Imperial or Double India Pale Ale,452.0,b65A4y,Fusion 9,Fusion 9,5.5,,,N,nLsoQ9,N,verified
+367,31.0,North American Origin Ales,Imperial or Double India Pale Ale,455.0,69R1Vd,G'Knight,G'Knight,8.7,,5.0,N,q6vJUK,N,verified
+368,31.0,North American Origin Ales,Imperial or Double India Pale Ale,471.0,CwbQiB,Grand Royal,Grand Royal,8.3,,,N,VEY3Xa,N,verified
+369,31.0,North American Origin Ales,Imperial or Double India Pale Ale,484.0,coUX1m,Gubna,Gubna,10.0,,5.0,N,q6vJUK,N,verified
+370,31.0,North American Origin Ales,Imperial or Double India Pale Ale,485.0,pq9MUi,Gubna Barrel Aged,Gubna Barrel Aged,11.0,,,N,q6vJUK,N,verified
+371,31.0,North American Origin Ales,Imperial or Double India Pale Ale,486.0,2YWln7,Gubna Imperial IPA,Gubna Imperial IPA,10.0,,,N,q6vJUK,N,verified
+372,31.0,North American Origin Ales,Imperial or Double India Pale Ale,545.0,YSLzio,Hop Bullet IPA,Hop Bullet IPA,8.0,,,N,nHLlnK,N,verified
+373,31.0,North American Origin Ales,Imperial or Double India Pale Ale,549.0,7HHwqy,Hop Hash,Hop Hash,7.8,,5.0,N,TMc6H2,N,verified
+374,31.0,North American Origin Ales,Imperial or Double India Pale Ale,555.0,Pni8Jo,Hop Stoopid,Hop Stoopid,8.0,,5.0,N,nLsoQ9,N,verified
+375,31.0,North American Origin Ales,Imperial or Double India Pale Ale,566.0,sAQpBR,Hoptimum,Hoptimum (2018),9.6,2018.0,,N,nHLlnK,N,verified
+376,31.0,North American Origin Ales,Imperial or Double India Pale Ale,567.0,KQDQgO,Hoptimum,Hoptimum,10.4,,5.0,N,nHLlnK,N,verified
+377,31.0,North American Origin Ales,Imperial or Double India Pale Ale,569.0,Z1g2ua,Hoptronix,Hoptronix,9.0,,,N,AqEUBQ,N,verified
+378,31.0,North American Origin Ales,Imperial or Double India Pale Ale,580.0,CtqQJb,Imperial Hatter,Imperial Hatter,9.4,,5.0,N,AqEUBQ,N,verified
+379,31.0,North American Origin Ales,Imperial or Double India Pale Ale,585.0,EpkUho,Imperial Plum IPA,Imperial Plum IPA,9.0,,,N,IImUD9,N,verified
+380,31.0,North American Origin Ales,Imperial or Double India Pale Ale,592.0,xdvDOQ,Imperial White IPA - Brewery Lane Series,Imperial White IPA - Brewery Lane Series,9.0,,,N,IImUD9,N,verified
+381,31.0,North American Origin Ales,Imperial or Double India Pale Ale,611.0,gm9FbA,Johnny Hash - Dank Tank,Johnny Hash - Dank Tank,8.5,,,N,TMc6H2,N,verified
+382,31.0,North American Origin Ales,Imperial or Double India Pale Ale,631.0,QuJNYq,Larry,Larry,7.5,,,N,DifSi4,N,verified
+383,31.0,North American Origin Ales,Imperial or Double India Pale Ale,658.0,c0okIY,Mad Catter,Mad Catter,7.0,,8.0,N,AqEUBQ,N,verified
+384,31.0,North American Origin Ales,Imperial or Double India Pale Ale,660.0,56hSxC,Madonna,Madonna,8.0,,,N,VEY3Xa,N,verified
+385,31.0,North American Origin Ales,Imperial or Double India Pale Ale,696.0,vpoGSw,Moxee-Moron,Moxee-Moron,7.5,,,N,nHLlnK,N,verified
+386,31.0,North American Origin Ales,Imperial or Double India Pale Ale,698.0,aWUHyv,Mozango (Fusion XXXI),Mozango (Fusion XXXI),9.0,,,N,nLsoQ9,N,verified
+387,31.0,North American Origin Ales,Imperial or Double India Pale Ale,736.0,BEFupD,NxS IPA,NxS IPA,9.0,,,N,nHLlnK,N,verified
+388,31.0,North American Origin Ales,Imperial or Double India Pale Ale,739.0,N9aJxO,Oak Aged Mad Hatter India Pale Ale,Oak Aged Mad Hatter India Pale Ale,7.22,,5.0,N,AqEUBQ,N,verified
+389,31.0,North American Origin Ales,Imperial or Double India Pale Ale,763.0,3L21AU,One Hit Wonder Imperial IPA,One Hit Wonder Imperial IPA,,,,N,q6vJUK,N,verified
+390,31.0,North American Origin Ales,Imperial or Double India Pale Ale,807.0,aPMdQj,Pimp My Ride,Pimp My Ride,7.8,,,N,p3YrOa,N,verified
+391,31.0,North American Origin Ales,Imperial or Double India Pale Ale,849.0,bztkAM,Rhizing Bines,Rhizing Bines,8.0,,,N,nHLlnK,Y,verified
+392,31.0,North American Origin Ales,Imperial or Double India Pale Ale,908.0,1S3Le4,Single Hop Mosaic Double IPA,Single Hop Mosaic Double IPA,6.6,,,N,nHLlnK,N,verified
+393,31.0,North American Origin Ales,Imperial or Double India Pale Ale,918.0,xh62VZ,Sneaky Pete,Sneaky Pete,10.0,,6.0,N,yX6twV,N,verified
+394,31.0,North American Origin Ales,Imperial or Double India Pale Ale,953.0,babLje,Sucks,Sucks,8.0,,3.0,N,nLsoQ9,N,verified
+395,31.0,North American Origin Ales,Imperial or Double India Pale Ale,966.0,G8qBXI,Super Cluster,Super Cluster,8.0,,,N,nLsoQ9,N,verified
+396,31.0,North American Origin Ales,Imperial or Double India Pale Ale,996.0,Kktdjp,The Art Of Chaos,The Art Of Chaos,9.0,,,N,AqEUBQ,N,verified
+397,31.0,North American Origin Ales,Imperial or Double India Pale Ale,1007.0,ABoSrf,The Waldos’ Special Ale (2018),The Waldos’ Special Ale (2018),11.3,,,N,nLsoQ9,N,verified
+398,31.0,North American Origin Ales,Imperial or Double India Pale Ale,1060.0,a9reE2,Waldo's Special Ale,Waldo's Special Ale,11.5,,6.0,N,nLsoQ9,N,verified
+399,32.0,North American Origin Ales,American-Style Amber/Red Ale,52.0,qIa0fL,Amber Beer,Amber Beer,,,,N,p3YrOa,N,verified
+400,32.0,North American Origin Ales,American-Style Amber/Red Ale,75.0,nvfMg1,Avalanche Ale,Avalanche Ale,4.4,,5.0,N,IImUD9,N,verified
+401,32.0,North American Origin Ales,American-Style Amber/Red Ale,234.0,hlynwj,Budweiser American Ale,Budweiser American Ale,5.1,,,N,BznahA,N,verified
+402,32.0,North American Origin Ales,American-Style Amber/Red Ale,258.0,lyc9as,Censored (Kronik),Censored (Kronik),6.75,,,N,nLsoQ9,N,verified
+403,32.0,North American Origin Ales,American-Style Amber/Red Ale,259.0,tZkS7X,Censored Imperial Stout,Censored Imperial Stout,9.9,,,N,nLsoQ9,N,verified
+404,32.0,North American Origin Ales,American-Style Amber/Red Ale,260.0,GboTWT,Censored Rich Copper Ale,Censored Rich Copper Ale,6.75,,5.0,N,nLsoQ9,N,verified
+405,32.0,North American Origin Ales,American-Style Amber/Red Ale,411.0,ePh6fw,Flipside Red IPA,Flipside Red IPA,6.2,,5.0,N,nHLlnK,N,verified
+406,32.0,North American Origin Ales,American-Style Amber/Red Ale,428.0,t0iVWe,Fresh Hops of Bel-Air,Fresh Hops of Bel-Air,5.5,,,N,q6vJUK,N,verified
+407,32.0,North American Origin Ales,American-Style Amber/Red Ale,442.0,LVghwn,Fusion 24,Fusion 24,5.7,,,N,nLsoQ9,N,verified
+408,32.0,North American Origin Ales,American-Style Amber/Red Ale,559.0,3neLUw,Hoppy Amber Ale - Mountain Series,Hoppy Amber Ale - Mountain Series,6.4,,,N,IImUD9,N,verified
+409,32.0,North American Origin Ales,American-Style Amber/Red Ale,588.0,htbWwF,Imperial Red Ale,Imperial Red Ale,7.8,,5.0,N,nLsoQ9,N,verified
+410,32.0,North American Origin Ales,American-Style Amber/Red Ale,653.0,CWwxeR,Lucky 13,Lucky 13,8.3,,5.0,N,nLsoQ9,N,verified
+411,32.0,North American Origin Ales,American-Style Amber/Red Ale,833.0,I1L4J0,Quinn's Amber Ale,Quinn's Amber Ale,4.8,,5.0,N,DifSi4,N,verified
+412,32.0,North American Origin Ales,American-Style Amber/Red Ale,839.0,bM2eLl,Red Between the Lines,Red Between the Lines,6.2,,5.0,N,941OaA,N,verified
+413,32.0,North American Origin Ales,American-Style Amber/Red Ale,842.0,GIO3Xe,Red-oric - Beer Camp #65 (Best Of Beer Camp: Imperial Red Ale),Red-oric - Beer Camp #65 (Best Of Beer Camp: Imperial Red Ale),8.0,,,N,nHLlnK,N,verified
+414,32.0,North American Origin Ales,American-Style Amber/Red Ale,848.0,xZCUbm,Revered Red,Revered Red,5.4,,5.0,N,DifSi4,N,verified
+415,32.0,North American Origin Ales,American-Style Amber/Red Ale,865.0,HaN457,Rustiek-Barrel Aged Belgian Amber Ale,Rustiek-Barrel Aged Belgian Amber Ale,9.4,,,N,AqEUBQ,N,verified
+416,32.0,North American Origin Ales,American-Style Amber/Red Ale,878.0,mcvkTZ,Safari Amber,Safari Amber,5.0,,,N,BznahA,N,verified
+417,32.0,North American Origin Ales,American-Style Amber/Red Ale,897.0,lPcmND,SideCar,SideCar,5.6,,5.0,N,nHLlnK,N,verified
+418,32.0,North American Origin Ales,American-Style Amber/Red Ale,965.0,2Bxz64,Sundog,Sundog,4.5,,5.0,N,AqEUBQ,N,verified
+419,32.0,North American Origin Ales,American-Style Amber/Red Ale,995.0,pOk8tL,The 1759,The 1759,9.0,,,N,HaPdSL,N,verified
+420,33.0,North American Origin Ales,Imperial Red Ale,46.0,yn4ODI,Ale Communication,Ale Communication,7.8,,,N,VEY3Xa,N,verified
+421,33.0,North American Origin Ales,Imperial Red Ale,54.0,Ota9wv,Añejo Tequila Barrel Aged Gubna,Añejo Tequila Barrel Aged Gubna,11.0,,,N,q6vJUK,N,verified
+422,33.0,North American Origin Ales,Imperial Red Ale,180.0,IlrJbh,Blood Shot,Blood Shot,8.6,,,N,nHLlnK,N,verified
+423,33.0,North American Origin Ales,Imperial Red Ale,265.0,Ontrer,Chardonnay Barrel G'Knight,Chardonnay Barrel G'Knight,8.7,,,N,q6vJUK,N,verified
+424,33.0,North American Origin Ales,Imperial Red Ale,322.0,DEojxv,Dank Tank Red Hot Mama,Dank Tank Red Hot Mama,8.6,,,N,TMc6H2,N,verified
+425,33.0,North American Origin Ales,Imperial Red Ale,399.0,xjwBeb,Fall Ball Red,Fall Ball Red,8.0,,5.0,N,DMU2Kf,N,verified
+426,33.0,North American Origin Ales,Imperial Red Ale,456.0,CU2xRZ,G'Knight (Breckenridge Whiskey Barrel Aged),G'Knight (Breckenridge Whiskey Barrel Aged),8.7,,,N,q6vJUK,N,verified
+427,33.0,North American Origin Ales,Imperial Red Ale,589.0,meCiGU,Imperial Red Ale - Beer Camp #65,Imperial Red Ale - Beer Camp #65,8.1,,,N,nHLlnK,N,verified
+428,33.0,North American Origin Ales,Imperial Red Ale,662.0,n8itvA,Maillard's Odyssey,Maillard's Odyssey,8.5,,,N,nHLlnK,N,verified
+429,33.0,North American Origin Ales,Imperial Red Ale,854.0,WBe09U,Rock Candy Hoppy Red,Rock Candy Hoppy Red,7.5,,,N,q6vJUK,N,verified
+430,33.0,North American Origin Ales,Imperial Red Ale,1050.0,fWbkCT,Unite Red IPA,Unite Red IPA,,,,Y,p1tFbP,N,verified
+431,33.0,North American Origin Ales,Imperial Red Ale,1096.0,5stK34,Wookie Down,Wookie Down,7.6,,,N,TMc6H2,N,verified
+432,33.0,North American Origin Ales,Imperial Red Ale,1102.0,EqgmWc,Year of the Dog - Release #1,Year of the Dog - Release #1,7.2,,,N,yX6twV,N,verified
+433,34.0,North American Origin Ales,American-Style Barley Wine Ale,23.0,8M5lCq,30th Anniversary - Jack & Ken's Ale,30th Anniversary - Jack & Ken's Ale,10.2,,,N,nHLlnK,Y,verified
+434,34.0,North American Origin Ales,American-Style Barley Wine Ale,92.0,HIwvra,Barrel-Aged Bigfoot (Whiskey Barrels),Barrel-Aged Bigfoot (Whiskey Barrels) (2015),11.9,2015.0,,N,nHLlnK,N,verified
+435,34.0,North American Origin Ales,American-Style Barley Wine Ale,98.0,x7GusT,Batch #2 Barleywine,Batch #2 Barleywine (2015),,2015.0,,N,IImUD9,N,verified
+436,34.0,North American Origin Ales,American-Style Barley Wine Ale,116.0,nxU5Fn,Beer Camp: Dry-Hopped Barleywine-Style Ale,Beer Camp: Dry-Hopped Barleywine-Style Ale (2017),9.4,2017.0,,N,nHLlnK,N,verified
+437,34.0,North American Origin Ales,American-Style Barley Wine Ale,139.0,zqS7ze,Bigfoot,Bigfoot (1997),9.6,1997.0,,N,nHLlnK,N,verified
+438,34.0,North American Origin Ales,American-Style Barley Wine Ale,140.0,ETtkIW,Bigfoot,Bigfoot (1996),9.6,1996.0,,N,nHLlnK,N,verified
+439,34.0,North American Origin Ales,American-Style Barley Wine Ale,141.0,eyYenc,Bigfoot,Bigfoot (1998),9.6,1998.0,,N,nHLlnK,N,verified
+440,34.0,North American Origin Ales,American-Style Barley Wine Ale,142.0,ygAzC9,Bigfoot,Bigfoot (2001),9.6,2001.0,5.0,N,nHLlnK,N,verified
+441,34.0,North American Origin Ales,American-Style Barley Wine Ale,143.0,aztnLa,Bigfoot,Bigfoot (2002),9.6,2002.0,5.0,N,nHLlnK,N,verified
+442,34.0,North American Origin Ales,American-Style Barley Wine Ale,144.0,DJcbV1,Bigfoot,Bigfoot (2003),9.6,2003.0,5.0,N,nHLlnK,N,verified
+443,34.0,North American Origin Ales,American-Style Barley Wine Ale,145.0,pdLPeS,Bigfoot,Bigfoot (2004),9.6,2004.0,5.0,N,nHLlnK,N,verified
+444,34.0,North American Origin Ales,American-Style Barley Wine Ale,146.0,Rx4Dnt,Bigfoot,Bigfoot (2005),9.6,2005.0,5.0,N,nHLlnK,N,verified
+445,34.0,North American Origin Ales,American-Style Barley Wine Ale,147.0,ysyw2P,Bigfoot,Bigfoot (2015),9.6,2015.0,,N,nHLlnK,N,verified
+446,34.0,North American Origin Ales,American-Style Barley Wine Ale,148.0,4sdq0d,Bigfoot,Bigfoot (2007),9.6,2007.0,,N,nHLlnK,N,verified
+447,34.0,North American Origin Ales,American-Style Barley Wine Ale,149.0,1UhodH,Bigfoot,Bigfoot (2017),,2017.0,,N,nHLlnK,N,verified
+448,34.0,North American Origin Ales,American-Style Barley Wine Ale,150.0,IphbdN,Bigfoot,Bigfoot (2006),9.6,2006.0,,N,nHLlnK,N,verified
+449,34.0,North American Origin Ales,American-Style Barley Wine Ale,151.0,8PsCAg,Bigfoot,Bigfoot (2014),9.6,2014.0,,N,nHLlnK,N,verified
+450,34.0,North American Origin Ales,American-Style Barley Wine Ale,152.0,ER2JSs,Bigfoot,Bigfoot (1999),9.6,1999.0,,N,nHLlnK,N,verified
+451,34.0,North American Origin Ales,American-Style Barley Wine Ale,153.0,2CRlqm,Bigfoot,Bigfoot (1994),9.6,1994.0,,N,nHLlnK,N,verified
+452,34.0,North American Origin Ales,American-Style Barley Wine Ale,155.0,9HcWSd,Bigfoot,Bigfoot (2000),9.6,2000.0,,N,nHLlnK,N,verified
+453,34.0,North American Origin Ales,American-Style Barley Wine Ale,156.0,dapUuF,Bigfoot (2016),Bigfoot (2016),9.6,,,N,nHLlnK,N,verified
+454,34.0,North American Origin Ales,American-Style Barley Wine Ale,157.0,AFNvz4,Bigfoot (2018),Bigfoot (2018),9.6,,,N,nHLlnK,N,verified
+455,34.0,North American Origin Ales,American-Style Barley Wine Ale,158.0,0T4pOY,Bigfoot Barrel-Aged,Bigfoot Barrel-Aged,12.2,,,N,nHLlnK,N,verified
+456,34.0,North American Origin Ales,American-Style Barley Wine Ale,392.0,kusLBU,Existential,Existential,11.1,,,N,AqEUBQ,N,verified
+457,34.0,North American Origin Ales,American-Style Barley Wine Ale,437.0,JoGCC1,Fusion 18,Fusion 18,10.0,,,N,nLsoQ9,N,verified
+458,34.0,North American Origin Ales,American-Style Barley Wine Ale,462.0,VFG5pL,GnarlyWine,GnarlyWine,10.6,,5.0,N,nLsoQ9,N,verified
+459,34.0,North American Origin Ales,American-Style Barley Wine Ale,762.0,lFMs56,Old Double Bagger Barleywine,Old Double Bagger Barleywine,13.2,,,N,q6vJUK,N,verified
+460,34.0,North American Origin Ales,American-Style Barley Wine Ale,820.0,bFMDB3,Portsmouth Barleywine,Portsmouth Barleywine,11.0,,8.0,N,4F7QA9,N,verified
+461,34.0,North American Origin Ales,American-Style Barley Wine Ale,969.0,8lmndo,Sweetwater Donkey Punch!,Sweetwater Donkey Punch!,10.2,,,N,TMc6H2,N,verified
+462,34.0,North American Origin Ales,American-Style Barley Wine Ale,1025.0,TxVKov,Trip in the Woods: Barrel Aged Ginger Bigfoot,Trip in the Woods: Barrel Aged Ginger Bigfoot,11.4,,,N,nHLlnK,N,verified
+463,34.0,North American Origin Ales,American-Style Barley Wine Ale,1091.0,4CC8Gf,Winter Haze,Winter Haze,8.5,,2.0,N,941OaA,N,verified
+464,35.0,North American Origin Ales,American-Style Wheat Wine Ale,4.0,UJGpVS,16 So Fine Red Wheat Wine,16 So Fine Red Wheat Wine,11.0,,,N,TMc6H2,N,verified
+465,35.0,North American Origin Ales,American-Style Wheat Wine Ale,805.0,XHB8Tj,Pilgrim's Dole,Pilgrim's Dole,12.0,,8.0,N,AqEUBQ,N,verified
+466,35.0,North American Origin Ales,American-Style Wheat Wine Ale,886.0,WFT0UY,Scare City 4 Imperial Wheat Wine,Scare City 4 Imperial Wheat Wine,9.7,,6.0,N,nLsoQ9,N,verified
+467,35.0,North American Origin Ales,American-Style Wheat Wine Ale,1073.0,Me6YnI,Wheat Wine,Wheat Wine,11.5,,,N,4F7QA9,N,verified
+468,35.0,North American Origin Ales,American-Style Wheat Wine Ale,1101.0,BKi6Ss,Yadig? Berliner Hopfenweissen,Yadig? Berliner Hopfenweissen,4.3,,,N,q6vJUK,N,verified
+469,36.0,North American Origin Ales,Golden or Blonde Ale,61.0,JCo28y,Asian Gold Blonde,Asian Gold Blonde,4.4,,,N,DMU2Kf,N,verified
+470,36.0,North American Origin Ales,Golden or Blonde Ale,76.0,kLnpDN,Bad Luck Blonde,Bad Luck Blonde,6.5,,5.0,N,nHLlnK,N,verified
+471,36.0,North American Origin Ales,Golden or Blonde Ale,115.0,QHCtPE,Beer Camp: Dry Hopped Belgian Golden,Beer Camp: Dry Hopped Belgian Golden (2017),8.0,2017.0,,N,nHLlnK,N,verified
+472,36.0,North American Origin Ales,Golden or Blonde Ale,138.0,pSVIAZ,BFD - Beer For Drinking,BFD - Beer For Drinking,4.8,,,N,nHLlnK,N,verified
+473,36.0,North American Origin Ales,Golden or Blonde Ale,179.0,95tyDm,Blonde Ale,Blonde Ale,,,5.0,N,nHLlnK,N,verified
+474,36.0,North American Origin Ales,Golden or Blonde Ale,286.0,3dsDxX,Clean Sweep,Clean Sweep,3.5,,,N,nHLlnK,N,verified
+475,36.0,North American Origin Ales,Golden or Blonde Ale,345.0,bHDV83,Dirty Blonde Ale,Dirty Blonde Ale,4.5,,,N,4F7QA9,N,verified
+476,36.0,North American Origin Ales,Golden or Blonde Ale,464.0,8qafAu,Golden Ale,Golden Ale,4.5,,,N,HaPdSL,N,verified
+477,36.0,North American Origin Ales,Golden or Blonde Ale,525.0,LnzGvI,Hatchery Series Release #6: Golden Summer Ale,Hatchery Series Release #6: Golden Summer Ale,4.8,,,N,TMc6H2,N,verified
+478,36.0,North American Origin Ales,Golden or Blonde Ale,533.0,4U8cc8,High Sierra FestivAle,High Sierra FestivAle,5.2,,,N,nHLlnK,N,verified
+479,36.0,North American Origin Ales,Golden or Blonde Ale,542.0,afK7hW,Honey Blonde,Honey Blonde,5.2,,,N,DMU2Kf,N,verified
+480,36.0,North American Origin Ales,Golden or Blonde Ale,637.0,3Csw32,Liberty Blonde,Liberty Blonde,4.9,,,Y,p1tFbP,N,verified
+481,36.0,North American Origin Ales,Golden or Blonde Ale,781.0,4KIe0t,Ovila Golden With Pomegranates,Ovila Golden With Pomegranates,8.5,,,N,nHLlnK,N,verified
+482,36.0,North American Origin Ales,Golden or Blonde Ale,801.0,eCmjOc,Pear Champagne,Pear Champagne,5.3,,,Y,p1tFbP,N,verified
+483,36.0,North American Origin Ales,Golden or Blonde Ale,961.0,3Zc0Ez,SummerBright Ale,SummerBright Ale,4.5,,5.0,N,IImUD9,N,verified
+484,36.0,North American Origin Ales,Golden or Blonde Ale,1016.0,lrTDM4,Torikumi,Torikumi,7.5,,,N,TMc6H2,N,verified
+485,36.0,North American Origin Ales,Golden or Blonde Ale,1086.0,kzMoR5,Wild Thang,Wild Thang,5.0,,,N,4F7QA9,N,verified
+486,37.0,North American Origin Ales,American-Style Brown Ale,103.0,ZQkBoF,Bearwalker Barrel Aged Double Maple,Bearwalker Barrel Aged Double Maple,6.0,,,Y,p1tFbP,N,verified
+487,37.0,North American Origin Ales,American-Style Brown Ale,104.0,Nl1CJp,Bearwalker Brown,Bearwalker Brown,,,,N,p1tFbP,N,verified
+488,37.0,North American Origin Ales,American-Style Brown Ale,248.0,zYJxUM,Cabin Fever,Cabin Fever,6.5,,5.0,N,AqEUBQ,N,verified
+489,37.0,North American Origin Ales,American-Style Brown Ale,338.0,ABAHdk,Deuce,Deuce,7.0,,,N,q6vJUK,N,verified
+490,37.0,North American Origin Ales,American-Style Brown Ale,400.0,JW5SJV,Family Values,Family Values,8.5,,,N,nHLlnK,N,verified
+491,37.0,North American Origin Ales,American-Style Brown Ale,436.0,w7z0LS,Fusion 17,Fusion 17,5.5,,,N,nLsoQ9,Y,verified
+492,37.0,North American Origin Ales,American-Style Brown Ale,458.0,9cqNKc,Georgia Brown,Georgia Brown,5.8,,5.0,N,TMc6H2,N,verified
+493,37.0,North American Origin Ales,American-Style Brown Ale,519.0,0s57EN,Hash Brown,Hash Brown,6.2,,,N,TMc6H2,N,verified
+494,37.0,North American Origin Ales,American-Style Brown Ale,581.0,kSrchj,Imperial India Brown Ale,Imperial India Brown Ale,9.2,,,N,4F7QA9,N,verified
+495,37.0,North American Origin Ales,American-Style Brown Ale,599.0,mFO6aU,Into the Woods,Into the Woods,,,,N,AqEUBQ,N,verified
+496,37.0,North American Origin Ales,American-Style Brown Ale,679.0,xrpjYO,Mighty Brown,Mighty Brown,7.5,,5.0,N,IImUD9,Y,verified
+497,37.0,North American Origin Ales,American-Style Brown Ale,693.0,2FgZ04,Mountain Series: Salted Caramel Brown,Mountain Series: Salted Caramel Brown,6.5,,,N,IImUD9,N,verified
+498,37.0,North American Origin Ales,American-Style Brown Ale,734.0,00CxqR,Nut Brown Ale,Nut Brown Ale,5.2,,5.0,N,DifSi4,N,verified
+499,37.0,North American Origin Ales,American-Style Brown Ale,764.0,ZQKG7N,One Nut,One Nut,6.1,,5.0,N,q6vJUK,N,verified
+500,37.0,North American Origin Ales,American-Style Brown Ale,772.0,uXdZle,Ovila Abbey Brown Ale (With Mandarins and Cocoa),Ovila Abbey Brown Ale (With Mandarins and Cocoa),7.0,,,N,nHLlnK,N,verified
+501,37.0,North American Origin Ales,American-Style Brown Ale,876.0,WbvFmE,S Bus Imperial Brown,S Bus Imperial Brown,,,,N,q6vJUK,N,verified
+502,37.0,North American Origin Ales,American-Style Brown Ale,902.0,lsUdvK,Simmer Down Brown,Simmer Down Brown,7.0,,,N,nHLlnK,N,verified
+503,37.0,North American Origin Ales,American-Style Brown Ale,1039.0,isCgs7,Tumbler,Tumbler,5.5,,5.0,N,nHLlnK,N,verified
+504,37.0,North American Origin Ales,American-Style Brown Ale,1049.0,lAM2hZ,Unibrown,Unibrown,7.1,,,N,nHLlnK,N,verified
+505,37.0,North American Origin Ales,American-Style Brown Ale,1084.0,7Yytym,Wilco Tango Foxtrot,Wilco Tango Foxtrot,7.8,,5.0,N,nLsoQ9,N,verified
+506,38.0,North American Origin Ales,Smoke Porter,829.0,EbwOyu,Pulled Porter,Pulled Porter,7.7,,,N,TMc6H2,N,verified
+507,39.0,Hybrid/mixed Beer,Brett Beer,,,,,,,,,,,
+508,40.0,North American Origin Ales,American-Style Sour Ale,73.0,L0eAAB,Aunt Sally,Aunt Sally,5.7,,,N,nLsoQ9,N,verified
+509,40.0,North American Origin Ales,American-Style Sour Ale,185.0,HQ79n0,Blue Sunday,Blue Sunday,7.0,,,N,AqEUBQ,N,verified
+510,40.0,North American Origin Ales,American-Style Sour Ale,271.0,zhzeah,Cherry Jane,Cherry Jane,5.5,,,N,nLsoQ9,N,verified
+511,40.0,North American Origin Ales,American-Style Sour Ale,327.0,0HZF08,Dark Swan,Dark Swan,8.7,,,N,nLsoQ9,N,verified
+512,40.0,North American Origin Ales,American-Style Sour Ale,333.0,MDLWPq,De Achste Hond Peach Sour,De Achste Hond Peach Sour,7.0,,8.0,N,yX6twV,N,verified
+513,40.0,North American Origin Ales,American-Style Sour Ale,420.0,HqKYLu,Four Roses Bourbon Bearwalker Sour,Four Roses Bourbon Bearwalker Sour,,,,Y,p1tFbP,N,verified
+514,40.0,North American Origin Ales,American-Style Sour Ale,422.0,CFiVaj,Four Roses Sour,Four Roses Sour,,,,Y,p1tFbP,N,verified
+515,40.0,North American Origin Ales,American-Style Sour Ale,433.0,whlYbK,Funk Vessel,Funk Vessel,,,,N,AqEUBQ,N,verified
+516,40.0,North American Origin Ales,American-Style Sour Ale,543.0,2VR5QQ,Hop And Sour,Hop And Sour,4.4,,,N,nHLlnK,N,verified
+517,40.0,North American Origin Ales,American-Style Sour Ale,593.0,wXVeJD,Incorrigible,Incorrigible,4.5,,,N,AqEUBQ,N,verified
+518,40.0,North American Origin Ales,American-Style Sour Ale,700.0,etD9Ry,Mungo Berry,Mungo Berry,4.8,,,N,VEY3Xa,N,verified
+519,40.0,North American Origin Ales,American-Style Sour Ale,813.0,L6Lk8r,Plum Jasmine Gose,Plum Jasmine Gose,9.6,,,N,nLsoQ9,N,verified
+520,40.0,North American Origin Ales,American-Style Sour Ale,928.0,zcGmvP,Sour Inc: Honey Ginger,Sour Inc: Honey Ginger,4.5,,,N,AqEUBQ,N,verified
+521,40.0,North American Origin Ales,American-Style Sour Ale,930.0,Tw2gsB,Sour Pineapple,Sour Pineapple,6.1,,,N,nLsoQ9,N,verified
+522,40.0,North American Origin Ales,American-Style Sour Ale,950.0,fDUiV9,Strawberry Moon,Strawberry Moon,4.3,,,N,VEY3Xa,N,verified
+523,40.0,North American Origin Ales,American-Style Sour Ale,957.0,iId6Sg,Summer in Berlin,Summer in Berlin,5.0,,5.0,N,p3YrOa,N,verified
+524,40.0,North American Origin Ales,American-Style Sour Ale,1035.0,cPLFNf,Tropical Lover,Tropical Lover,4.3,,,N,TMc6H2,N,verified
+525,41.0,North American Origin Ales,American-Style Black Ale,162.0,tLwMOd,Black Brew Bae,Black Brew Bae,6.4,,,N,q6vJUK,N,verified
+526,41.0,North American Origin Ales,American-Style Black Ale,166.0,yoGDFl,Black Eye PA,Black Eye PA,7.5,,,N,nHLlnK,N,verified
+527,41.0,North American Origin Ales,American-Style Black Ale,170.0,E6kkPh,Black Mad Hatter India Pale Ale,Black Mad Hatter India Pale Ale,5.56,,5.0,N,AqEUBQ,N,verified
+528,41.0,North American Origin Ales,American-Style Black Ale,177.0,d16niD,Blindfold,Blindfold,7.4,,8.0,N,nHLlnK,N,verified
+529,41.0,North American Origin Ales,American-Style Black Ale,325.0,x3ijRg,Dank Tank: Some Strange II Black IPA,Dank Tank: Some Strange II Black IPA,10.0,,,N,TMc6H2,N,verified
+530,41.0,North American Origin Ales,American-Style Black Ale,339.0,4nRKTH,DevESTATEtion,DevESTATEtion,6.7,,5.0,N,nHLlnK,N,verified
+531,41.0,North American Origin Ales,American-Style Black Ale,541.0,blZIJW,Home Skillet,Home Skillet,5.6,,,N,q6vJUK,N,verified
+532,41.0,North American Origin Ales,American-Style Black Ale,579.0,Wemgbs,Imperial Black IPA,Imperial Black IPA,7.3,,5.0,N,DifSi4,N,verified
+533,41.0,North American Origin Ales,American-Style Black Ale,716.0,sicuOa,Night Time,Night Time,7.9,,5.0,N,nLsoQ9,N,verified
+534,41.0,North American Origin Ales,American-Style Black Ale,939.0,dODEDo,Spruce Beersteen,Spruce Beersteen,6.0,,,Y,p1tFbP,N,verified
+535,42.0,North American Origin Ales,American-Style Stout,5.0,vz5JZ1,1794 The Fergal Project,1794 The Fergal Project,4.5,,,N,DifSi4,N,verified
+536,42.0,North American Origin Ales,American-Style Stout,82.0,bdFoir,Bare Knuckle Stout,Bare Knuckle Stout,,,,N,BznahA,N,verified
+537,42.0,North American Origin Ales,American-Style Stout,122.0,lT9g7O,Beer Camp: Stout of the Union,Beer Camp: Stout of the Union,7.0,,,N,nHLlnK,N,verified
+538,42.0,North American Origin Ales,American-Style Stout,164.0,yxUgyc,Black Cat Stout,Black Cat Stout,5.5,,,N,4F7QA9,N,verified
+539,42.0,North American Origin Ales,American-Style Stout,197.0,NU4qr0,Bosden,Bosden,6.8,,,N,nHLlnK,N,verified
+540,42.0,North American Origin Ales,American-Style Stout,272.0,wIRsU0,Cherry Vanilla Stout,Cherry Vanilla Stout,5.5,,,Y,p1tFbP,N,verified
+541,42.0,North American Origin Ales,American-Style Stout,277.0,x71Neo,Chocolate Stout (Cask Conditioned) Aka Double Chocolate Snowman Stout,Chocolate Stout (Cask Conditioned) Aka Double Chocolate Snowman Stout,,,,Y,p1tFbP,N,verified
+542,42.0,North American Origin Ales,American-Style Stout,281.0,Hh3VFp,Cinnister Stout,Cinnister Stout,5.0,,,N,p3YrOa,N,verified
+543,42.0,North American Origin Ales,American-Style Stout,374.0,hqQhp6,Dry Irish Stout,Dry Irish Stout,4.8,,,N,IImUD9,N,verified
+544,42.0,North American Origin Ales,American-Style Stout,487.0,NamZiK,Guinness 250th Anniversary Stout,Guinness 250th Anniversary Stout,5.0,,5.0,N,HaPdSL,N,verified
+545,42.0,North American Origin Ales,American-Style Stout,492.0,K2qBGW,Guinness Extra Stout,Guinness Extra Stout,5.0,,5.0,N,HaPdSL,N,verified
+546,42.0,North American Origin Ales,American-Style Stout,590.0,INJWpy,Imperial Stout,Imperial Stout,9.9,,5.0,N,nLsoQ9,N,verified
+547,42.0,North American Origin Ales,American-Style Stout,605.0,V9x9qv,Jackalope Coffee Stout,Jackalope Coffee Stout,,,,Y,p1tFbP,N,verified
+548,42.0,North American Origin Ales,American-Style Stout,831.0,EyM4tM,Pumpkin Spice Latte : Nitro Series,Pumpkin Spice Latte : Nitro Series,5.5,,,N,IImUD9,N,verified
+549,42.0,North American Origin Ales,American-Style Stout,883.0,mjwrcO,Satellite Stout,Satellite Stout,5.5,,,N,p3YrOa,N,verified
+550,42.0,North American Origin Ales,American-Style Stout,923.0,14UQ4N,Snowman Stout,Snowman Stout,5.2,,,Y,p1tFbP,N,verified
+551,42.0,North American Origin Ales,American-Style Stout,949.0,rHCSHp,Stout,Stout,5.8,,5.0,N,nHLlnK,N,verified
+552,42.0,North American Origin Ales,American-Style Stout,952.0,L2Nd1C,Stryker Stout,Stryker Stout,,,5.0,N,DMU2Kf,N,verified
+553,42.0,North American Origin Ales,American-Style Stout,980.0,HptKyQ,Tannakin,Tannakin,6.2,,,N,p1tFbP,N,verified
+554,42.0,North American Origin Ales,American-Style Stout,1012.0,Pb4Zwl,Thunder Stout,Thunder Stout,4.95,,,N,IImUD9,N,verified
+555,42.0,North American Origin Ales,American-Style Stout,1054.0,8ve3vf,Velvet Elvis Stout,Velvet Elvis Stout,,,,N,q6vJUK,N,verified
+556,42.0,North American Origin Ales,American-Style Stout,1075.0,HL52ir,Whiskey Barrel Snowman Stout,Whiskey Barrel Snowman Stout,5.2,,,Y,p1tFbP,N,verified
+557,43.0,North American Origin Ales,American-Style Imperial Stout,21.0,0KEzfx,30th Anniversary - Fritz and Ken's Ale,30th Anniversary - Fritz and Ken's Ale,9.2,,,N,nHLlnK,Y,verified
+558,43.0,North American Origin Ales,American-Style Imperial Stout,87.0,8SiLJi,Barrel Aged Imperial Cherry Stout,Barrel Aged Imperial Cherry Stout,9.5,,,N,IImUD9,N,verified
+559,43.0,North American Origin Ales,American-Style Imperial Stout,89.0,hO6U5X,Barrel Aged Narwhal,Barrel Aged Narwhal,12.9,,,N,nHLlnK,N,verified
+560,43.0,North American Origin Ales,American-Style Imperial Stout,95.0,Ydp0k0,Barrel-Aged Ten Fidy,Barrel-Aged Ten Fidy,12.9,,,N,q6vJUK,N,verified
+561,43.0,North American Origin Ales,American-Style Imperial Stout,199.0,yORSh7,Bourbon Barrel Aged Imperial Stout,Bourbon Barrel Aged Imperial Stout,11.2,,,N,TMc6H2,N,verified
+562,43.0,North American Origin Ales,American-Style Imperial Stout,200.0,giziAd,Bourbon Barrel Aged Imperial Stout With Coffee,Bourbon Barrel Aged Imperial Stout With Coffee,11.2,,,N,TMc6H2,N,verified
+563,43.0,North American Origin Ales,American-Style Imperial Stout,202.0,t28a6A,Brandy Barrel-Aged Ten Fidy,Brandy Barrel-Aged Ten Fidy,10.5,,,N,q6vJUK,N,verified
+564,43.0,North American Origin Ales,American-Style Imperial Stout,275.0,dnUKxu,Chocolate Chili Stout - High Altitude Series,Chocolate Chili Stout - High Altitude Series,8.8,,,N,nHLlnK,N,verified
+565,43.0,North American Origin Ales,American-Style Imperial Stout,320.0,ARoWVg,Dank Tank Old Man Johnson's Farm,Dank Tank Old Man Johnson's Farm,9.6,,,N,TMc6H2,N,verified
+566,43.0,North American Origin Ales,American-Style Imperial Stout,354.0,WHQisc,Dragon's Milk,Dragon's Milk,11.0,,8.0,N,AqEUBQ,N,verified
+567,43.0,North American Origin Ales,American-Style Imperial Stout,355.0,ZDbYzs,Dragon's Milk Reserve Coconut Rum,Dragon's Milk Reserve Coconut Rum,11.0,,,N,AqEUBQ,N,verified
+568,43.0,North American Origin Ales,American-Style Imperial Stout,356.0,uhfEWi,Dragon's Milk Reserve Mexican Spice Cake,Dragon's Milk Reserve Mexican Spice Cake,11.0,,,N,AqEUBQ,N,verified
+569,43.0,North American Origin Ales,American-Style Imperial Stout,357.0,Vuhegf,Dragon's Milk Reserve Triple-Mashed,Dragon's Milk Reserve Triple-Mashed,11.0,,,N,AqEUBQ,N,verified
+570,43.0,North American Origin Ales,American-Style Imperial Stout,358.0,RXEBYd,Dragon's Milk Reserve Vanilla Chai,Dragon's Milk Reserve Vanilla Chai,11.0,,,N,AqEUBQ,N,verified
+571,43.0,North American Origin Ales,American-Style Imperial Stout,359.0,HHG2Nn,Dragon's Milk Reserve with Coffee And Chocolate,Dragon's Milk Reserve with Coffee And Chocolate,11.0,,,N,AqEUBQ,N,verified
+572,43.0,North American Origin Ales,American-Style Imperial Stout,360.0,ndgIxK,Dragon's Milk Reserve with S'mores,Dragon's Milk Reserve with S'mores,11.0,,,N,AqEUBQ,N,verified
+573,43.0,North American Origin Ales,American-Style Imperial Stout,361.0,2wvRmF,Dragon's Milk Reserve with Toasted Chilies,Dragon's Milk Reserve with Toasted Chilies,11.0,,,N,AqEUBQ,N,verified
+574,43.0,North American Origin Ales,American-Style Imperial Stout,362.0,BnYgKN,Dragon's Milk Reserve with Vanilla Chai,Dragon's Milk Reserve with Vanilla Chai,11.0,,,N,AqEUBQ,N,verified
+575,43.0,North American Origin Ales,American-Style Imperial Stout,363.0,IpcSsv,Dragon's Milk Reserve: Brewer's Select,Dragon's Milk Reserve: Brewer's Select,12.0,,,N,AqEUBQ,N,verified
+576,43.0,North American Origin Ales,American-Style Imperial Stout,364.0,ZJJ8yY,Dragon's Milk Reserve: Cherry Chocolate,Dragon's Milk Reserve: Cherry Chocolate,11.0,,,N,AqEUBQ,N,verified
+577,43.0,North American Origin Ales,American-Style Imperial Stout,365.0,8lo5KQ,Dragon's Milk Reserve: Mexican Spice Cake,Dragon's Milk Reserve: Mexican Spice Cake,11.0,,,N,AqEUBQ,N,verified
+578,43.0,North American Origin Ales,American-Style Imperial Stout,367.0,fMn3Hq,Dragon's Milk Reserve: Salted Caramel,Dragon's Milk Reserve: Salted Caramel,11.0,,,N,AqEUBQ,N,verified
+579,43.0,North American Origin Ales,American-Style Imperial Stout,369.0,3tlrAU,Dragon’s Milk Reserve: Banana Coconut,Dragon’s Milk Reserve: Banana Coconut,11.0,,,N,AqEUBQ,N,verified
+580,43.0,North American Origin Ales,American-Style Imperial Stout,370.0,UTh8Gm,Dragon’s Milk Reserve: Mocha Mint,Dragon’s Milk Reserve: Mocha Mint,11.0,,,N,AqEUBQ,N,verified
+581,43.0,North American Origin Ales,American-Style Imperial Stout,408.0,ttJysx,Filthy Pumpkin,Filthy Pumpkin,7.75,,,N,AqEUBQ,N,verified
+582,43.0,North American Origin Ales,American-Style Imperial Stout,502.0,4BzAQE,Happy Ending,Happy Ending (2014),9.0,2014.0,,N,TMc6H2,N,verified
+583,43.0,North American Origin Ales,American-Style Imperial Stout,503.0,Hb6O3U,Happy Ending,Happy Ending,9.0,,5.0,N,TMc6H2,N,verified
+584,43.0,North American Origin Ales,American-Style Imperial Stout,534.0,IDxKzR,High West-ified Imperial Coffee Stout,High West-ified Imperial Coffee Stout,12.2,,,N,nLsoQ9,N,verified
+585,43.0,North American Origin Ales,American-Style Imperial Stout,591.0,oC1Ux4,Imperial Stout (Fudge And Sickle),Imperial Stout (Fudge And Sickle),9.9,,,N,nLsoQ9,N,verified
+586,43.0,North American Origin Ales,American-Style Imperial Stout,606.0,MFgb7Y,Javanilla Ten FIDY,Javanilla Ten FIDY,10.5,,,N,q6vJUK,N,verified
+587,43.0,North American Origin Ales,American-Style Imperial Stout,617.0,dNnIWw,Kate The Great Russian Imperial Stout,Kate The Great Russian Imperial Stout,9.5,,,N,4F7QA9,N,verified
+588,43.0,North American Origin Ales,American-Style Imperial Stout,704.0,Rg6aeS,Narwhal,Narwhal,10.2,,6.0,N,nHLlnK,N,verified
+589,43.0,North American Origin Ales,American-Style Imperial Stout,705.0,9Qr0BU,Narwhal Tawny Port Barrel Aged,Narwhal Tawny Port Barrel Aged,11.4,,,N,nHLlnK,N,verified
+590,43.0,North American Origin Ales,American-Style Imperial Stout,717.0,qVUNwf,Night Tripper,Night Tripper,10.8,,5.0,N,AqEUBQ,N,verified
+591,43.0,North American Origin Ales,American-Style Imperial Stout,718.0,pDZET2,Night Tripper (2011),Night Tripper (2011),10.8,,5.0,N,AqEUBQ,N,verified
+592,43.0,North American Origin Ales,American-Style Imperial Stout,719.0,LOVCKl,Night Tripper Barrel Aged,Night Tripper Barrel Aged,10.8,,,N,AqEUBQ,N,verified
+593,43.0,North American Origin Ales,American-Style Imperial Stout,720.0,B0vbr1,Night Wish,Night Wish,10.5,,,N,AqEUBQ,N,verified
+594,43.0,North American Origin Ales,American-Style Imperial Stout,823.0,RDSydO,Prince Myshkin,Prince Myshkin,9.0,,,N,p3YrOa,N,verified
+595,43.0,North American Origin Ales,American-Style Imperial Stout,861.0,WFjpOp,Royal Impy Stout,Royal Impy Stout,,,,N,4F7QA9,N,verified
+596,43.0,North American Origin Ales,American-Style Imperial Stout,862.0,7faCP2,Rum Barrel-Aged Ten Fidy,Rum Barrel-Aged Ten Fidy,14.7,,,N,q6vJUK,N,verified
+597,43.0,North American Origin Ales,American-Style Imperial Stout,910.0,OH98hq,Sinner's Son,Sinner's Son,12.4,,,N,TMc6H2,N,verified
+598,43.0,North American Origin Ales,American-Style Imperial Stout,984.0,Rl3Yy9,Ten FIDY,Ten FIDY (2014),10.5,2014.0,,N,q6vJUK,N,verified
+599,43.0,North American Origin Ales,American-Style Imperial Stout,985.0,44mN7a,Ten FIDY,Ten FIDY (2015),10.5,2015.0,,N,q6vJUK,N,verified
+600,43.0,North American Origin Ales,American-Style Imperial Stout,986.0,x6bRxw,Ten FIDY,Ten FIDY,10.5,,5.0,N,q6vJUK,N,verified
+601,43.0,North American Origin Ales,American-Style Imperial Stout,988.0,KVcu4B,Ten Fidy - Bourbon Barrel Aged,Ten Fidy - Bourbon Barrel Aged,12.9,,,N,q6vJUK,N,verified
+602,43.0,North American Origin Ales,American-Style Imperial Stout,989.0,oRKnzw,Ten Fidy - Bulleit Bourbon Barrel Aged,Ten Fidy - Bulleit Bourbon Barrel Aged,11.0,,,N,q6vJUK,N,verified
+603,43.0,North American Origin Ales,American-Style Imperial Stout,990.0,6DAt6F,Ten FIDY Stranahans Bourbon Barrel Aged,Ten FIDY Stranahans Bourbon Barrel Aged,10.5,,,N,q6vJUK,N,verified
+604,43.0,North American Origin Ales,American-Style Imperial Stout,998.0,vIhSst,The Dogfather,The Dogfather,10.0,,,N,yX6twV,N,verified
+605,43.0,North American Origin Ales,American-Style Imperial Stout,1021.0,lPKfmK,Trip In The Woods Barrel Aged Narwhal w/Red & Black Currents,Trip In The Woods Barrel Aged Narwhal w/Red & Black Currents,9.8,,,N,nHLlnK,N,verified
+606,43.0,North American Origin Ales,American-Style Imperial Stout,1026.0,JK8eXb,Trip In the Woods: Cocoa Coconut Narwhal,Trip In the Woods: Cocoa Coconut Narwhal,11.8,,,N,nHLlnK,N,verified
+607,43.0,North American Origin Ales,American-Style Imperial Stout,1034.0,qPgNWv,Tripper Noche,Tripper Noche,12.1,,,N,AqEUBQ,N,verified
+608,43.0,North American Origin Ales,American-Style Imperial Stout,1087.0,5pJqvf,Willett Bourbon Barrel Aged Imperial Stout,Willett Bourbon Barrel Aged Imperial Stout,11.5,,,N,nLsoQ9,N,verified
+609,43.0,North American Origin Ales,American-Style Imperial Stout,1088.0,9LnbQj,Willettized Coffee Stout,Willettized Coffee Stout,11.7,,,N,nLsoQ9,N,verified
+610,44.0,North American Origin Ales,Specialty Stouts,38.0,MqTIG4,72 Imperial,72 Imperial,7.2,,,N,IImUD9,N,verified
+611,44.0,North American Origin Ales,Specialty Stouts,205.0,KuiKeS,Breakfast At Chicos,Breakfast At Chicos,7.5,,,N,nHLlnK,N,verified
+612,44.0,North American Origin Ales,Specialty Stouts,288.0,mXym9s,Coffee Stout,Coffee Stout,6.2,,,N,nHLlnK,N,verified
+613,44.0,North American Origin Ales,Specialty Stouts,346.0,XWveu5,Dock Street Walker,Dock Street Walker,,,,N,p3YrOa,N,verified
+614,44.0,North American Origin Ales,Specialty Stouts,713.0,Bl8SsD,New Holland Dragon's Milk (Bourbon Barrel Stout),New Holland Dragon's Milk (Bourbon Barrel Stout),,,,N,AqEUBQ,N,verified
+615,44.0,North American Origin Ales,Specialty Stouts,835.0,otkATx,Rain Check,Rain Check,,,,N,nHLlnK,N,verified
+616,44.0,North American Origin Ales,Specialty Stouts,929.0,nbVcip,Sour Inc: Sour Stout With Cherries,Sour Inc: Sour Stout With Cherries,6.7,,,N,AqEUBQ,N,verified
+617,44.0,North American Origin Ales,Specialty Stouts,987.0,aSdzxF,Ten FIDY (2016),Ten FIDY (2016),10.5,,,N,q6vJUK,N,verified
+618,45.0,German Origin Ales,German-Style Kölsch / Köln-Style Kölsch,298.0,C7bzqV,Cranberry Kolsch,Cranberry Kolsch,5.0,,,N,p3YrOa,N,verified
+619,45.0,German Origin Ales,German-Style Kölsch / Köln-Style Kölsch,431.0,PsFAwd,Full Circle,Full Circle,4.9,,5.0,N,AqEUBQ,N,verified
+620,45.0,German Origin Ales,German-Style Kölsch / Köln-Style Kölsch,625.0,vuZYco,Kolsch,Kolsch,5.0,,,N,nHLlnK,N,verified
+621,45.0,German Origin Ales,German-Style Kölsch / Köln-Style Kölsch,626.0,wkaQ3k,Kolsch Style Ale - Mountain Series,Kolsch Style Ale - Mountain Series,,,,N,IImUD9,N,verified
+622,45.0,German Origin Ales,German-Style Kölsch / Köln-Style Kölsch,673.0,RVXI4q,McKercher's Keller Kolsch,McKercher's Keller Kolsch,5.2,,,N,q6vJUK,N,verified
+623,46.0,German Origin Ales,Berliner-Style Weisse (Wheat),117.0,2avhYf,Beer Camp: Dry-Hopped Berliner-Style Weisse,Beer Camp: Dry-Hopped Berliner-Style Weisse (2017),4.2,2017.0,,N,nHLlnK,N,verified
+624,46.0,German Origin Ales,Berliner-Style Weisse (Wheat),136.0,O3nY32,Bernie Weisse,Bernie Weisse,3.2,,,N,VEY3Xa,N,verified
+625,46.0,German Origin Ales,Berliner-Style Weisse (Wheat),284.0,tMseDR,Citrus And Vanilla Berlinerweisse,Citrus And Vanilla Berlinerweisse,4.7,,,N,4F7QA9,N,verified
+626,46.0,German Origin Ales,Berliner-Style Weisse (Wheat),610.0,KcLuc7,Johnny Berliner,Johnny Berliner,4.0,,5.0,N,p3YrOa,N,verified
+627,47.0,German Origin Ales,Leipzig-Style Gose,254.0,04k0TG,Casper The Friendly Gose,Casper The Friendly Gose,5.0,,,N,p1tFbP,N,verified
+628,47.0,German Origin Ales,Leipzig-Style Gose,531.0,DsrVwL,Hibiscus Strawberry Gose,Hibiscus Strawberry Gose,4.0,,,Y,p1tFbP,N,verified
+629,47.0,German Origin Ales,Leipzig-Style Gose,812.0,7aZN1V,Plum Gose,Plum Gose,4.5,,,N,IImUD9,N,verified
+630,47.0,German Origin Ales,Leipzig-Style Gose,927.0,2ZwqMd,Sour Inc: Apple Rhubarb,Sour Inc: Apple Rhubarb,4.5,,,N,AqEUBQ,N,verified
+631,47.0,German Origin Ales,Leipzig-Style Gose,943.0,oqsjeJ,Steady As She Gose,Steady As She Gose,5.7,,,N,nHLlnK,N,verified
+632,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,204.0,hImGQV,Braupakt,Braupakt,6.0,,,N,nHLlnK,N,verified
+633,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,350.0,CMvItN,Doppel Weizen,Doppel Weizen,8.5,,5.0,N,nLsoQ9,N,verified
+634,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,528.0,QFOApS,Hefe Proper Ale,Hefe Proper Ale,4.0,,5.0,N,IImUD9,Y,verified
+635,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,529.0,5LHS1h,Hefeweizen,Hefeweizen,4.2,,,Y,p1tFbP,N,verified
+636,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,530.0,zD2FYX,Hefeweizen,Hefeweizen,4.0,,,Y,4F7QA9,N,verified
+637,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,619.0,JVv3qI,Kellerweis,Kellerweis,4.8,,5.0,N,nHLlnK,N,verified
+638,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,651.0,r1uQvZ,Lovebird Wheat,Lovebird Wheat,4.4,,9.0,N,p1tFbP,N,verified
+639,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,942.0,onllb0,Station 3,Station 3,5.7,,,N,q6vJUK,N,verified
+640,48.0,German Origin Ales,South German-Style Hefeweizen / Hefeweissbier,1066.0,6jvc3G,Waterkeeper,Waterkeeper,6.0,,9.0,N,TMc6H2,N,verified
+641,49.0,German Origin Ales,South German-Style Kristall Weizen / Kristall Weissbier,,,,,,,,,,,
+642,50.0,German Origin Ales,German-Style Leichtes Weizen / Weissbier,,,,,,,,,,,
+643,51.0,German Origin Ales,South German-Style Bernsteinfarbenes Weizen / Weissbier,,,,,,,,,,,
+644,52.0,German Origin Ales,South German-Style Dunkel Weizen / Dunkel Weissbier,81.0,kbyHKb,Banana Stand,Banana Stand,,,,Y,p1tFbP,N,verified
+645,52.0,German Origin Ales,South German-Style Dunkel Weizen / Dunkel Weissbier,118.0,eueVi6,Beer Camp: Dunkle Weisse,Beer Camp: Dunkle Weisse (2017),5.7,2017.0,,N,nHLlnK,N,verified
+646,52.0,German Origin Ales,South German-Style Dunkel Weizen / Dunkel Weissbier,378.0,vzcxNZ,Dunkelweizen,Dunkelweizen,5.5,,,N,nHLlnK,N,verified
+647,52.0,German Origin Ales,South German-Style Dunkel Weizen / Dunkel Weissbier,607.0,LIY58Q,Jazz Honkey Donkey-Weizen,Jazz Honkey Donkey-Weizen,,,,Y,p1tFbP,N,verified
+648,52.0,German Origin Ales,South German-Style Dunkel Weizen / Dunkel Weissbier,1028.0,ep9tZr,Trip In the Woods: Rye Dunkelweizen,Trip In the Woods: Rye Dunkelweizen,9.6,,,N,nHLlnK,N,verified
+649,52.0,German Origin Ales,South German-Style Dunkel Weizen / Dunkel Weissbier,1097.0,eI4NgQ,Work,Work (2013),,2013.0,,N,IImUD9,N,verified
+650,53.0,German Origin Ales,South German-Style Weizenbock / Weissbock,90.0,zLqnaW,Barrel Aged Nuovo Record,Barrel Aged Nuovo Record,13.5,,,N,AqEUBQ,N,verified
+651,53.0,German Origin Ales,South German-Style Weizenbock / Weissbock,99.0,JzR6cK,Bavarian-Styled Doppel Weizen,Bavarian-Styled Doppel Weizen,9.0,,,N,nLsoQ9,N,verified
+652,53.0,German Origin Ales,South German-Style Weizenbock / Weissbock,171.0,ja4TBb,Black Mamba,Black Mamba,6.0,,,N,q6vJUK,N,verified
+653,53.0,German Origin Ales,South German-Style Weizenbock / Weissbock,379.0,hKT9uI,Dunkelweizen Bock,Dunkelweizen Bock,7.2,,,N,nHLlnK,N,verified
+654,53.0,German Origin Ales,South German-Style Weizenbock / Weissbock,1067.0,l7irOy,Weizenbock - Beer Camp #37,Weizenbock - Beer Camp #37,6.8,,,N,nHLlnK,N,verified
+655,54.0,German Origin Ales,Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles),,,,,,,,,,,
+656,55.0,German Origin Ales,German-Style Altbier,50.0,hYaduh,Alt Route - Beer Camp Across America,Alt Route - Beer Camp Across America (2014),6.6,2014.0,5.0,N,nHLlnK,N,verified
+657,55.0,German Origin Ales,German-Style Altbier,51.0,5TQX99,ALTitude,ALTitude,,,,N,q6vJUK,N,verified
+658,55.0,German Origin Ales,German-Style Altbier,62.0,uHEs7N,Audition - Altbier,Audition - Altbier,6.6,,,N,nHLlnK,N,verified
+659,55.0,German Origin Ales,German-Style Altbier,349.0,gEUoCZ,Doppel Sticky,Doppel Sticky,7.7,,6.0,N,nLsoQ9,N,verified
+660,56.0,German Origin Ales,Kellerbier (Cellar beer) or Zwickelbier - Ale,618.0,Lo0Ybu,Keller,Keller,4.9,,,N,VEY3Xa,N,verified
+661,57.0,Belgian And French Origin Ales,Belgian-Style Flanders Oud Bruin or Oud Red Ales,17.0,e9sjBk,21st Anniversary,21st Anniversary,7.9,,,N,TMc6H2,N,verified
+662,57.0,Belgian And French Origin Ales,Belgian-Style Flanders Oud Bruin or Oud Red Ales,308.0,nF8WBb,Cuvée Mam'zelle,Cuvée Mam'zelle,8.5,,,N,uM2jeT,N,verified
+663,57.0,Belgian And French Origin Ales,Belgian-Style Flanders Oud Bruin or Oud Red Ales,937.0,zJigjF,Spinnerbait,Spinnerbait,6.0,,,N,TMc6H2,N,verified
+664,58.0,Belgian And French Origin Ales,Belgian-Style Dubbel,376.0,utrZWH,Dubbel,Dubbel,7.4,,,N,VEY3Xa,N,verified
+665,58.0,Belgian And French Origin Ales,Belgian-Style Dubbel,771.0,dM2XzJ,Ovila Abbey Aged Dubbel,Ovila Abbey Aged Dubbel,8.5,,,N,nHLlnK,N,verified
+666,58.0,Belgian And French Origin Ales,Belgian-Style Dubbel,779.0,3zb9Gq,Ovila Dubbel,Ovila Dubbel,7.5,,8.0,N,nHLlnK,N,verified
+667,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,7.0,Yd8G8r,18th Anniversary Belgian Tripel,18th Anniversary Belgian Tripel,10.0,,,N,TMc6H2,N,verified
+668,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,127.0,ZJdowf,Beerhive,Beerhive,8.47,,5.0,N,AqEUBQ,N,verified
+669,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,173.0,Du7C2e,Black Tulip,Black Tulip (2012),8.8,2012.0,,N,AqEUBQ,N,verified
+670,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,309.0,rDnNdd,Cuvée Soeur’ise,Cuvée Soeur’ise,8.5,,,N,uM2jeT,N,verified
+671,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,407.0,6fJQfz,Fils À Papa V,Fils À Papa V,8.5,,,N,uM2jeT,N,verified
+672,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,776.0,Lx7DEm,Ovila Abbey Trippel,Ovila Abbey Trippel,8.8,,,N,nHLlnK,N,verified
+673,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,782.0,AlRuKw,Ovila Quad,Ovila Quad,10.5,,5.0,N,nHLlnK,N,verified
+674,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,851.0,0UTcHS,Ripley Tripel,Ripley Tripel,9.6,,,N,VEY3Xa,N,verified
+675,59.0,Belgian And French Origin Ales,Belgian-Style Tripel,1031.0,eJ0fVE,Tripel  Squared,Tripel  Squared,9.0,,8.0,N,yX6twV,N,verified
+676,60.0,Belgian And French Origin Ales,Belgian-Style Quadrupel,317.0,LR5oG8,Dank Tank BSP Quad,Dank Tank BSP Quad,11.0,,,N,TMc6H2,Y,verified
+677,60.0,Belgian And French Origin Ales,Belgian-Style Quadrupel,468.0,trEROu,Good Game,Good Game,11.0,,,N,q6vJUK,N,verified
+678,60.0,Belgian And French Origin Ales,Belgian-Style Quadrupel,773.0,Dwhny1,Ovila Abbey Quad with Plums,Ovila Abbey Quad with Plums,10.2,,6.0,N,nHLlnK,Y,verified
+679,60.0,Belgian And French Origin Ales,Belgian-Style Quadrupel,783.0,T7K4um,Ovila Quad Brandy Barrel-Aged,Ovila Quad Brandy Barrel-Aged,10.1,,,N,nHLlnK,N,verified
+680,60.0,Belgian And French Origin Ales,Belgian-Style Quadrupel,1023.0,N0usi0,Trip in the Woods Madeira Quad,Trip in the Woods Madeira Quad,10.5,,,N,nHLlnK,N,verified
+681,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,63.0,fdnFoV,Audition - Belgian-Style Blonde,Audition - Belgian-Style Blonde,6.3,,,N,nHLlnK,N,verified
+682,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,85.0,dS3WFU,Barrel Aged Chaka (Merlot),Barrel Aged Chaka (Merlot),8.0,,,N,q6vJUK,N,verified
+683,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,101.0,3JrTod,Beach Bum Blonde Ale,Beach Bum Blonde Ale,5.4,,,N,BznahA,N,verified
+684,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,133.0,X8qNCS,Belgian-Style Blonde IPA,Belgian-Style Blonde IPA,7.5,,,N,nHLlnK,N,verified
+685,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,215.0,P3fflp,Bubbly Wit,Bubbly Wit,7.1,,,N,p3YrOa,N,verified
+686,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,224.0,4zruzt,Bud Light Golden Wheat,Bud Light Golden Wheat,4.1,,,N,BznahA,N,verified
+687,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,444.0,5iehRZ,Fusion 30,Fusion 30,7.1,,,N,nLsoQ9,N,verified
+688,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,574.0,BceaoL,Hummer,Hummer,5.1,,,N,TMc6H2,N,verified
+689,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,699.0,OPM4t8,Mt. Takhoma Blonde Ale,Mt. Takhoma Blonde Ale,3.8,,,N,DMU2Kf,N,verified
+690,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,825.0,y5dpHI,Prisoner of Hell,Prisoner of Hell,8.0,,,N,p3YrOa,N,verified
+691,61.0,Belgian And French Origin Ales,Belgian-Style Blonde Ale,1105.0,a8u4ic,Yvan The Great - Beer Camp Across America,Yvan The Great - Beer Camp Across America (2014),6.3,2014.0,5.0,N,nHLlnK,N,verified
+692,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,43.0,MTLa3r,Afternooner,Afternooner,4.6,,,N,VEY3Xa,N,verified
+693,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,64.0,8ugUQF,Audition - Belgian-Style Pale Ale,Audition - Belgian-Style Pale Ale,5.3,,,N,nHLlnK,N,verified
+694,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,102.0,9YCuGj,Bearsharktopus,Bearsharktopus,6.0,,,N,VEY3Xa,N,verified
+695,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,129.0,BoJHzM,Belgian Black IPA - Beer Camp #94,Belgian Black IPA - Beer Camp #94,7.7,,,N,nHLlnK,N,verified
+696,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,131.0,DQW0WA,Belgian Crush,Belgian Crush,5.7,,,N,VEY3Xa,N,verified
+697,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,132.0,hDKDfU,Belgian Style Pale Ale - Mountain Series,Belgian Style Pale Ale - Mountain Series,,,,N,IImUD9,N,verified
+698,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,264.0,guH320,Chaka,Chaka,8.0,,,N,q6vJUK,N,verified
+699,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,337.0,7Tfy0M,Demon Brewn,Demon Brewn,,,,Y,p1tFbP,N,verified
+700,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,402.0,QefHZY,Farmhouse Hatter,Farmhouse Hatter,5.07,,8.0,N,AqEUBQ,N,verified
+701,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,633.0,lj8S4n,Larry Triple Douple,Larry Triple Douple,8.5,,,N,DifSi4,N,verified
+702,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,702.0,S9QxGf,Myron's Walk - Beer Camp Across America,Myron's Walk - Beer Camp Across America (2014),5.3,2014.0,5.0,N,nHLlnK,N,verified
+703,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,804.0,7zuKpR,Philly Tripel Plan B,Philly Tripel Plan B,8.0,,,N,p3YrOa,N,verified
+704,62.0,Belgian And French Origin Ales,Belgian-Style Pale Ale,1077.0,gQiQsk,White Hatter,White Hatter,5.5,,5.0,N,AqEUBQ,N,verified
+705,63.0,Belgian And French Origin Ales,Belgian-Style Pale Strong Ale,130.0,nAr0mR,Belgian Blond,Belgian Blond,6.7,,,N,VEY3Xa,N,verified
+706,63.0,Belgian And French Origin Ales,Belgian-Style Pale Strong Ale,778.0,qGQc7S,Ovila Belgian Golden Ale,Ovila Belgian Golden Ale,8.5,,8.0,N,nHLlnK,N,verified
+707,63.0,Belgian And French Origin Ales,Belgian-Style Pale Strong Ale,941.0,0c3ltk,St. Benny's Labby Style Ale,St. Benny's Labby Style Ale,,,,N,yX6twV,N,verified
+708,64.0,Belgian And French Origin Ales,Belgian-Style Dark Strong Ale,323.0,9nXV0D,Dank Tank The Price is Wrong,Dank Tank The Price is Wrong,9.0,,,N,TMc6H2,N,verified
+709,64.0,Belgian And French Origin Ales,Belgian-Style Dark Strong Ale,900.0,GCDyUs,Silent Night,Silent Night,11.0,,8.0,N,AqEUBQ,Y,verified
+710,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,53.0,Zd8Cxd,American Summer Hoppy Wit,American Summer Hoppy Wit,6.0,,,N,q6vJUK,N,verified
+711,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,106.0,Jyj4KZ,Bearwalker Maple Nut (Eagle Rare Barrel Aged),Bearwalker Maple Nut (Eagle Rare Barrel Aged),,,,Y,p1tFbP,N,verified
+712,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,189.0,5LwuwE,Bob White,Bob White,5.0,,,N,VEY3Xa,N,verified
+713,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,290.0,qhppip,Collabinator Wit,Collabinator Wit,,,,Y,p1tFbP,N,verified
+714,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,777.0,HO9ROw,Ovila Abbey White,Ovila Abbey White,5.3,,,N,nHLlnK,N,verified
+715,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,824.0,AWdfjO,Priscilla,Priscilla,5.2,,,N,q6vJUK,N,verified
+716,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,938.0,i1jKN5,Spring Heat Spiced Wheat,Spring Heat Spiced Wheat,5.2,,5.0,N,BznahA,Y,verified
+717,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,948.0,qvtSfO,Stoopid Wit,Stoopid Wit,6.0,,,N,nLsoQ9,N,verified
+718,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,1053.0,tenqsI,Vanilla Wheat,Vanilla Wheat,,,,Y,p1tFbP,N,verified
+719,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,1076.0,bpJ9u8,White Ale,White Ale,4.8,,,N,IImUD9,N,verified
+720,65.0,Belgian And French Origin Ales,Belgian-Style White (or Wit) / Belgian-Style Wheat,1095.0,KiXHLV,Witness,Witness,6.0,,,N,VEY3Xa,N,verified
+721,66.0,Belgian And French Origin Ales,Belgian-Style Lambic,,,,,,,,,,,
+722,67.0,Belgian And French Origin Ales,Belgian-Style Gueuze Lambic,,,,,,,,,,,
+723,68.0,Belgian And French Origin Ales,Belgian-Style Fruit Lambic,1085.0,InYD5U,Wild Blue Blueberry Lager,Wild Blue Blueberry Lager,8.0,,,N,BznahA,N,verified
+724,69.0,Belgian And French Origin Ales,Belgian-Style Table Beer,967.0,ATFslo,Sweet Sunny South,Sweet Sunny South,4.9,,,N,nHLlnK,N,verified
+725,70.0,Belgian And French Origin Ales,Other Belgian-Style Ales,10.0,qGDeH1,2 x 4,2 x 4,8.7,,5.0,N,nHLlnK,N,verified
+726,70.0,Belgian And French Origin Ales,Other Belgian-Style Ales,656.0,R5Y92z,Ma Mère Spéciale,Ma Mère Spéciale,6.0,,,N,uM2jeT,N,verified
+727,71.0,Belgian And French Origin Ales,French-Style Bière de Garde,209.0,bMv56j,Brewery Lane Series: Biére De Garde,Brewery Lane Series: Biére De Garde,9.0,,,N,IImUD9,N,verified
+728,71.0,Belgian And French Origin Ales,French-Style Bière de Garde,483.0,56HXGK,GUARD de BEER,GUARD de BEER,7.0,,,N,nHLlnK,N,verified
+729,71.0,Belgian And French Origin Ales,French-Style Bière de Garde,817.0,cglNbC,Port Barrel Aged Biere De Garde,Port Barrel Aged Biere De Garde,10.2,,,N,nHLlnK,N,verified
+730,71.0,Belgian And French Origin Ales,French-Style Bière de Garde,935.0,KfC3l9,Spanglish Fly,Spanglish Fly,8.0,,,N,p3YrOa,N,verified
+731,71.0,Belgian And French Origin Ales,French-Style Bière de Garde,1022.0,T64OoT,Trip In the Woods Biere De Garde,Trip In the Woods Biere De Garde,9.8,,,N,nHLlnK,N,verified
+732,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,6.0,LcpeBb,17th Saison,17th Saison,9.0,,,N,TMc6H2,N,verified
+733,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,39.0,wDgaK8,A Beer Named Sue,A Beer Named Sue,5.7,,,N,VEY3Xa,N,verified
+734,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,188.0,l7Dmxe,Blueberry Saison,Blueberry Saison,,,,Y,p1tFbP,N,verified
+735,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,190.0,qpPzL7,Bobolink,Bobolink,6.7,,,N,VEY3Xa,N,verified
+736,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,193.0,HgMkeg,Bonnaroo Brew,Bonnaroo Brew,4.8,,5.0,N,nHLlnK,N,verified
+737,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,203.0,PRRZBx,Brass & Blues,Brass & Blues,6.4,,,N,q6vJUK,N,verified
+738,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,262.0,1C793t,Centennial Saison,Centennial Saison,6.0,,,N,q6vJUK,N,verified
+739,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,287.0,CtLLsH,Coco Nuts,Coco Nuts,5.0,,,N,p3YrOa,N,verified
+740,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,292.0,a1DUfG,Cool Breeze,Cool Breeze,4.9,,,N,TMc6H2,N,verified
+741,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,329.0,6f6SpY,Das Bij,Das Bij,5.6,,,Y,p1tFbP,N,verified
+742,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,388.0,ebYlhO,Eroica,Eroica,7.4,,,N,nLsoQ9,N,verified
+743,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,423.0,N5lJcK,Four Witches ,Four Witches ,7.3,,,N,AqEUBQ,N,verified
+744,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,424.0,rJ51vR,Freedom Tickler,Freedom Tickler,6.8,,,N,q6vJUK,N,verified
+745,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,465.0,WCPtV5,Golden Cap Saison Ale,Golden Cap Saison Ale,6.25,,5.0,N,AqEUBQ,N,verified
+746,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,562.0,EO71ZO,Hoppy Saison,Hoppy Saison,5.0,,,Y,p1tFbP,N,verified
+747,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,563.0,jbvl8b,Hoppy Saison Mancrush,Hoppy Saison Mancrush,,,,N,q6vJUK,N,verified
+748,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,595.0,qpfWYm,India Farmhouse Ale,India Farmhouse Ale,7.4,,,N,nHLlnK,N,verified
+749,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,691.0,qQw3dE,Monkey King,Monkey King,5.6,,5.0,N,AqEUBQ,N,verified
+750,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,692.0,JSTPos,Monkey King Saison Farmhouse Ale,Monkey King Saison Farmhouse Ale,6.6,,,N,AqEUBQ,N,verified
+751,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,729.0,QD9dX7,Nooice,Nooice,6.2,,,N,q6vJUK,N,verified
+752,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,746.0,798rjW,Oh Saisonna,Oh Saisonna,8.3,,,N,nHLlnK,N,verified
+753,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,774.0,7i1hXo,Ovila Abbey Saison,Ovila Abbey Saison,7.5,,6.0,N,nHLlnK,N,verified
+754,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,775.0,ONdtij,Ovila Abbey Saison (w/ Mandarin Oranges and Peppercorns),Ovila Abbey Saison (w/ Mandarin Oranges and Peppercorns),7.5,,,N,nHLlnK,N,verified
+755,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,784.0,UuyWmA,Ovila Wood-Aged Saison,Ovila Wood-Aged Saison,7.8,,5.0,N,nHLlnK,N,verified
+756,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,879.0,4neIJi,Saison Dans La Maison ,Saison Dans La Maison ,5.6,,,Y,4F7QA9,N,verified
+757,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,881.0,htJQLM,Salted Grapefruit Farmhouse Ale,Salted Grapefruit Farmhouse Ale,5.2,,,N,IImUD9,N,verified
+758,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,882.0,CLsadV,Sans Souci,Sans Souci,5.9,,,N,VEY3Xa,N,verified
+759,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,884.0,37s6fV,Say Sean Huell Melon Dry Hopped Saison,Say Sean Huell Melon Dry Hopped Saison,4.0,,,N,q6vJUK,N,verified
+760,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,946.0,D4I0lX,Stone Cold Peach,Stone Cold Peach,5.6,,,Y,p1tFbP,N,verified
+761,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,954.0,LfwcEu,Sugarshack Saison,Sugarshack Saison,5.1,,,N,4F7QA9,N,verified
+762,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,1013.0,ZzpzSy,Tickled Pink,Tickled Pink,6.6,,,N,q6vJUK,N,verified
+763,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,1081.0,QCvO04,Why Not?,Why Not?,6.5,,,N,nHLlnK,N,verified
+764,72.0,Belgian And French Origin Ales,French & Belgian-Style Saison,1092.0,dmVTls,Winter Saison,Winter Saison,5.3,,,N,VEY3Xa,N,verified
+765,73.0,International Ale Styles,International-Style Pale Ale,803.0,QdCdco,Pele (Brazilian Pale Ale),Pele (Brazilian Pale Ale),7.1,,,N,AqEUBQ,N,verified
+766,73.0,International Ale Styles,International-Style Pale Ale,863.0,EzaTJ3,Runway IPA,Runway IPA,6.2,,5.0,N,941OaA,N,verified
+767,74.0,International Ale Styles,Australian-Style Pale Ale,,,,,,,,,,,
+768,75.0,European-germanic Lager,German-Style Pilsener,191.0,vmmRA5,Bohemian Dock Street Pilsner,Bohemian Dock Street Pilsner,5.0,,,N,p3YrOa,N,verified
+769,75.0,European-germanic Lager,German-Style Pilsener,664.0,xLOOss,Mama's Little Yella Pils,Mama's Little Yella Pils,5.3,,5.0,N,q6vJUK,N,verified
+770,75.0,European-germanic Lager,German-Style Pilsener,806.0,1yMrDb,Pils,Pils,6.2,,5.0,N,nLsoQ9,N,verified
+771,75.0,European-germanic Lager,German-Style Pilsener,931.0,1SYQ5O,Southern Gothic Session Pils,Southern Gothic Session Pils,5.6,,,N,nHLlnK,N,verified
+772,75.0,European-germanic Lager,German-Style Pilsener,978.0,FnRwC6,Take Two Pils,Take Two Pils,5.5,,4.0,N,TMc6H2,N,verified
+773,76.0,European-germanic Lager,Bohemian-Style Pilsener,319.0,BlcFcv,Dank Tank Magnum IP,Dank Tank Magnum IP,9.0,,,N,TMc6H2,Y,verified
+774,77.0,European-germanic Lager,German-Style Leichtbier,504.0,NRRfYP,Harbin Lager,Harbin Lager,5.5,,,N,BznahA,N,verified
+775,78.0,European-germanic Lager,Münchner (Munich)-Style Helles,727.0,NJL9oB,Noble Helles (Batch No. 32218),Noble Helles (Batch No. 32218),5.0,,5.0,N,BznahA,N,verified
+776,79.0,European-germanic Lager,Dortmunder / European-Style Export,,,,,,,,,,,
+777,80.0,European-germanic Lager,Vienna-Style Lager,128.0,1cLpJP,Beerito,Beerito,4.0,,,N,q6vJUK,N,verified
+778,80.0,European-germanic Lager,Vienna-Style Lager,398.0,YViUzm,Extra Time,Extra Time,5.8,,,N,AqEUBQ,N,verified
+779,80.0,European-germanic Lager,Vienna-Style Lager,414.0,iYbsQ5,Fohn,Fohn,4.7,,,N,AqEUBQ,N,verified
+780,80.0,European-germanic Lager,Vienna-Style Lager,1055.0,7IjJ76,Vienna,Vienna,5.3,,,N,nHLlnK,N,verified
+781,80.0,European-germanic Lager,Vienna-Style Lager,1056.0,CJYncP,Vienna Lager,Vienna Lager,5.7,,,N,q6vJUK,N,verified
+782,80.0,European-germanic Lager,Vienna-Style Lager,1057.0,MdlspB,Vienna Lager,Vienna Lager,4.7,,,N,4F7QA9,N,verified
+783,81.0,European-germanic Lager,German-Style Märzen,74.0,1unO6C,Autumn Ale,Autumn Ale,6.0,,5.0,N,IImUD9,N,verified
+784,81.0,European-germanic Lager,German-Style Märzen,670.0,EWG6gq,Martzen,Martzen,,,,N,q6vJUK,N,verified
+785,81.0,European-germanic Lager,German-Style Märzen,744.0,cJvlzs,Octoberfest,Octoberfest,5.2,,3.0,N,DifSi4,N,verified
+786,82.0,European-germanic Lager,German-Style Oktoberfest / Wiesen (Meadow),751.0,EcAeVx,Oktoberfest,Oktoberfest (2016),6.0,2016.0,,N,nHLlnK,Y,verified
+787,82.0,European-germanic Lager,German-Style Oktoberfest / Wiesen (Meadow),753.0,KGaPva,Oktoberfest,Oktoberfest (2017),6.1,2017.0,,N,nHLlnK,Y,verified
+788,82.0,European-germanic Lager,German-Style Oktoberfest / Wiesen (Meadow),754.0,twBPib,Oktoberfest,Oktoberfest,,,,N,IImUD9,N,verified
+789,82.0,European-germanic Lager,German-Style Oktoberfest / Wiesen (Meadow),768.0,cCXIXP,Osktoberfest,Osktoberfest,,,,N,q6vJUK,N,verified
+790,83.0,European-germanic Lager,European-Style Dark / Münchner Dunkel,1014.0,0tWTUV,Tmavé,Tmavé,5.4,,,N,VEY3Xa,N,verified
+791,84.0,European-germanic Lager,German-Style Schwarzbier,174.0,i0Hy6x,Black Vapor,Black Vapor,6.0,,5.0,N,nHLlnK,N,verified
+792,84.0,European-germanic Lager,German-Style Schwarzbier,488.0,Yq3v6n,Guinness Black Lager,Guinness Black Lager,4.5,,5.0,N,HaPdSL,N,verified
+793,84.0,European-germanic Lager,German-Style Schwarzbier,821.0,bZ8hmu,Potato Schwarzbier,Potato Schwarzbier,4.9,,,Y,p1tFbP,N,verified
+794,85.0,European-germanic Lager,Bamberg-Style Märzen Rauchbier,,,,,,,,,,,
+795,86.0,European-germanic Lager,Bamberg-Style Helles Rauchbier,80.0,YXPOTZ,Bamberg Helles,Bamberg Helles,5.2,,,N,VEY3Xa,N,verified
+796,87.0,European-germanic Lager,Bamberg-Style Bock Rauchbier,,,,,,,,,,,
+797,88.0,European-germanic Lager,Traditional German-Style Bock,178.0,24mTU2,Blizzicane Bock,Blizzicane Bock,7.7,,,N,nHLlnK,N,verified
+798,88.0,European-germanic Lager,Traditional German-Style Bock,273.0,3wh93y,Chewbocka,Chewbocka,6.2,,,N,VEY3Xa,N,verified
+799,88.0,European-germanic Lager,Traditional German-Style Bock,759.0,kGli9E,Old CHico Pale Bock,Old CHico Pale Bock,,,,N,nHLlnK,N,verified
+800,88.0,European-germanic Lager,Traditional German-Style Bock,792.0,Tqu2Of,Pandora's Bock,Pandora's Bock,7.5,,5.0,N,IImUD9,Y,verified
+801,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,20.0,f5CWb6,"30th Anniversary - Charlie, Fred & Ken's Bock","30th Anniversary - Charlie, Fred & Ken's Bock",8.3,,,N,nHLlnK,Y,verified
+802,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,84.0,fGeFvg,Barrel Aged BOTL Cap,Barrel Aged BOTL Cap,8.9,,,N,AqEUBQ,N,verified
+803,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,126.0,gFe3ro,Beer Like A Billy Goat,Beer Like A Billy Goat,6.5,,,N,VEY3Xa,N,verified
+804,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,347.0,NE2Dpl,Dogs of Helles,Dogs of Helles,4.0,,,N,yX6twV,N,verified
+805,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,461.0,oBALsi,Glissade Golden Bock,Glissade Golden Bock,6.4,,5.0,N,nHLlnK,N,verified
+806,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,476.0,o4farp,Gravitation Collaboration,Gravitation Collaboration,7.8,,,Y,AqEUBQ,N,verified
+807,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,661.0,CEVOre,Mai-nd-Bockling,Mai-nd-Bockling,6.0,,,N,nHLlnK,N,verified
+808,89.0,European-germanic Lager,German-Style Heller Bock/Maibock,1104.0,CScss3,Yonder Bock - Beer Camp Across America,Yonder Bock - Beer Camp Across America (2014),7.7,2014.0,5.0,N,nHLlnK,N,verified
+809,90.0,European-germanic Lager,German-Style Doppelbock,266.0,ct0Hxz,Charkoota Rye,Charkoota Rye (2012),9.35,2012.0,,N,AqEUBQ,N,verified
+810,90.0,European-germanic Lager,German-Style Doppelbock,267.0,lUt8yP,Charkoota Rye,Charkoota Rye (2011),8.4,2011.0,5.0,N,AqEUBQ,N,verified
+811,90.0,European-germanic Lager,German-Style Doppelbock,351.0,hn9LIa,Doppelbock,Doppelbock,,,,N,q6vJUK,N,verified
+812,90.0,European-germanic Lager,German-Style Doppelbock,352.0,0I5b84,Double DeBOCKel,Double DeBOCKel,9.4,,,N,nHLlnK,N,verified
+813,90.0,European-germanic Lager,German-Style Doppelbock,743.0,s5V8YM,Obliterator,Obliterator,10.5,,,N,q6vJUK,N,verified
+814,90.0,European-germanic Lager,German-Style Doppelbock,1003.0,R1JD13,The Mutilator,The Mutilator,7.0,,,N,q6vJUK,N,verified
+815,91.0,European-germanic Lager,German-Style Eisbock,,,,,,,,,,,
+816,92.0,European-germanic Lager,Kellerbier (Cellar beer) or Zwickelbier - Lager,666.0,E5i29p,Mandarina Bavaria,Mandarina Bavaria,4.9,,,N,VEY3Xa,N,verified
+817,93.0,North American Lager,American-Style Lager,9.0,O78ldO,1904 American Red Lager,1904 American Red Lager,5.0,,,N,BznahA,N,verified
+818,93.0,North American Lager,American-Style Lager,111.0,pTHBWA,Beer Camp Hoppy Lager,Beer Camp Hoppy Lager,7.0,,,N,nHLlnK,N,verified
+819,93.0,North American Lager,American-Style Lager,120.0,bSQyva,Beer Camp: Ginger Lager,Beer Camp: Ginger Lager (2017),6.2,2017.0,,N,nHLlnK,N,verified
+820,93.0,North American Lager,American-Style Lager,232.0,1P45iR,Budweiser,Budweiser,5.0,,5.0,N,BznahA,N,verified
+821,93.0,North American Lager,American-Style Lager,235.0,eW9IJb,Budweiser Chelada,Budweiser Chelada,5.0,,5.0,N,BznahA,N,verified
+822,93.0,North American Lager,American-Style Lager,244.0,QhHBBX,Busch,Busch,4.6,,5.0,N,BznahA,N,verified
+823,93.0,North American Lager,American-Style Lager,247.0,vNwXnT,Busch Signature Copper Lager,Busch Signature Copper Lager,5.7,,5.0,N,BznahA,N,verified
+824,93.0,North American Lager,American-Style Lager,293.0,sghlNk,Cornlaboration,Cornlaboration,5.8,,,N,q6vJUK,N,verified
+825,93.0,North American Lager,American-Style Lager,489.0,qbeSzR,Guinness Blonde,Guinness Blonde,5.0,,5.0,N,HaPdSL,N,verified
+826,93.0,North American Lager,American-Style Lager,628.0,dWISHQ,Lagunator,Lagunator,7.9,,,N,nLsoQ9,N,verified
+827,93.0,North American Lager,American-Style Lager,671.0,mjPDnq,Mash Appeal,Mash Appeal,4.3,,,N,q6vJUK,N,verified
+828,93.0,North American Lager,American-Style Lager,728.0,kzcLek,Noble Hopped Lager (Batch No. 32218),Noble Hopped Lager (Batch No. 32218),5.0,,5.0,N,BznahA,N,verified
+829,93.0,North American Lager,American-Style Lager,745.0,oBponF,Oculto,Oculto,6.0,,,N,BznahA,N,verified
+830,93.0,North American Lager,American-Style Lager,864.0,SjPBgM,Russ' Revival,Russ' Revival,5.3,,,N,AqEUBQ,N,verified
+831,93.0,North American Lager,American-Style Lager,906.0,dlm9nV,Single Hop Citra IPL,Single Hop Citra IPL,5.5,,,N,nHLlnK,N,verified
+832,93.0,North American Lager,American-Style Lager,911.0,8ftXVJ,Six Grain Harvest Lager (Batch No. 63118),Six Grain Harvest Lager (Batch No. 63118),5.5,,5.0,N,BznahA,N,verified
+833,93.0,North American Lager,American-Style Lager,962.0,5ue4ah,Summerfest,Summerfest,5.0,,5.0,N,nHLlnK,N,verified
+834,93.0,North American Lager,American-Style Lager,994.0,zFPtdT,Tettang Lager,Tettang Lager,,,,Y,p1tFbP,N,verified
+835,94.0,North American Lager,American-Style Light (Low Calorie) Lager,216.0,8MMa77,Bud Dry,Bud Dry,5.0,,,N,BznahA,N,verified
+836,94.0,North American Lager,American-Style Light (Low Calorie) Lager,220.0,dimtrs,Bud Light,Bud Light,4.2,,5.0,N,BznahA,N,verified
+837,94.0,North American Lager,American-Style Light (Low Calorie) Lager,221.0,Abbvjh,Bud Light Apple,Bud Light Apple,4.2,,,N,BznahA,N,verified
+838,94.0,North American Lager,American-Style Light (Low Calorie) Lager,223.0,t9aucT,Bud Light Chelada,Bud Light Chelada,4.2,,5.0,N,BznahA,N,verified
+839,94.0,North American Lager,American-Style Light (Low Calorie) Lager,225.0,MzoCPz,Bud Light Lime,Bud Light Lime,4.2,,5.0,N,BznahA,N,verified
+840,94.0,North American Lager,American-Style Light (Low Calorie) Lager,227.0,WQsARu,Bud Light Orange,Bud Light Orange,4.2,,,N,BznahA,N,verified
+841,94.0,North American Lager,American-Style Light (Low Calorie) Lager,228.0,hd8yE8,Bud Light Platinum,Bud Light Platinum,6.0,,5.0,N,BznahA,N,verified
+842,94.0,North American Lager,American-Style Light (Low Calorie) Lager,239.0,G2Vi1J,Budweiser Select,Budweiser Select,4.3,,5.0,N,BznahA,N,verified
+843,94.0,North American Lager,American-Style Light (Low Calorie) Lager,246.0,30zzKy,Busch Light,Busch Light,4.1,,5.0,N,BznahA,N,verified
+844,94.0,North American Lager,American-Style Light (Low Calorie) Lager,532.0,FW35fB,High Life Light,High Life Light,4.5,,4.0,N,hGFVYy,N,verified
+845,94.0,North American Lager,American-Style Light (Low Calorie) Lager,681.0,JUjEnp,Miller Chill,Miller Chill,4.1,,,N,hGFVYy,N,verified
+846,94.0,North American Lager,American-Style Light (Low Calorie) Lager,683.0,Y8Ar6h,Miller Genuine Draft,Miller Genuine Draft,4.66,,5.0,N,hGFVYy,N,verified
+847,94.0,North American Lager,American-Style Light (Low Calorie) Lager,684.0,voS2xG,Miller High Life,Miller High Life,5.0,,5.0,N,hGFVYy,N,verified
+848,94.0,North American Lager,American-Style Light (Low Calorie) Lager,685.0,KJIjyd,Miller Lite,Miller Lite,4.2,,4.0,N,hGFVYy,N,verified
+849,94.0,North American Lager,American-Style Light (Low Calorie) Lager,686.0,yagN3u,Miller64,Miller64,2.8,,5.0,N,hGFVYy,N,verified
+850,94.0,North American Lager,American-Style Light (Low Calorie) Lager,706.0,Xzoo8o,Natty Daddy,Natty Daddy,8.0,,5.0,N,BznahA,N,verified
+851,94.0,North American Lager,American-Style Light (Low Calorie) Lager,707.0,lFrwWQ,Natural Ice,Natural Ice,5.9,,5.0,N,BznahA,N,verified
+852,94.0,North American Lager,American-Style Light (Low Calorie) Lager,708.0,NZakfr,Natural Light,Natural Light,4.2,,,N,BznahA,N,verified
+853,94.0,North American Lager,American-Style Light (Low Calorie) Lager,889.0,gvFuE2,Select 55,Select 55,4.0,,5.0,N,BznahA,N,verified
+854,94.0,North American Lager,American-Style Light (Low Calorie) Lager,1043.0,65zNUD,Two Hats Lime,Two Hats Lime,4.2,,,N,hGFVYy,N,verified
+855,94.0,North American Lager,American-Style Light (Low Calorie) Lager,1044.0,TmGZKm,Two Hats Pineapple,Two Hats Pineapple,4.2,,,N,hGFVYy,N,verified
+856,95.0,North American Lager,American-Style Low-Carbohydrate Light Lager,,,,,,,,,,,
+857,96.0,North American Lager,American-Style Amber (Low Calorie) Lager,,,,,,,,,,,
+858,97.0,North American Lager,American-Style Premium Lager,218.0,qGhR1j,Bud Ice,Bud Ice,5.5,,,N,BznahA,N,verified
+859,97.0,North American Lager,American-Style Premium Lager,219.0,SaQFBA,Bud Ice Light,Bud Ice Light,4.1,,,N,BznahA,N,verified
+860,97.0,North American Lager,American-Style Premium Lager,328.0,XVWs1B,Dark Wheat,Dark Wheat,,,,N,nHLlnK,N,verified
+861,97.0,North American Lager,American-Style Premium Lager,385.0,jBjeGJ,Electric Ray - Beer Camp Across America,Electric Ray - Beer Camp Across America (2014),8.5,2014.0,5.0,N,nHLlnK,N,verified
+862,97.0,North American Lager,American-Style Premium Lager,480.0,GVNZZQ,Green Valley Wild Hop Lager,Green Valley Wild Hop Lager,5.0,,5.0,Y,BznahA,N,verified
+863,97.0,North American Lager,American-Style Premium Lager,506.0,ztJYpI,Harp Lager,Harp Lager,5.0,,4.0,N,HaPdSL,N,verified
+864,97.0,North American Lager,American-Style Premium Lager,507.0,Yzokxa,Harp Premium Imported Lager,Harp Premium Imported Lager,4.5,,5.0,N,HaPdSL,N,verified
+865,97.0,North American Lager,American-Style Premium Lager,550.0,AAdvVo,Hop House Lager,Hop House Lager,5.0,,,N,HaPdSL,N,verified
+866,97.0,North American Lager,American-Style Premium Lager,639.0,vrGuPg,Liger Lager,Liger Lager,6.9,,,N,4F7QA9,N,verified
+867,97.0,North American Lager,American-Style Premium Lager,682.0,ISlZaz,Miller Fortune,Miller Fortune,6.9,,5.0,N,hGFVYy,N,verified
+868,97.0,North American Lager,American-Style Premium Lager,694.0,pPGV1H,Mountain Wheat,Mountain Wheat,,,,N,IImUD9,N,verified
+869,98.0,North American Lager,American-Style Pilsener,0.0,c4f2KE,'Murican Pilsner,'Murican Pilsner,5.5,,4.0,N,nHLlnK,N,verified
+870,98.0,North American Lager,American-Style Pilsener,33.0,GYF0P4,471 Pilsner,471 Pilsner,,,,N,IImUD9,N,verified
+871,98.0,North American Lager,American-Style Pilsener,36.0,uA3MVL,7 Birds,7 Birds,5.0,,,Y,p1tFbP,N,verified
+872,98.0,North American Lager,American-Style Pilsener,37.0,Fhw2NF,7 Cities Pilsner,7 Cities Pilsner,5.0,,,Y,p1tFbP,N,verified
+873,98.0,North American Lager,American-Style Pilsener,68.0,NY86j7,Audition - Imperial Pilsner,Audition - Imperial Pilsner,8.0,,4.0,N,nHLlnK,N,verified
+874,98.0,North American Lager,American-Style Pilsener,70.0,WaxgGo,Audition - Pilsner,Audition - Pilsner,5.2,,4.0,N,nHLlnK,N,verified
+875,98.0,North American Lager,American-Style Pilsener,88.0,LMONA6,Barrel Aged Mama's Mama's Little Yella Pils (Tequila),Barrel Aged Mama's Mama's Little Yella Pils (Tequila),5.3,,,N,q6vJUK,N,verified
+876,98.0,North American Lager,American-Style Pilsener,373.0,4iQV5k,Dry Hopped Coastal Pilsner (Batch No. 23185),Dry Hopped Coastal Pilsner (Batch No. 23185),6.0,,4.0,N,BznahA,N,verified
+877,98.0,North American Lager,American-Style Pilsener,394.0,z9eSax,EXPERIMENTAL HOP PILSNER,EXPERIMENTAL HOP PILSNER,5.5,,,N,nHLlnK,N,verified
+878,98.0,North American Lager,American-Style Pilsener,413.0,1XAbSf,Foam Pilsner,Foam Pilsner,5.6,,,N,nHLlnK,N,verified
+879,98.0,North American Lager,American-Style Pilsener,479.0,DUmEEi,Green State Lager,Green State Lager,4.9,,,N,VEY3Xa,N,verified
+880,98.0,North American Lager,American-Style Pilsener,583.0,AdHXWs,Imperial Pils,Imperial Pils,8.6,,4.0,N,nLsoQ9,N,verified
+881,98.0,North American Lager,American-Style Pilsener,584.0,dbN8in,Imperial Pilsner - Beer Camp #43,Imperial Pilsner - Beer Camp #43,5.6,,4.0,N,nHLlnK,N,verified
+882,98.0,North American Lager,American-Style Pilsener,730.0,he3yMK,Nooner Pilsner,Nooner Pilsner,5.2,,,N,nHLlnK,N,verified
+883,98.0,North American Lager,American-Style Pilsener,822.0,UBcopK,Premium 219 Pilsner,Premium 219 Pilsner,4.7,,4.0,N,yX6twV,N,verified
+884,98.0,North American Lager,American-Style Pilsener,845.0,zAC6PV,Regal Pilsner,Regal Pilsner,7.0,,4.0,N,IImUD9,N,verified
+885,98.0,North American Lager,American-Style Pilsener,885.0,Api83U,Scare City 1,Scare City 1,7.5,,,N,nLsoQ9,N,verified
+886,98.0,North American Lager,American-Style Pilsener,958.0,p6ZP0p,Summer Pils,Summer Pils,5.0,,,N,IImUD9,N,verified
+887,98.0,North American Lager,American-Style Pilsener,975.0,OGHzdU,SweetWater Road Trip,SweetWater Road Trip,5.2,,4.0,N,TMc6H2,N,verified
+888,98.0,North American Lager,American-Style Pilsener,1018.0,wC2GDZ,Torpedo Pilsner - Beer Camp Across America,Torpedo Pilsner - Beer Camp Across America (2014),5.2,2014.0,4.0,N,nHLlnK,N,verified
+889,98.0,North American Lager,American-Style Pilsener,1036.0,BUVVgt,Tropical Mama’s,Tropical Mama’s,5.3,,,N,q6vJUK,N,verified
+890,98.0,North American Lager,American-Style Pilsener,1046.0,4LX2Qa,Two-One Niner,Two-One Niner,4.8,,4.0,N,yX6twV,N,verified
+891,99.0,North American Lager,American-Style Ice Lager,245.0,fKinUP,Busch Ice,Busch Ice,5.9,,5.0,N,BznahA,N,verified
+892,100.0,North American Lager,American-Style Malt Liquor,575.0,Da2apu,Hurricane,Hurricane,5.9,,,N,BznahA,N,verified
+893,100.0,North American Lager,American-Style Malt Liquor,576.0,ptlOzL,Hurricane High Gravity,Hurricane High Gravity,8.0,,,N,BznahA,N,verified
+894,100.0,North American Lager,American-Style Malt Liquor,622.0,SDUD8m,King Cobra,King Cobra,6.0,,,N,BznahA,N,verified
+895,101.0,North American Lager,American-Style Amber Lager,165.0,4fKoj3,Black Crown,Black Crown,6.0,,5.0,N,BznahA,N,verified
+896,101.0,North American Lager,American-Style Amber Lager,233.0,ueYGTP,Budweiser 1933 Repeal Reserve,Budweiser 1933 Repeal Reserve,6.1,,,N,BznahA,N,verified
+897,101.0,North American Lager,American-Style Amber Lager,236.0,mobjLC,Budweiser Copper Lager,Budweiser Copper Lager,6.2,,,N,BznahA,N,verified
+898,101.0,North American Lager,American-Style Amber Lager,237.0,bQk5Rn,Budweiser Freedom Reserve,Budweiser Freedom Reserve,5.4,,,N,BznahA,N,verified
+899,101.0,North American Lager,American-Style Amber Lager,432.0,AI17Hf,Fumble Brewski,Fumble Brewski,4.5,,,N,q6vJUK,N,verified
+900,101.0,North American Lager,American-Style Amber Lager,738.0,4QiGHK,O'Doul's Amber,O'Doul's Amber,0.5,,,N,BznahA,N,verified
+901,101.0,North American Lager,American-Style Amber Lager,747.0,ADXvig,Oktober-Fiesta,Oktober-Fiesta,5.5,,5.0,N,941OaA,N,verified
+902,101.0,North American Lager,American-Style Amber Lager,815.0,hbf2am,Pomona Queen,Pomona Queen,4.8,,5.0,N,941OaA,N,verified
+903,101.0,North American Lager,American-Style Amber Lager,1047.0,TvAG7D,Uncle Bert's Farm Market Red,Uncle Bert's Farm Market Red,5.6,,,N,AqEUBQ,N,verified
+904,101.0,North American Lager,American-Style Amber Lager,1107.0,nwNOxm,ZiegenBock Amber,ZiegenBock Amber,4.9,,,N,BznahA,N,verified
+905,102.0,North American Lager,American-Style Märzen / Oktoberfest,261.0,zd3xxc,Centennial Hop Mountain Marzen (Batch No. 80524),Centennial Hop Mountain Marzen (Batch No. 80524),5.9,,3.0,N,BznahA,N,verified
+906,102.0,North American Lager,American-Style Märzen / Oktoberfest,404.0,KPu2Ot,Festival Bier,Festival Bier,6.0,,,N,nHLlnK,N,verified
+907,102.0,North American Lager,American-Style Märzen / Oktoberfest,748.0,Pwu2fR,Oktoberfest,Oktoberfest (2015),6.0,2015.0,,N,nHLlnK,Y,verified
+908,102.0,North American Lager,American-Style Märzen / Oktoberfest,749.0,Q5y7v5,Oktoberfest,Oktoberfest (2018),6.0,2018.0,,N,nHLlnK,N,verified
+909,102.0,North American Lager,American-Style Märzen / Oktoberfest,750.0,42fXwv,Oktoberfest,Oktoberfest,5.3,,,N,AqEUBQ,N,verified
+910,102.0,North American Lager,American-Style Märzen / Oktoberfest,752.0,sfHgoE,Oktoberfest,Oktoberfest (2014),6.2,2014.0,,N,nHLlnK,Y,verified
+911,102.0,North American Lager,American-Style Märzen / Oktoberfest,755.0,YUVOGh,Oktoberfest Marzen Lager,Oktoberfest Marzen Lager,5.4,,,N,VEY3Xa,N,verified
+912,102.0,North American Lager,American-Style Märzen / Oktoberfest,1038.0,4eYvNS,TuberFest,TuberFest,7.5,,,N,nLsoQ9,N,verified
+913,103.0,North American Lager,American-Style Dark Lager,169.0,HSChH3,Black Lager (Hatchery Series Release #3),Black Lager (Hatchery Series Release #3),5.0,,,N,TMc6H2,N,verified
+914,103.0,North American Lager,American-Style Dark Lager,249.0,9OyQXs,California Black Beer,California Black Beer,4.9,,5.0,N,941OaA,N,verified
+915,103.0,North American Lager,American-Style Dark Lager,332.0,bwmm73,Daytona Dark Wheat Lager (Batch No. 32218),Daytona Dark Wheat Lager (Batch No. 32218),5.0,,5.0,N,BznahA,N,verified
+916,104.0,Other Lager,Baltic-Style Porter,78.0,J2UGn1,Baltic Anomaly,Baltic Anomaly,8.5,,,N,AqEUBQ,N,verified
+917,104.0,Other Lager,Baltic-Style Porter,79.0,Beiqbm,Baltic Joy,Baltic Joy,7.4,,,N,nHLlnK,N,verified
+918,104.0,Other Lager,Baltic-Style Porter,836.0,s1eqWg,Rainy Day Blues,Rainy Day Blues,6.0,,,Y,p1tFbP,N,verified
+919,105.0,Other Lager,"Australasian, Latin American or Tropical-Style Light Lager",992.0,Xv2EIK,Tequiza,Tequiza,4.5,,5.0,N,BznahA,Y,verified
+920,106.0,International Styles,International-Style Pilsener,134.0,17KZDP,Bella Czech Pils,Bella Czech Pils,5.3,,,N,DifSi4,N,verified
+921,106.0,International Styles,International-Style Pilsener,944.0,h7N6T9,Stephan Urquell ,Stephan Urquell ,4.0,,,Y,4F7QA9,N,verified
+922,106.0,International Styles,International-Style Pilsener,1042.0,5dbIgo,Twisted Fish,Twisted Fish,5.3,,,N,TMc6H2,N,verified
+923,107.0,International Styles,Dry Lager,,,,,,,,,,,
+924,108.0,Hybrid/mixed Beer,Session Beer,280.0,oEiXJV,Christmas Jam,Christmas Jam,4.2,,5.0,N,nHLlnK,N,verified
+925,108.0,Hybrid/mixed Beer,Session Beer,435.0,CWqXDN,Fusion 16,Fusion 16,4.8,,,N,nLsoQ9,N,verified
+926,108.0,Hybrid/mixed Beer,Session Beer,786.0,pYkVxn,Pacific Daylight,Pacific Daylight,3.9,,5.0,N,941OaA,N,verified
+927,108.0,Hybrid/mixed Beer,Session Beer,1100.0,ndBEW0,Xtra Time,Xtra Time,4.4,,,N,AqEUBQ,N,verified
+928,109.0,Hybrid/mixed Beer,American-Style Cream Ale or Lager,302.0,xwLUUb,Cream Ale,Cream Ale,5.0,,5.0,N,yX6twV,N,verified
+929,109.0,Hybrid/mixed Beer,American-Style Cream Ale or Lager,573.0,IAP9Ye,Huckleberry Cream Ale,Huckleberry Cream Ale,5.5,,5.0,N,yX6twV,N,verified
+930,109.0,Hybrid/mixed Beer,American-Style Cream Ale or Lager,608.0,jNqqVQ,Jenny Scream Ale,Jenny Scream Ale,5.3,,,N,q6vJUK,N,verified
+931,109.0,Hybrid/mixed Beer,American-Style Cream Ale or Lager,620.0,P9Ly3t,Kilkenny Irish Cream Ale,Kilkenny Irish Cream Ale,4.3,,,N,HaPdSL,N,verified
+932,109.0,Hybrid/mixed Beer,American-Style Cream Ale or Lager,723.0,EkVPnE,Nitro Orange Cream Ale,Nitro Orange Cream Ale,5.5,,,N,IImUD9,N,verified
+933,110.0,Hybrid/mixed Beer,California Common Beer,,,,,,,,,,,
+934,111.0,Hybrid/mixed Beer,Ginjo Beer or Sake-Yeast Beer,,,,,,,,,,,
+935,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,44.0,6AcqY6,Agave Wheat,Agave Wheat,5.9,,9.0,N,IImUD9,N,verified
+936,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,268.0,qqOqX9,Chernigivske White,Chernigivske White,5.0,,,N,BznahA,N,verified
+937,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,299.0,bHmQdD,Crank Tank,Crank Tank,5.8,,5.0,N,TMc6H2,N,verified
+938,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,310.0,nFcIwJ,D07,D07,,,,Y,p1tFbP,N,verified
+939,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,401.0,xXEmDi,Fandom Ale Fusion XXXIX,Fandom Ale Fusion XXXIX,5.5,,,N,nLsoQ9,N,verified
+940,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,474.0,U7lF72,Grass Monkey,Grass Monkey,5.4,,,N,TMc6H2,N,verified
+941,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,557.0,Rj8PxJ,Hopfenweisse,Hopfenweisse,5.7,,,N,VEY3Xa,N,verified
+942,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,602.0,Yuzbjs,Irish Wheat,Irish Wheat,5.3,,,N,HaPdSL,N,verified
+943,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,871.0,zTJ86p,Rye Hatter,Rye Hatter,6.12,,5.0,N,AqEUBQ,N,verified
+944,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,960.0,AQE3Sx,Summer Session,Summer Session,5.0,,,N,p3YrOa,N,verified
+945,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,964.0,PB49EI,Sun Dog Amber Wheat,Sun Dog Amber Wheat,5.3,,,N,BznahA,N,verified
+946,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,976.0,XJ7ZBB,SweetWater SchWheat,SweetWater SchWheat,4.9,,5.0,N,TMc6H2,Y,verified
+947,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,991.0,cXEnHS,Tequila Barrel-Aged Ophelia,Tequila Barrel-Aged Ophelia,6.6,,,N,IImUD9,N,verified
+948,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,1048.0,ExTe8O,Unfiltered Wheat Beer,Unfiltered Wheat Beer,4.4,,5.0,N,nHLlnK,N,verified
+949,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,1071.0,iypGyz,Wet Hopped American Summer,Wet Hopped American Summer,4.8,,,Y,p1tFbP,N,verified
+950,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,1072.0,Jjw7Pd,Wheat Of The Moment,Wheat Of The Moment,5.7,,,Y,nHLlnK,N,verified
+951,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,1103.0,ruYTf6,Yippe Rye Aye!,Yippe Rye Aye!,5.9,,5.0,N,nHLlnK,N,verified
+952,112.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager with Yeast,1108.0,EBlZnE,Zoomer,Zoomer,4.7,,,N,AqEUBQ,N,verified
+953,113.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager without Yeast,765.0,r4I50V,Ophelia,Ophelia,6.6,,,N,IImUD9,N,verified
+954,113.0,Hybrid/mixed Beer,Light American Wheat Ale or Lager without Yeast,955.0,h9JXAb,Summer Ale,Summer Ale,4.7,,9.0,N,DifSi4,N,verified
+955,114.0,Hybrid/mixed Beer,Fruit Wheat Ale or Lager with or without Yeast,47.0,2cLm8B,All Colorado Apricot Wheat,All Colorado Apricot Wheat,5.5,,,N,q6vJUK,N,verified
+956,115.0,Hybrid/mixed Beer,Dark American Wheat Ale or Lager with Yeast,300.0,FDpmPR,Crank Tank Rye'd Ale,Crank Tank Rye'd Ale,6.2,,,N,TMc6H2,N,verified
+957,115.0,Hybrid/mixed Beer,Dark American Wheat Ale or Lager with Yeast,959.0,MmaQrA,Summer Rye,Summer Rye,,,,N,4F7QA9,N,verified
+958,116.0,Hybrid/mixed Beer,Dark American Wheat Ale or Lager without Yeast,,,,,,,,,,,
+959,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,71.0,HxW3xw,Audition - Rye Bock,Audition - Rye Bock,7.2,,,N,nHLlnK,N,verified
+960,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,251.0,xpBGZB,CANfusion - Beer Camp Across America,CANfusion - Beer Camp Across America (2014),7.2,2014.0,5.0,N,q6vJUK,N,verified
+961,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,304.0,fDmp62,Crye Me A River,Crye Me A River,5.6,,,N,q6vJUK,N,verified
+962,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,336.0,ZvzhRI,Deer Antler,Deer Antler,,,,Y,p1tFbP,N,verified
+963,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,498.0,DGCFAD,Guinness Rye Pale Ale,Guinness Rye Pale Ale,5.0,,,N,HaPdSL,N,verified
+964,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,652.0,DNAmvo,LowRYEder IPA,LowRYEder IPA,6.2,,5.0,N,TMc6H2,N,verified
+965,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,840.0,p0Qbef,Red Ryeot,Red Ryeot,6.5,,,N,nHLlnK,N,verified
+966,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,844.0,UPDwhn,Reeb Rye'd PA,Reeb Rye'd PA,7.0,,,N,q6vJUK,N,verified
+967,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,852.0,XlDXNh,River Ryed Rye IPA,River Ryed Rye IPA,6.0,,,N,nHLlnK,N,verified
+968,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,860.0,TLdF50,Rompo Red Rye Ale,Rompo Red Rye Ale,5.6,,,N,p1tFbP,N,verified
+969,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,868.0,lMlLXZ,Ryde Beer,Ryde Beer,5.0,,,N,DifSi4,N,verified
+970,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,873.0,HyTdTM,Rye Times,Rye Times,,,,N,q6vJUK,N,verified
+971,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,875.0,lDDTXD,Ryeday the 13th,Ryeday the 13th,5.5,,,N,nHLlnK,N,verified
+972,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,891.0,8vbUYR,Session Rye,Session Rye,4.5,,,N,nHLlnK,N,verified
+973,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,894.0,1qx64W,Shamrock'n Rye Ale,Shamrock'n Rye Ale,6.6,,,N,nHLlnK,N,verified
+974,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,1045.0,Mp3DgY,Two-Headed Ruthless Rye IPA,Two-Headed Ruthless Rye IPA,9.7,,,N,nHLlnK,N,verified
+975,117.0,Hybrid/mixed Beer,Rye Ale or Lager with or without Yeast,1070.0,hCMeA4,West Latitude Session Rye,West Latitude Session Rye,5.5,,,N,nHLlnK,N,verified
+976,118.0,Hybrid/mixed Beer,German-Style Rye Ale (Roggenbier) with or without Yeast,421.0,VyWf1j,Four Roses Rompo,Four Roses Rompo,,,,Y,p1tFbP,N,verified
+977,119.0,Hybrid/mixed Beer,Fruit Beer,181.0,wzCyVT,Blue,Blue,4.6,,5.0,N,TMc6H2,N,verified
+978,119.0,Hybrid/mixed Beer,Fruit Beer,186.0,932XO8,Blueberry Ale,Blueberry Ale,4.5,,5.0,N,DifSi4,N,verified
+979,119.0,Hybrid/mixed Beer,Fruit Beer,187.0,WTmAem,Blueberry Porter,Blueberry Porter,,,,Y,p1tFbP,N,verified
+980,119.0,Hybrid/mixed Beer,Fruit Beer,222.0,Dvucvo,Bud Light Blends Lemon,Bud Light Blends Lemon,3.5,,,N,BznahA,N,verified
+981,119.0,Hybrid/mixed Beer,Fruit Beer,229.0,LXWiDB,Bud Light Radler - Grapefuit,Bud Light Radler - Grapefuit,2.4,,,N,BznahA,N,verified
+982,119.0,Hybrid/mixed Beer,Fruit Beer,231.0,doijNb,Buddha's Hand - Mountain Series,Buddha's Hand - Mountain Series,,,,N,IImUD9,N,verified
+983,119.0,Hybrid/mixed Beer,Fruit Beer,386.0,OFYff7,Envious,Envious (2012),7.5,2012.0,8.0,N,AqEUBQ,N,verified
+984,119.0,Hybrid/mixed Beer,Fruit Beer,470.0,S3xcp2,Gr8ful Anniversary Ale,Gr8ful Anniversary Ale,5.2,,,N,VEY3Xa,N,verified
+985,119.0,Hybrid/mixed Beer,Fruit Beer,627.0,7x2tzn,Kölsch TEST DUMMIES,Kölsch TEST DUMMIES,6.4,,,N,nHLlnK,N,verified
+986,119.0,Hybrid/mixed Beer,Fruit Beer,650.0,zDUkcd,Lost Dune,Lost Dune,5.5,,,N,AqEUBQ,N,verified
+987,119.0,Hybrid/mixed Beer,Fruit Beer,793.0,gpCMad,Passion Blaster,Passion Blaster,6.0,,,N,AqEUBQ,N,verified
+988,119.0,Hybrid/mixed Beer,Fruit Beer,800.0,KnIZVN,Peach/Blueberry Hefeweizen,Peach/Blueberry Hefeweizen,,,,Y,p1tFbP,N,verified
+989,119.0,Hybrid/mixed Beer,Fruit Beer,837.0,WUHF66,Rascal's Wild Red,Rascal's Wild Red,8.0,,,N,BznahA,N,verified
+990,119.0,Hybrid/mixed Beer,Fruit Beer,892.0,uAYQwf,Shadow's Wild Black,Shadow's Wild Black,8.0,,,N,BznahA,N,verified
+991,119.0,Hybrid/mixed Beer,Fruit Beer,1063.0,R7UZkR,Wango Mango,Wango Mango,6.0,,,N,q6vJUK,N,verified
+992,119.0,Hybrid/mixed Beer,Fruit Beer,1094.0,TpeMIM,Witbier with Grapefruit,Witbier with Grapefruit,7.0,,,N,nHLlnK,N,verified
+993,120.0,Hybrid/mixed Beer,Field Beer,,,,,,,,,,,
+994,121.0,Hybrid/mixed Beer,Pumpkin Beer,137.0,QtA7tb,Betsy's Revenge,Betsy's Revenge,4.5,,,Y,p1tFbP,N,verified
+995,121.0,Hybrid/mixed Beer,Pumpkin Beer,477.0,Cj5RaA,Great Pumpkin,Great Pumpkin,5.5,,,N,p3YrOa,N,verified
+996,121.0,Hybrid/mixed Beer,Pumpkin Beer,578.0,qQTYZ8,Ichabod Pumpkin Ale,Ichabod Pumpkin Ale,5.2,,5.0,N,AqEUBQ,N,verified
+997,121.0,Hybrid/mixed Beer,Pumpkin Beer,586.0,uL3sSR,Imperial Pumpkin,Imperial Pumpkin,8.0,,5.0,N,DifSi4,N,verified
+998,121.0,Hybrid/mixed Beer,Pumpkin Beer,604.0,EiBcm8,Jack-Ale-Lantern,Jack-Ale-Lantern,,,,N,p1tFbP,N,verified
+999,121.0,Hybrid/mixed Beer,Pumpkin Beer,830.0,UimBmb,Pumpkin Chub,Pumpkin Chub,8.0,,,N,q6vJUK,N,verified
+1000,122.0,Hybrid/mixed Beer,Chocolate / Cocoa-Flavored Beer,276.0,T1YdsG,Chocolate Pretzel Stout,Chocolate Pretzel Stout,5.2,,,Y,p1tFbP,N,verified
+1001,123.0,Hybrid/mixed Beer,Coffee-Flavored Beer,192.0,75agIj,Bolivia Newton John,Bolivia Newton John,,,,N,q6vJUK,N,verified
+1002,123.0,Hybrid/mixed Beer,Coffee-Flavored Beer,690.0,GWVXY3,Mocha Porter,Mocha Porter,,,,Y,p1tFbP,N,verified
+1003,124.0,Hybrid/mixed Beer,Herb and Spice Beer,121.0,q5sbES,Beer Camp: Raspberry Sundae Ale,Beer Camp: Raspberry Sundae Ale (2017),8.0,2017.0,,N,nHLlnK,N,verified
+1004,124.0,Hybrid/mixed Beer,Herb and Spice Beer,123.0,SPbPNt,Beer Camp: Thai-Style Iced Tea,Beer Camp: Thai-Style Iced Tea (2017),7.2,2017.0,,N,nHLlnK,N,verified
+1005,124.0,Hybrid/mixed Beer,Herb and Spice Beer,217.0,W2dlxg,Bud Extra,Bud Extra,6.6,,,N,BznahA,N,verified
+1006,124.0,Hybrid/mixed Beer,Herb and Spice Beer,279.0,zpvlri,Christmas Chub,Christmas Chub,8.0,,,N,q6vJUK,N,verified
+1007,124.0,Hybrid/mixed Beer,Herb and Spice Beer,383.0,YBxI4X,El Mole Ocho,El Mole Ocho,10.0,,,N,AqEUBQ,N,verified
+1008,124.0,Hybrid/mixed Beer,Herb and Spice Beer,405.0,RsGMGn,Festive Ale,Festive Ale (2013),8.5,2013.0,,N,TMc6H2,N,verified
+1009,124.0,Hybrid/mixed Beer,Herb and Spice Beer,603.0,mrLL4r,Jack's Pumpkin Spice Ale,Jack's Pumpkin Spice Ale,5.5,,,N,BznahA,N,verified
+1010,124.0,Hybrid/mixed Beer,Herb and Spice Beer,971.0,ctjbwM,SweetWater Festive Ale,SweetWater Festive Ale,8.5,,5.0,N,TMc6H2,N,verified
+1011,124.0,Hybrid/mixed Beer,Herb and Spice Beer,1093.0,xMjKhw,Wintertide Ale,Wintertide Ale,6.0,,,N,nHLlnK,N,verified
+1012,124.0,Hybrid/mixed Beer,Herb and Spice Beer,1099.0,x21pxt,XMas Chub,XMas Chub,8.0,,,N,q6vJUK,N,verified
+1013,125.0,Hybrid/mixed Beer,Specialty Beer,77.0,PPM1hu,Balls Deep,Balls Deep,,,,N,TMc6H2,N,verified
+1014,125.0,Hybrid/mixed Beer,Specialty Beer,214.0,GwYXdk,Brux,Brux,8.3,,,N,nHLlnK,N,verified
+1015,125.0,Hybrid/mixed Beer,Specialty Beer,295.0,ViVJh6,CÔTE DE CHAMPLAIN,CÔTE DE CHAMPLAIN,6.1,,,N,VEY3Xa,N,verified
+1016,125.0,Hybrid/mixed Beer,Specialty Beer,375.0,dFaMLe,Dry-Hopped Censored Ale,Dry-Hopped Censored Ale,6.7,,,N,nLsoQ9,N,verified
+1017,125.0,Hybrid/mixed Beer,Specialty Beer,382.0,jcxBhr,el Mole Ocho,el Mole Ocho (2011),8.4,2011.0,5.0,N,AqEUBQ,N,verified
+1018,125.0,Hybrid/mixed Beer,Specialty Beer,391.0,LDb6oj,Estate Ale,Estate Ale,6.7,,5.0,Y,nHLlnK,N,verified
+1019,125.0,Hybrid/mixed Beer,Specialty Beer,440.0,uec7XF,Fusion 22,Fusion 22,7.8,,,N,nLsoQ9,N,verified
+1020,125.0,Hybrid/mixed Beer,Specialty Beer,538.0,YUaX19,Holiday Ale (2011),Holiday Ale (2011),7.6,,5.0,N,nLsoQ9,N,verified
+1021,125.0,Hybrid/mixed Beer,Specialty Beer,540.0,9UUKMj,Holiday Leftovers Ale,Holiday Leftovers Ale,7.6,,5.0,N,nLsoQ9,N,verified
+1022,125.0,Hybrid/mixed Beer,Specialty Beer,554.0,qXs21b,Hop Smack Double,Hop Smack Double,8.1,,,N,nHLlnK,N,verified
+1023,125.0,Hybrid/mixed Beer,Specialty Beer,767.0,qX8i3E,Oskar the G’Rauch,Oskar the G’Rauch,8.5,,,N,q6vJUK,N,verified
+1024,125.0,Hybrid/mixed Beer,Specialty Beer,877.0,a5LtHp,Sacramento Beer Week Beer,Sacramento Beer Week Beer,9.0,,5.0,N,nLsoQ9,N,verified
+1025,125.0,Hybrid/mixed Beer,Specialty Beer,880.0,yh28GV,Sakitumi,Sakitumi,9.0,,,N,nLsoQ9,N,verified
+1026,125.0,Hybrid/mixed Beer,Specialty Beer,924.0,Bzl1Jw,Solar Coaster,Solar Coaster,6.1,,,N,AqEUBQ,N,verified
+1027,125.0,Hybrid/mixed Beer,Specialty Beer,993.0,vf8QTx,Terra Incognita,Terra Incognita,8.5,,8.0,N,nHLlnK,N,verified
+1028,126.0,Hybrid/mixed Beer,Specialty Honey Lager or Ale,874.0,VdK5qM,Rye Way 117,Rye Way 117,7.4,,,N,nHLlnK,N,verified
+1029,127.0,Hybrid/mixed Beer,Gluten-Free Beer,843.0,7aeVlx,Redbridge,Redbridge,4.0,,5.0,N,BznahA,N,verified
+1030,128.0,Hybrid/mixed Beer,Indigenous Beer (Lager or Ale),524.0,MZicx4,Hatchery Series 2 Mexican Style Lager,Hatchery Series 2 Mexican Style Lager,4.8,,,N,TMc6H2,N,verified
+1031,129.0,Hybrid/mixed Beer,Smoke Beer (Lager or Ale),917.0,K6s9S1,Smoke on The Water,Smoke on The Water,7.0,,,N,q6vJUK,N,verified
+1032,129.0,Hybrid/mixed Beer,Smoke Beer (Lager or Ale),1032.0,pO0ouy,Triple Smoked Cubcrawler,Triple Smoked Cubcrawler,6.0,,,Y,p1tFbP,N,verified
+1033,130.0,Hybrid/mixed Beer,Experimental Beer (Lager or Ale),,,,,,,,,,,
+1034,131.0,Hybrid/mixed Beer,Historical Beer,,,,,,,,,,,
+1035,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,94.0,xjSOtt,Barrel-Aged Porter,Barrel-Aged Porter,7.4,,,N,nHLlnK,N,verified
+1036,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,107.0,OJadqc,Beer Barrel Bourbon,Beer Barrel Bourbon,,,,N,AqEUBQ,N,verified
+1037,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,472.0,4o9Ml2,Grandma's Closet,Grandma's Closet,7.6,,,N,nHLlnK,N,verified
+1038,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,535.0,5ntmM9,Holidale,Holidale,7.4,,,N,IImUD9,N,verified
+1039,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,536.0,GnPJde,Holidale (2016),Holidale (2016),10.3,,,N,IImUD9,N,verified
+1040,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,537.0,t787n5,Holidale (2017),Holidale (2017),8.8,,,N,IImUD9,N,verified
+1041,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,669.0,fIWpZI,Marilla Trail,Marilla Trail,10.1,,,N,AqEUBQ,N,verified
+1042,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,780.0,cB7Dxt,Ovila Dubbel Barrel-Aged,Ovila Dubbel Barrel-Aged,10.8,,,N,nHLlnK,N,verified
+1043,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,857.0,zkfPGW,Rompo Red Rye (Bourbon Barrel Aged),Rompo Red Rye (Bourbon Barrel Aged),5.2,,,Y,p1tFbP,N,verified
+1044,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,858.0,M77aJE,Rompo Red Rye (Corsair Quinoa Whiskey Barrel Aged),Rompo Red Rye (Corsair Quinoa Whiskey Barrel Aged),,,,Y,p1tFbP,N,verified
+1045,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,859.0,akZCc6,Rompo Red Rye (Dickel),Rompo Red Rye (Dickel),5.2,,,Y,p1tFbP,N,verified
+1046,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,903.0,f1MEZQ,Single Barrel Rompo,Single Barrel Rompo,,,,Y,p1tFbP,N,verified
+1047,132.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Beer,1068.0,5hvNTC,Well Built,Well Built,8.8,,,N,IImUD9,N,verified
+1048,133.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Pale to Amber Beer,635.0,41SRDq,Leghorn IPA Barrel Aged - Dickel,Leghorn IPA Barrel Aged - Dickel,,,,Y,p1tFbP,N,verified
+1049,134.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Dark Beer,105.0,c4ODPx,Bearwalker Maple Brown (Four Roses Barrel-Aged),Bearwalker Maple Brown (Four Roses Barrel-Aged),,,,Y,p1tFbP,N,verified
+1050,134.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Dark Beer,241.0,jnOm9n,Buffalo Trace Barrel-Aged Bearwalker,Buffalo Trace Barrel-Aged Bearwalker,,,,Y,p1tFbP,N,verified
+1051,134.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Dark Beer,366.0,DwfEan,Dragon's Milk Reserve: Raspberry Lemon,Dragon's Milk Reserve: Raspberry Lemon,11.0,,,N,AqEUBQ,N,verified
+1052,134.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Dark Beer,368.0,Y6iD9x,Dragon’s Milk Reserve with Raspberries,Dragon’s Milk Reserve with Raspberries,11.0,,,N,AqEUBQ,N,verified
+1053,134.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Dark Beer,1024.0,x3B5d8,Trip in the Woods NARWHAL,Trip in the Woods NARWHAL,9.8,,,N,nHLlnK,N,verified
+1054,135.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Strong Beer,8.0,iJ329Y,19 - Golden Belgian Style Ale,19 - Golden Belgian Style Ale,7.0,,,N,TMc6H2,N,verified
+1055,136.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Sour Beer,135.0,8nUyoD,Belle Meade Bourbon Sour,Belle Meade Bourbon Sour,,,,Y,p1tFbP,N,verified
+1056,136.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Sour Beer,406.0,ULacWY,Fils à Papa IV,Fils à Papa IV,6.5,,,N,uM2jeT,N,verified
+1057,136.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Sour Beer,594.0,uzbisB,Incorrigible Reserve,Incorrigible Reserve,4.5,,,N,AqEUBQ,N,verified
+1058,136.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Sour Beer,926.0,NZ5gEX,Sour Cherry Ten FIDY,Sour Cherry Ten FIDY,10.0,,,N,q6vJUK,N,verified
+1059,136.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Sour Beer,1005.0,QJZFnY,The Pit & The Pendulum with Cherries,The Pit & The Pendulum with Cherries,6.1,,,N,TMc6H2,N,verified
+1060,136.0,Hybrid/mixed Beer,Wood- and Barrel-Aged Sour Beer,1098.0,SZbmSL,WTFarmhouse,WTFarmhouse,8.41,,,N,nLsoQ9,N,verified
+1061,137.0,Hybrid/mixed Beer,Aged Beer (Ale or Lager),,,,,,,,,,,
+1062,138.0,Hybrid/mixed Beer,Other Strong Ale or Lager,22.0,KjumXn,30th Anniversary - Grand Cru,30th Anniversary - Grand Cru,9.2,,,N,nHLlnK,N,verified
+1063,138.0,Hybrid/mixed Beer,Other Strong Ale or Lager,457.0,esFZwY,G'Knight Imperial Red IPA,G'Knight Imperial Red IPA,8.7,,,N,q6vJUK,N,verified
+1064,138.0,Hybrid/mixed Beer,Other Strong Ale or Lager,623.0,XRsG9K,Kings Dish,Kings Dish,6.8,,,N,IImUD9,N,verified
+1065,138.0,Hybrid/mixed Beer,Other Strong Ale or Lager,643.0,2mfXU8,Little Bohemia,Little Bohemia,5.3,,,N,AqEUBQ,N,verified
+1066,139.0,Hybrid/mixed Beer,Non-Alcoholic (Beer) Malt Beverages,238.0,jjIwuS,Budweiser Prohibition Brew,Budweiser Prohibition Brew,0.5,,,N,BznahA,N,verified
+1067,139.0,Hybrid/mixed Beer,Non-Alcoholic (Beer) Malt Beverages,615.0,e4in1c,Kaliber,Kaliber,0.5,,5.0,N,HaPdSL,N,verified
+1068,139.0,Hybrid/mixed Beer,Non-Alcoholic (Beer) Malt Beverages,737.0,n6p2aw,O'Doul's,O'Doul's,0.5,,,N,BznahA,N,verified
+1069,140.0,"Mead, Cider, & Perry",Dry Mead,,,,,,,,,,,
+1070,141.0,"Mead, Cider, & Perry",Semi-Sweet Mead,,,,,,,,,,,
+1071,142.0,"Mead, Cider, & Perry",Sweet Mead,,,,,,,,,,,
+1072,143.0,"Mead, Cider, & Perry",Cyser (Apple Melomel),827.0,LDo4fA,Puff The Magic Cyser,Puff The Magic Cyser,8.5,,,N,AqEUBQ,N,verified
+1073,144.0,"Mead, Cider, & Perry",Pyment (Grape Melomel),,,,,,,,,,,
+1074,145.0,"Mead, Cider, & Perry",Other Fruit Melomel,,,,,,,,,,,
+1075,146.0,"Mead, Cider, & Perry",Metheglin,,,,,,,,,,,
+1076,147.0,"Mead, Cider, & Perry",Braggot,,,,,,,,,,,
+1077,148.0,"Mead, Cider, & Perry",Open Category Mead,,,,,,,,,,,
+1078,149.0,"Mead, Cider, & Perry",Common Cider,609.0,J0OjIy,Johnny Appleseed,Johnny Appleseed,5.5,,,N,BznahA,N,verified
+1079,150.0,"Mead, Cider, & Perry",English Cider,556.0,4NgQyT,Hop-Scotch,Hop-Scotch,6.2,,,N,VEY3Xa,N,verified
+1080,151.0,"Mead, Cider, & Perry",French Cider,,,,,,,,,,,
+1081,152.0,"Mead, Cider, & Perry",Common Perry,,,,,,,,,,,
+1082,153.0,"Mead, Cider, & Perry",Traditional Perry,,,,,,,,,,,
+1083,154.0,"Mead, Cider, & Perry",New England Cider,,,,,,,,,,,
+1084,155.0,"Mead, Cider, & Perry",Fruit Cider,,,,,,,,,,,
+1085,156.0,"Mead, Cider, & Perry",Apple Wine,,,,,,,,,,,
+1086,157.0,"Mead, Cider, & Perry",Other Specialty Cider or Perry,,,,,,,,,,,
+1087,158.0,North American Origin Ales,American-Style Imperial Porter,18.0,YZXVKq,25th Anniversary,25th Anniversary,9.8,,,N,IImUD9,N,verified
+1088,158.0,North American Origin Ales,American-Style Imperial Porter,91.0,DvxCJ2,Barrel Aged Twenty Five,Barrel Aged Twenty Five,9.8,,,N,IImUD9,N,verified
+1089,158.0,North American Origin Ales,American-Style Imperial Porter,210.0,9slIEB,Broken Vow,Broken Vow,,,,N,nHLlnK,N,verified
+1090,158.0,North American Origin Ales,American-Style Imperial Porter,294.0,uycrg9,Corsair Buckwheat Porter,Corsair Buckwheat Porter,,,,Y,p1tFbP,N,verified
+1091,158.0,North American Origin Ales,American-Style Imperial Porter,335.0,TQaDOh,Death By Coconut (Rum Barrel Aged),Death By Coconut (Rum Barrel Aged),11.5,,,N,q6vJUK,N,verified
+1092,158.0,North American Origin Ales,American-Style Imperial Porter,582.0,AVcFA8,Imperial Pecan Porter,Imperial Pecan Porter,9.0,,,N,yX6twV,N,verified
+1093,158.0,North American Origin Ales,American-Style Imperial Porter,648.0,DmCMSF,London Calling English Porter Cask,London Calling English Porter Cask,5.3,,,N,AqEUBQ,N,verified
+1094,158.0,North American Origin Ales,American-Style Imperial Porter,870.0,7bnlRC,Rye Cocoa Porter - ScareCity #2,Rye Cocoa Porter - ScareCity #2,10.2,,,N,nLsoQ9,N,verified
+1095,159.0,German Origin Ales,Adambier,,,,,,,,,,,
+1096,160.0,Other Origin,Grodziskie,,,,,,,,,,,
+1097,161.0,Malternative Beverages,Flavored Malt Beverage,226.0,VwOYAS,Bud Light Lime Mang-O-Rita,Bud Light Lime Mang-O-Rita,8.0,,,N,BznahA,N,verified
+1098,161.0,Malternative Beverages,Flavored Malt Beverage,230.0,YCBXba,Bud Light Straw-Ber-Rita,Bud Light Straw-Ber-Rita,8.0,,,N,BznahA,N,verified
+1099,161.0,Malternative Beverages,Flavored Malt Beverage,297.0,bqKaTO,Cran-Ber-Rita,Cran-Ber-Rita,8.0,,,N,BznahA,N,verified
+1100,161.0,Malternative Beverages,Flavored Malt Beverage,473.0,17XX3q,GRAPE-A-RITA,GRAPE-A-RITA,,,,N,BznahA,N,verified
+1101,161.0,Malternative Beverages,Flavored Malt Beverage,641.0,36DmYw,Lime-a-Rita,Lime-a-Rita,8.0,,,N,BznahA,N,verified
+1102,161.0,Malternative Beverages,Flavored Malt Beverage,688.0,ZYOCUN,Mixxtail Firewalker,Mixxtail Firewalker,8.0,,,N,BznahA,N,verified
+1103,161.0,Malternative Beverages,Flavored Malt Beverage,689.0,Bs70do,Mixxtail Long Island Iced Tea,Mixxtail Long Island Iced Tea,8.0,,,N,BznahA,N,verified
+1104,161.0,Malternative Beverages,Flavored Malt Beverage,799.0,dRGLDH,Peach-a-Rita,Peach-a-Rita,8.0,,,N,BznahA,N,verified
+1105,161.0,Malternative Beverages,Flavored Malt Beverage,808.0,NAfiYn,Pine-Apple-Rita,Pine-Apple-Rita,8.0,,,N,BznahA,N,verified
+1106,161.0,Malternative Beverages,Flavored Malt Beverage,838.0,NCsyAW,Raz-Ber-Rita,Raz-Ber-Rita,8.0,,,N,BznahA,N,verified
+1107,161.0,Malternative Beverages,Flavored Malt Beverage,1065.0,Fkz9Mi,Water-melon-Rita,Water-melon-Rita,8.0,,,N,BznahA,N,verified
+1108,162.0,Malternative Beverages,Energy Enhanced Malt Beverage,,,,,,,,,,,
+1109,163.0,British Origin Ales,Double Red Ale,,,,,,,,,,,
+1110,164.0,North American Origin Ales,Session India Pale Ale,1.0,zTTWa2,11.5° PLATO,11.5° PLATO,4.5,,,N,nHLlnK,N,verified
+1111,164.0,North American Origin Ales,Session India Pale Ale,19.0,7z8RTq,3 Weight,3 Weight,4.0,,,N,nHLlnK,N,verified
+1112,164.0,North American Origin Ales,Session India Pale Ale,331.0,qgR2pv,DayTime Ale,DayTime Ale,4.65,,5.0,N,nLsoQ9,N,verified
+1113,164.0,North American Origin Ales,Session India Pale Ale,395.0,bTNGkO,Experimental Hop Session IPA,Experimental Hop Session IPA,4.6,,,N,nHLlnK,N,verified
+1114,164.0,North American Origin Ales,Session India Pale Ale,475.0,wJ9ull,Gravenstime,Gravenstime,4.6,,5.0,N,nLsoQ9,N,verified
+1115,164.0,North American Origin Ales,Session India Pale Ale,520.0,JKdiyv,Hash Session IPA,Hash Session IPA,4.2,,,N,TMc6H2,N,verified
+1116,164.0,North American Origin Ales,Session India Pale Ale,614.0,FfmdpM,Juicy Wolf,Juicy Wolf,4.8,,,N,q6vJUK,N,verified
+1117,164.0,North American Origin Ales,Session India Pale Ale,795.0,Ln4Gn6,Passion Fruit Pinner,Passion Fruit Pinner,4.9,,,N,q6vJUK,N,verified
+1118,164.0,North American Origin Ales,Session India Pale Ale,810.0,52gmSJ,Pinner Throwback IPA,Pinner Throwback IPA,4.9,,,N,q6vJUK,N,verified
+1119,164.0,North American Origin Ales,Session India Pale Ale,907.0,G5Uxww,Single Hop El Dorado Session IPA,Single Hop El Dorado Session IPA,4.6,,,N,nHLlnK,N,verified
+1120,164.0,North American Origin Ales,Session India Pale Ale,934.0,7SC2N0,Southern Hemisphere Session IPA,Southern Hemisphere Session IPA,4.6,,,N,nHLlnK,N,verified
+1121,164.0,North American Origin Ales,Session India Pale Ale,1058.0,kZ5YoL,VT Haze,VT Haze,4.1,,,N,VEY3Xa,N,verified
+1122,164.0,North American Origin Ales,Session India Pale Ale,1062.0,YH9nbt,Wally Junior,Wally Junior,4.5,,,N,DifSi4,N,verified
+1123,165.0,British Origin Ales,Contemporary Gose,769.0,UZD25d,Otra Vez,Otra Vez,4.5,,,N,nHLlnK,N,verified
+1124,165.0,British Origin Ales,Contemporary Gose,770.0,cByN2F,Otra Vez Gose With Lime & Agave,Otra Vez Gose With Lime & Agave,4.9,,,N,nHLlnK,N,verified
+1125,165.0,British Origin Ales,Contemporary Gose,1030.0,K2y0MV,Trip In the Woods: Tequila-Barrel-Aged Otra Vez,Trip In the Woods: Tequila-Barrel-Aged Otra Vez,7.5,,,N,nHLlnK,N,verified
+1126,166.0,Other Origin,"Dutch-Style Kuit, Kuyt or Koyt",,,,,,,,,,,
+1127,167.0,Hybrid/mixed Beer,Belgian-style Fruit Beer,968.0,l5VbnF,Sweetwater Dank Tank Big Ol' Belgian Blue Balls,Sweetwater Dank Tank Big Ol' Belgian Blue Balls,9.0,,,N,TMc6H2,N,verified
+1128,168.0,Hybrid/mixed Beer,Chili Pepper Beer,,,,,,,,,,,
+1129,169.0,Hybrid/mixed Beer,Mixed Culture Brett Beer,,,,,,,,,,,
+1130,170.0,Hybrid/mixed Beer,Wild Beer,250.0,GTbXLB,Cambium,Cambium,5.8,,,N,TMc6H2,N,verified
+1131,170.0,Hybrid/mixed Beer,Wild Beer,270.0,WHKIRY,Cherry Hotside Sour,Cherry Hotside Sour,4.8,,,N,nLsoQ9,N,verified
+1132,170.0,Hybrid/mixed Beer,Wild Beer,307.0,3PGxCQ,Cuvée Jeune Homme,Cuvée Jeune Homme,6.5,,,N,uM2jeT,N,verified
+1133,170.0,Hybrid/mixed Beer,Wild Beer,434.0,276GV8,Funkytown,Funkytown,6.0,,,N,VEY3Xa,N,verified
+1134,170.0,Hybrid/mixed Beer,Wild Beer,572.0,bp7TkJ,HotSide Sour Mashed DayTime,HotSide Sour Mashed DayTime,4.65,,,N,nLsoQ9,N,verified
+1135,170.0,Hybrid/mixed Beer,Wild Beer,687.0,dsVALR,Mischievous,Mischievous,5.5,,,N,AqEUBQ,N,verified
+1136,170.0,Hybrid/mixed Beer,Wild Beer,1004.0,Qgkp3b,The Pit & The Pendulum,The Pit & The Pendulum,8.3,,,N,TMc6H2,N,verified
+1137,170.0,Hybrid/mixed Beer,Wild Beer,1010.0,0NyrGZ,Through the Brambles,Through the Brambles,6.3,,,N,TMc6H2,N,verified
+1138,171.0,North American Origin Ales,Juicy or Hazy Pale Ale,,,,,,,,,,,
+1139,172.0,North American Origin Ales,Juicy or Hazy India Pale Ale,527.0,tuyIzW,Hazy Memory,Hazy Memory,7.7,,,N,nLsoQ9,N,verified
+1140,172.0,North American Origin Ales,Juicy or Hazy India Pale Ale,711.0,AXkM1P,New England IPA,New England IPA,7.5,,,N,TMc6H2,N,verified
+1141,172.0,North American Origin Ales,Juicy or Hazy India Pale Ale,794.0,yjsHPX,Passion Fruit Milkshake Ipa,Passion Fruit Milkshake Ipa,6.2,,,N,nHLlnK,N,verified
+1142,173.0,North American Origin Ales,Juicy or Hazy Imperial or Double India Pale Ale,,,,,,,,,,,
+1143,174.0,North American Lager,Contemporary American-Style Pilsener,,,,,,,,,,,
+1144,175.0,Other Origin,Classic Australian-Style Pale Ale,,,,,,,,,,,
+1145,,,,14.0,uIgENV,20th Street Ale Citra,20th Street Ale Citra,7.3,,5.0,N,nHLlnK,N,verified
+1146,,,,15.0,WcP2Ww,20th Street Ale Crystal,20th Street Ale Crystal,7.3,,,N,nHLlnK,N,verified
+1147,,,,16.0,HyxQE4,20th Street Ale Magnum,20th Street Ale Magnum,7.3,,,N,nHLlnK,N,verified
+1148,,,,183.0,8b9X23,Blue Goat,Blue Goat,7.5,,,N,AqEUBQ,N,verified
+1149,,,,253.0,80tC1T,Cask-Aid,Cask-Aid,5.5,,5.0,N,nHLlnK,N,verified
+1150,,,,544.0,MUXP6K,Hop Bam,Hop Bam,5.8,,,N,nHLlnK,N,verified
+1151,,,,553.0,4QXro7,Hop Secret 644,Hop Secret 644,7.0,,,N,nHLlnK,N,verified
+1152,,,,612.0,ghPF7u,Juhlia,Juhlia,7.2,,,N,VEY3Xa,N,verified
+1153,,,,638.0,xoUVy2,Life and Limb,Life and Limb,10.2,,6.0,N,nHLlnK,N,verified
+1154,,,,657.0,C94dnF,Mach 25 Intergalactic Planetary Ale,Mach 25 Intergalactic Planetary Ale,5.0,,,N,nHLlnK,N,verified
+1155,,,,811.0,6Q7pkn,Pitch-A-Tent,Pitch-A-Tent,9.0,,5.0,N,nHLlnK,N,verified
+1156,,,,841.0,txhujB,Red Tulip,Red Tulip,,,,N,AqEUBQ,N,verified
+1157,,,,913.0,CI8j2t,Sleight of Hand,Sleight of Hand,8.3,,,N,nHLlnK,N,verified
+1158,,,,956.0,vKqrQm,Summer Gruit Ale,Summer Gruit Ale,5.1,,,N,VEY3Xa,N,verified
+1159,,,,1106.0,9GBACV,Zepher Ale,Zepher Ale,7.5,,5.0,N,nLsoQ9,N,verified

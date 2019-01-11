@@ -1,0 +1,731 @@
+,name,brewery,style,abv,ibu,rating,raters,date,text
+0,La Negra,/CadejoBrewingCompany,Cadejo Brewing Company,4.8% ABV,31 IBU,(3.53),710 Ratings,Added 03/30/14,El estilo clásico irlandés. Elaborada con una combinación de 7 tipos de malta que aportan notas de café y chocolate oscuro.
+1,La Suegra IPA,/CadejoBrewingCompany,Cadejo Brewing Company,5.5% ABV,N/A IBU,(3.53),414 Ratings,Added 06/18/16,
+2,Roja,/CadejoBrewingCompany,Cadejo Brewing Company,5.3% ABV,31 IBU,(3.47),951 Ratings,Added 03/26/13,"Aromática, con buen balance entre el amargo del lúpulo y la suave dulzura de las maltas caramelizadas. Estilo de Estados Unidos con raíces británicas.… Read More"
+3,Hija De Pooh,/CadejoBrewingCompany,Cadejo Brewing Company,4.3% ABV,17 IBU,(3.42),784 Ratings,Added 09/06/15,Hija de Pooh - Honey Blonde Ale Una cerveza unica con saborres suaves de maltas claras y aroma floral que nos dejan las flores de las cuales las abejas… Read More
+4,Suprema Roja,/w/industrias-la-constancia/56613,Industrias La Constancia,5.2% ABV,N/A IBU,(3.37),202 Ratings,Added 05/17/13,
+5,W.A.P.A,/CadejoBrewingCompany,Cadejo Brewing Company,4.6% ABV,23 IBU,(3.36),846 Ratings,Added 03/26/13,Característica por el amargor cítrico de lúpulos americanos y definida suavidad del trigo. Un estilo clásico del renacimiento de la cerveza en las américas.… Read More
+6,Mera Belga,/CadejoBrewingCompany,Cadejo Brewing Company,4.8% ABV,16 IBU,(3.34),750 Ratings,Added 01/01/15,
+7,Pilsener 100 (Pilsener Centenario),/w/industrias-la-constancia/56613,Industrias La Constancia,4.6% ABV,N/A IBU,(3.24),257 Ratings,Added 12/20/11,
+8,Taurino,/w/industrias-la-constancia/56613,Industrias La Constancia,N/A ABV,N/A IBU,(3.09),222 Ratings,Added 11/25/10,
+9,Regia Extra,/w/industrias-la-constancia/56613,Industrias La Constancia,4.8% ABV,N/A IBU,(3.02),"2,165 Ratings",Added 08/21/10,
+10,Pilsener of El Salvador,/w/industrias-la-constancia/56613,Industrias La Constancia,4.4% ABV,N/A IBU,(2.98),"3,262 Ratings",Added 01/01/11,"Es la cerveza #1 de los salvadoreños, que forma parte de nuestra cultura y tradición, con 100 años de presencia en el mercado nacional. Su sabor incomparable,… Read More"
+11,Golden,/w/industrias-la-constancia/56613,Industrias La Constancia,4% ABV,N/A IBU,(2.95),327 Ratings,Added 12/20/12,
+12,Suprema,/w/industrias-la-constancia/56613,Industrias La Constancia,4.6% ABV,N/A IBU,(2.93),"2,619 Ratings",Added 04/27/11,Light green bottle. Ultra-pale premium lager.
+13,Cantina,/w/industrias-la-constancia/56613,Industrias La Constancia,4.5% ABV,N/A IBU,(2.85),"1,822 Ratings",Added 02/01/11,Cantina
+14,Caguama,/w/industrias-la-constancia/56613,Industrias La Constancia,4.6% ABV,N/A IBU,(2.81),"3,229 Ratings",Added 11/25/10,
+15,Doc's Green Leaf Party,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",6.8% ABV,62 IBU,(3.76),428 Ratings,Added 09/11/14,
+16,Holy Fruit,/AlexanderBeer,Alexander (אלכסנדר),8% ABV,N/A IBU,(3.76),164 Ratings,Added 07/29/18,בירה חזקה זו היא שיתוף פעולה בין מיקלר דנמרק לאלכסנדר בישראל.
+17,Pressure Drop,/HaShachen,Mivshelet HaShakhen (השכן),6% ABV,41 IBU,(3.74),389 Ratings,Added 05/06/15,"Extremely Hoopy craft beer.
+Contract brewed at Mivshelet Ha'arez (Beer Bazzar)"
+18,Hehalutz (החלוץ),/w/tog/377780,Tog (תוג),5.5% ABV,32 IBU,(3.72),151 Ratings,Added 03/28/14,An American Pale Ale
+19,The Beer of Milk & Honey,/AlexanderBeer,Alexander (אלכסנדר),8.4% ABV,N/A IBU,(3.72),"4,843 Ratings",Added 09/05/16,"A collaboration brew with Mikkeller. Brewed with lactose, honey, brown sugar and orange zest."
+20,IPA Citra,/w/shapiro/25018,Shapiro (שפירא),6.5% ABV,N/A IBU,(3.71),287 Ratings,Added 05/25/16,"Originally brewed as vintage 2016 summer seasonal brew (Bottle neck label - Citra 2016). Starting 2018, it’s a year round beer."
+21,Bhindi IPA,/BeerBazaar_IL,BeerBazaar / Mivshelet Ha’Aretz,5.5% ABV,42 IBU,(3.68),844 Ratings,Added 06/12/15,".IPA בירה טרייה בסגנון
+Previously contract-brewed at Srigim Brewery and Golan Brewery."
+22,Ronen The Ugly Beer (הבירה המכוערת),/Srigim,Srigim (שריגים),6.5% ABV,N/A IBU,(3.68),665 Ratings,Added 08/03/12,"Strong IPA with lychee and passion fruit aroma, pink grapefruit in taste. Gold medal winner at BIRA 2011 Competition. Awarded 2013 Best Beer in Israel… Read More"
+23,Smoked Stout,/w/salara/31061,Salara (מבשלת סלרה),5.3% ABV,35 IBU,(3.66),183 Ratings,Added 12/08/12,
+24,Dark Matter,/HaShachen,Mivshelet HaShakhen (השכן),5.5% ABV,48 IBU,(3.65),208 Ratings,Added 10/31/16,"Roasty Hoppy BLACK IPA
+(Previously called NZ Green Bullet)"
+25,IPA Simcoe,/w/shapiro/25018,Shapiro (שפירא),6.5% ABV,N/A IBU,(3.65),261 Ratings,Added 06/02/17,Originally brewed as vintage 2017 summer seasonal brew (Bottle neck label - Simcoe 2017). Brewed again in 2018.
+26,Patriot American Pale Ale,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",5.2% ABV,N/A IBU,(3.65),636 Ratings,Added 07/15/11,
+27,Embargo (אמברגו),/w/herzl/89680,Herzl (הרצל),6% ABV,25 IBU,(3.64),567 Ratings,Added 01/07/15,Cuban tobacco leaf Porter
+28,Emek Ha'ela Belgian Triple,/Srigim,Srigim (שריגים),9.2% ABV,N/A IBU,(3.63),350 Ratings,Added 01/21/14,
+29,Buster's Oak Aged Stout,/w/isra-ale/50440,Isra-Ale (ישרא-אייל),5.8% ABV,N/A IBU,(3.62),151 Ratings,Added 02/07/17,"בירת סטאוט עם עץ אלון
+בירה כהה וסמיכה שמיושנת עם שבבים של עץ אלון.
+Brewed at Alexander Brewery."
+30,Smoked Stout,/w/libira/71622,LiBira,5.5% ABV,N/A IBU,(3.6),161 Ratings,Added 01/18/15,
+31,Bitter Ale (ביטר אייל),/w/libira/71622,LiBira,5.5% ABV,N/A IBU,(3.59),165 Ratings,Added 07/09/13,
+32,Midnight Stout,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",5% ABV,N/A IBU,(3.58),364 Ratings,Added 07/05/12,"Black as coal with a creamy tan head, thick as the afternoon haze over Tel Aviv. Signature stout roastiness provides notes of espresso and Turkish coffee,… Read More"
+33,Bazelet Double Bock (בזלת דאבל בוק),/w/golan-brewery/5878,Golan Brewery (מבשלת הגולן),8% ABV,N/A IBU,(3.58),553 Ratings,Added 01/04/11,
+34,Black (בלאק),/AlexanderBeer,Alexander (אלכסנדר),7% ABV,N/A IBU,(3.57),"1,184 Ratings",Added 12/20/12,"Exported as ""Black Israeli Porter"".
+A rosted flavor with chocolaty aroma, a high but delicate alcoholic sense"
+35,Phoenix IPA (פיניקס),/w/hadubim/35909,HaDubim (הדובים),6.3% ABV,62 IBU,(3.57),287 Ratings,Added 07/18/16,
+36,Jack's Winter Ale (ג'קס ווינטר אייל),/w/shapiro/25018,Shapiro (שפירא),8.2% ABV,N/A IBU,(3.57),386 Ratings,Added 03/18/12,
+37,Happy Hour in Sodom,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",5% ABV,N/A IBU,(3.56),171 Ratings,Added 09/18/16,Salted Caramel Porter with Dead Sea salt. Brewed for Beers 2016 expo in Tel Aviv.
+38,8.8,/w/jem-s-beer-factory/12875,Jem's Beer Factory,8.8% ABV,N/A IBU,(3.56),893 Ratings,Added 02/05/12,
+39,Hefe-Wit,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",5% ABV,N/A IBU,(3.56),208 Ratings,Added 07/05/12,"A Belgian-style Wit-beer, hovering between light gold and creamy white. Big taste, thanks to the Israeli wheat but subtle spicing with coriander and orange… Read More"
+40,Weissbier (בירת חיטה),/w/libira/71622,LiBira,5.5% ABV,N/A IBU,(3.56),155 Ratings,Added 07/09/13,
+41,Ronen Naughty Wheat (החיטה המחוצפת),/Srigim,Srigim (שריגים),6.1% ABV,N/A IBU,(3.56),179 Ratings,Added 10/10/12,Ronen Wheat Beer
+42,Wheatney (וויטני),/BeerBazaar_IL,BeerBazaar / Mivshelet Ha’Aretz,5% ABV,N/A IBU,(3.55),182 Ratings,Added 07/25/17,"בירת חיטה עם נגיעות של שיפון. טרייה, מרעננת ולא מסוננת."
+43,Dry Stout (כהה),/w/malka/5881,Malka (מלכה),6% ABV,40 IBU,(3.55),"2,848 Ratings",Added 11/02/13,"Light and extremely balanced with hints of fruit leather, fig and currant"
+44,Porter Alon (Oak Porter),/NegevBrewery,Negev Brewery,5% ABV,N/A IBU,(3.55),506 Ratings,Added 03/08/12,"Cloudy dark porter, ages with oak chips which provide a creamy and reach flavor. Delicate bitterness and a full body beer"
+45,Gordon Beach Blond,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",4.9% ABV,N/A IBU,(3.55),186 Ratings,Added 07/05/12,A Blond Ale brewed for life on Tel Aviv’s famous Gordon Beach. Summery and refreshing with the distinctly Medditeranean twist of nana (mint) and rosemary.… Read More
+46,Hindi IPA (הינדי),/w/malka/5881,Malka (מלכה),6.2% ABV,N/A IBU,(3.52),788 Ratings,Added 02/08/14,
+47,Amber ale,/w/jem-s-beer-factory/12875,Jem's Beer Factory,5.3% ABV,N/A IBU,(3.51),445 Ratings,Added 10/17/12,
+48,Olde Papa,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",7.5% ABV,N/A IBU,(3.51),746 Ratings,Added 11/29/13,
+49,Fat Cat Pale Ale,/BeerBazaar_IL,BeerBazaar / Mivshelet Ha’Aretz,5.2% ABV,N/A IBU,(3.51),783 Ratings,Added 11/25/13,"בירה טרייה בסגנון פייל אייל קליל וטעים
+Originally was brewed as Carmel pale ale by Mivshelet Ha'am, then brewed in Srigim."
+50,Bazelet Wheat (בזלת-חיטה),/w/golan-brewery/5878,Golan Brewery (מבשלת הגולן),5.1% ABV,17 IBU,(3.51),368 Ratings,Added 08/23/12,
+51,Esser (בירה עשר),/BeerBazaar_IL,BeerBazaar / Mivshelet Ha’Aretz,10% ABV,32 IBU,(3.51),317 Ratings,Added 01/03/17,"בירה בסגנון טריפל בלגי. מאוזנת, עשירה ומתקתקה. מה המסר? בירה עשר."
+52,Stout,/w/jem-s-beer-factory/12875,Jem's Beer Factory,5% ABV,N/A IBU,(3.51),234 Ratings,Added 11/09/12,
+53,Ronen The Evil Dark (הבירה הכהה המרושעת),/Srigim,Srigim (שריגים),6.2% ABV,N/A IBU,(3.51),197 Ratings,Added 12/06/12,"Dark ale with a rich body and flavor, roasted malt with a generous amount of hops. Won the 1st place in the Longshot competition of Samuel Adams in Dark… Read More"
+54,Ipa וזה...,/w/herzl/89680,Herzl (הרצל),7% ABV,51 IBU,(3.51),637 Ratings,Added 11/06/13,
+55,Beresheet,/NegevBrewery,Negev Brewery,4.7% ABV,N/A IBU,(3.5),184 Ratings,Added 02/05/14,
+56,The Chailander,/TheDancingCamelBrewingCoLtd,"The Dancing Camel Brewing Co., Ltd.",6% ABV,N/A IBU,(3.5),162 Ratings,Added 07/05/12,"All the malt backbone you’d expect from a Scottish Ale, yet easy enough to drink by the pitcher. A dab of date honey complements the rich caramel malts… Read More"
+57,Wheat (חיטה),/w/shapiro/25018,Shapiro (שפירא),5.2% ABV,N/A IBU,(3.5),463 Ratings,Added 07/27/12,
+58,Emek Ha'Ela Bavarian Wheat,/Srigim,Srigim (שריגים),5.1% ABV,N/A IBU,(3.5),157 Ratings,Added 12/02/11,
+59,Oatmeal Stout (אוטמיל סטאוט),/w/shapiro/25018,Shapiro (שפירא),5.2% ABV,N/A IBU,(3.5),604 Ratings,Added 02/27/12,
+60,Beera Levana (בירה לבנה),/w/herzl/89680,Herzl (הרצל),4.9% ABV,19 IBU,(3.5),152 Ratings,Added 07/01/15,Jerusalem common Lager
+61,Lager / Shlager,/w/shapiro/25018,Shapiro (שפירא),5.3% ABV,N/A IBU,(3.5),152 Ratings,Added 10/24/13,"First brewed as a limited edition for a pub in Jerusalem, Burla pub. Today available year round, draft and limited bottles."
+62,Blonde Ale (בהירה),/w/malka/5881,Malka (מלכה),6.5% ABV,30 IBU,(3.49),"2,325 Ratings",Added 07/31/12,
+63,Pale Ale,/w/hadictator/127240,HaDictator,5.5% ABV,N/A IBU,(3.49),175 Ratings,Added 05/03/14,"Contracted brewed in Beer Bazaar,
+Formerly brewed at Mivshelet Ha’Am"
+64,Pale Ale (פייל אייל),/w/shapiro/25018,Shapiro (שפירא),5% ABV,N/A IBU,(3.49),980 Ratings,Added 02/27/12,"Also labeled as ""Purim Edition"" for Purim Jewish Holiday."
+65,Лоботомия 2018 Фронтальная (Lobotomy 2018 Frontal) Triple-Bourbon BA,/AntiFactory,AF Brew,12.8% ABV,50 IBU,(4.32),"2,358 Ratings",Added 04/25/18,"Spring 2018 release of our most notorious and b.i.g. imperial stout. Barrel-aged in three types of bourbon barrels (JD, HH and OF) and welded together… Read More"
+66,Ахматова,/Brewlokbrewery,Brewlok Craft & Classic Brewery,18.5% ABV,N/A IBU,(4.24),734 Ratings,Added 11/30/17,Ячменное вино. Просьба пить не холодным.
+67,Big Black Mash,/AntiFactory,AF Brew,10% ABV,30 IBU,(4.17),"2,567 Ratings",Added 04/06/18,"Mid-season release: one hell of a Butterscotch Imperial Stout. Say goodbye to cold winter days, say hello to sweet days of spring!"
+68,Булгаков (Bulgakov),/Brewlokbrewery,Brewlok Craft & Classic Brewery,15.7% ABV,N/A IBU,(4.16),583 Ratings,Added 04/10/17,"Никогда и ничего не бойтесь. Это неразумно. Мы хотим предложить вам рискованное и опасное путешествие, начав которое, вы вскоре забудете, что начинали… Read More"
+69,URALS BA Single Malt Whiskey,/StammBeer,STAMM BEER,12% ABV,50 IBU,(4.13),508 Ratings,Added 06/08/16,
+70,Nuclear Laundry (Атомная Прачечная),/JawsBrew,Jaws Brewery,7.2% ABV,101 IBU,(4.12),"9,009 Ratings",Added 03/29/14,Hoppy hypnosis.
+71,Peachollina,/BottleShare,Bottle Share,6% ABV,15 IBU,(4.11),"1,625 Ratings",Added 09/13/17,"Peachollina - Lassy Peach Sour Ale. Серия кислых фруктовых элей продолжается! Новое нетривиальное пиво, мы сварили в соавторстве с нашими давними друзьями,… Read More"
+72,Popcorn Pimp,/AntiFactory,AF Brew,10% ABV,30 IBU,(4.11),"1,034 Ratings",Added 10/06/18,
+73,URALS Coconut And Vanilla BA Bourbon,/StammBeer,STAMM BEER,13% ABV,N/A IBU,(4.11),412 Ratings,Added 10/03/18,Imperial Stout Aged in Bourbon Barrels with Coconut and Vanilla
+74,Triple IPA,/Saldens,Salden's Brewery,10% ABV,200 IBU,(4.11),"2,083 Ratings",Added 10/05/15,"Dry hops: Cascade, Columbus, Galaxy, Simcoe and Mosaic."
+75,Sour Passion Party,/StammBeer,STAMM BEER,6% ABV,10 IBU,(4.11),"2,783 Ratings",Added 02/17/16,This collaborative Sour ale is made by classical method with hint of Passion fruit that will reveal to you special taste of fruit sourness. Best beer… Read More
+76,Candyman! Candyman! Candyman! Candyman! Candyman!,/AntiFactory,AF Brew,10% ABV,30 IBU,(4.1),621 Ratings,Added 11/23/18,"It's time for carbohydrate coming-out – meet our new polysaccharide mixture, multisugar and rum-soaked coconut Imperial Stout. WE DARE YOU TO SAY HIS… Read More"
+77,Quad Hopper,/AntiFactory,AF Brew,10% ABV,25 IBU,(4.1),"2,043 Ratings",Added 06/15/18,
+78,Breakwater,/ZagovorBrewery,Zagovor Brewery,10.5% ABV,50 IBU,(4.1),"1,256 Ratings",Added 08/10/18,"Imperial Rye Baltic Porter with vanilla pods and vailla extract added! Its called Breakwater, and it is strong Baltic Porter with solid malt base with… Read More"
+79,EXP2,/JawsBrew,Jaws Brewery,19% ABV,N/A IBU,(4.1),635 Ratings,Added 05/24/17,"Blended Imp. Stout.
+1st part - our core range Imperial Stout
+2nd part - triple frozen imperial stout and aged in Islay casks"
+80,Достоевский,/Brewlokbrewery,Brewlok Craft & Classic Brewery,12.9% ABV,N/A IBU,(4.1),672 Ratings,Added 11/09/16,"Imperial Baltic Porter Энс 29% алк 12,9% Сорт выдержан 6 месяцев на гвинейских какао-бобах, настоянных на 8-ми летнем виски. Какой он человек, выросший… Read More"
+81,Лоботомия Левосторонняя (Lobotomy Sinistral) BA Bourbon,/AntiFactory,AF Brew,12.8% ABV,50 IBU,(4.1),870 Ratings,Added 05/04/17,
+82,Systems Overload,/ZagovorBrewery,Zagovor Brewery,9.5% ABV,50 IBU,(4.09),949 Ratings,Added 05/09/18,New England Triple IPA - Simcoe Lupulin + Mosaic Lupulin + Citra
+83,Лоботомия Правосторонняя (Lobotomy Dextral) BA Brandy,/AntiFactory,AF Brew,12.8% ABV,50 IBU,(4.08),710 Ratings,Added 05/04/17,
+84,Зимняя Меланхолия (Winter Melancholy),/AntiFactory,AF Brew,10.3% ABV,30 IBU,(4.08),"3,450 Ratings",Added 12/22/15,"A New Year's Eve version of warmly recognized Melancholy, our Imperial Baltic Porter. Smooth touch of Kenyan coffee and bourbon vanilla turn the beer… Read More"
+85,Tiramistout,/VictoryArtBrew,Victory Art Brew,10% ABV,20 IBU,(4.07),"1,645 Ratings",Added 01/27/17,"Стауты, особенно имперские, как известно, очень хорошо сочетаются с десертами, особенно кофейными и шоколадными. Наш новый стаут является отчасти таким… Read More"
+86,Лоботомия White Trash Edition,/AntiFactory,AF Brew,15% ABV,100 IBU,(4.07),486 Ratings,Added 01/29/15,Reincarnation of notorious Lobotomy Imperial Coffee Stout. This time brewed at incredible Plato 34% and fermented up to 15% ABV. No coffee but aged with… Read More
+87,Redrum IPA Special Edition,/AntiFactory,AF Brew,8.8% ABV,180 IBU,(4.07),"4,690 Ratings",Added 12/19/14,"Special Edition of notorious Redrum IPA. Double strength, double malt and double hops, brewed on the occasion of AF Brew REDRUM BAR launch in St. Petersburg. Read More"
+88,Serotonin Syndrome ⚡️Convulsive Attack⚡️,/AntiFactory,AF Brew,10% ABV,30 IBU,(4.07),884 Ratings,Added 11/16/17,"Barrel-aged version: a Monster Breakfast Stout, jumbo loads of oatmeal, cacao, vanilla and hot chocolate, matured and finished in bourbon."
+89,Ivan,/VictoryArtBrew,Victory Art Brew,13% ABV,100 IBU,(4.07),"5,302 Ratings",Added 08/09/14,https://youtu.be/om4YQfmMMTc
+90,Choco Mammuth,/1tonna,One Ton Brewery (Пивоварня Одна Тонна),10% ABV,14 IBU,(4.06),"2,572 Ratings",Added 06/08/16,"Запредельно мощный, молочно-шоколадный стаут. Сварен с какао бобами. Премьерный сорт Big Craft Day 2016."
+91,Eat the Dust! DDH Mosaic,/AntiFactory,AF Brew,8% ABV,40 IBU,(4.06),"3,599 Ratings",Added 04/28/17,"Eat the Dust! is a new round in our 'haze craze and juicy race'. It's a DDH all-Mosaic, and nothing but 20 g/l of pellets and 3 g/l of lupulin powder.… Read More"
+92,Cherry Overtime batch:001 (rioja edition),/8BarrelsBrew,8 Barrels Brew,8% ABV,N/A IBU,(4.06),408 Ratings,Added 10/26/16,"Кислый эль спонтанной ферментации,выдержанный в винных бочках один год с добавлением вишни."
+93,Лоботомия 777,/AntiFactory,AF Brew,12.7% ABV,100 IBU,(4.06),753 Ratings,Added 09/04/15,"Third release of AF Brew's heaviest weapon: notorious Lobotomiya. This time a smooth vinous edition brewed at a classic heavy grain bill, fermented to… Read More"
+94,So Bloody Pink!,/AntiFactory,AF Brew,7% ABV,40 IBU,(4.06),955 Ratings,Added 04/19/18,Our March 2018 collaboration with new friends Garage Beer Co – vivid and vibrant SOUP-makers from Barcelona: adult-only milkshake IPA with Sicilian blood… Read More
+95,Code of Conduct,/ZagovorBrewery,Zagovor Brewery,8.5% ABV,40 IBU,(4.05),909 Ratings,Added 09/28/18,"Code of Conduct by Zagovor & Stamm Beer Please welcome juicy, hazy double IPA , brewed with 4 different kinds of grain flakes on top of the malt base… Read More"
+96,Бунинъ (Bunin),/Brewlokbrewery,Brewlok Craft & Classic Brewery,13.8% ABV,90 IBU,(4.05),565 Ratings,Added 10/14/16,"Aged for 6 months before the date of filling, the chips of the Caucasian oak. С какой личностью, у вас ассоциируется глубина, интеллигентность, выдержка?… Read More"
+97,"Лють (отмороженная, вымороженная)",/Brewlokbrewery,Brewlok Craft & Classic Brewery,27% ABV,N/A IBU,(4.05),221 Ratings,Added 08/09/18,"Можно превратить приготовление пива в квест? Да! Теперь мы знаем это точно! То, что в каждом хорошем пиве есть определённая загадка и интрига знает каждый.… Read More"
+98,Urals B.A. Old Forester,/StammBeer,STAMM BEER,12% ABV,N/A IBU,(4.04),429 Ratings,Added 05/16/18,"Версия “URALS”, выдержанная в дубовой бочке из-под бурбона “Old Forester”"
+99,Citra & Galaxy Double IPA,/Saldens,Salden's Brewery,8.2% ABV,120 IBU,(4.04),"1,234 Ratings",Added 09/30/15,
+100,EXP3,/JawsBrew,Jaws Brewery,20% ABV,N/A IBU,(4.04),369 Ratings,Added 05/10/18,
+101,Violent Twins Double IPA,/Saldens,Salden's Brewery,8.5% ABV,140 IBU,(4.04),"2,037 Ratings",Added 10/21/14,"Dry hopped with Mosaic, Amarillo, Centennial, Citra, Warrior"
+102,Love And Squalor,/AntiFactory,AF Brew,14.3% ABV,25 IBU,(4.04),"1,695 Ratings",Added 04/16/18,One of two official premieres to be proudly released at Tallinn Craft Beer Weekend 2018 on 4-5 May. Bourbon Barrel-Aged American Barleywine at its most… Read More
+103,Достоевский том 3,/Brewlokbrewery,Brewlok Craft & Classic Brewery,12.9% ABV,N/A IBU,(4.04),617 Ratings,Added 11/30/17,"— Достоевский умер, — сказала гражданка, но как-то не очень уверенно. — Протестую, — горячо воскликнул Бегемот. — Достоевский бессмертен! Цитата, которую… Read More"
+104,Urals Sherry Oloroso,/StammBeer,STAMM BEER,10% ABV,60 IBU,(4.04),864 Ratings,Added 01/08/16,oak chips sherrry oloroso
+105,Крылы Адвагi,/ReWort,Rewort Brewery,6.5% ABV,10 IBU,(4.03),629 Ratings,Added 09/14/18,"До появления огнестрельного оружия и повсеместного его применения в баталиях 18 века, одна из основных ролей в тактике ведения боя отводилась кавалерии.… Read More"
+106,Simcoe & Mosaic Double IPA,/Saldens,Salden's Brewery,8.5% ABV,100 IBU,(4.03),"1,282 Ratings",Added 03/11/15,
+107,Jimbo Milkshake IPA,/Brewlokbrewery,Brewlok Craft & Classic Brewery,7.8% ABV,100 IBU,(4.03),"1,275 Ratings",Added 04/27/17,"У пивоваров только и разговоров, что о море и о закате. И да­же, когда они собира­ются вместе, а на ул­ице снег и холод, это не мешает им предс­тавлять… Read More"
+108,Nevermont Magic Dust,/StammBeer,STAMM BEER,7% ABV,70 IBU,(4.03),"2,009 Ratings",Added 10/18/17,
+109,Russian Imperial Stout (barrel # Whisky),/KonixBrewery,Konix Brewery,12.5% ABV,40 IBU,(4.03),862 Ratings,Added 03/30/17,Barrel Whisky выдержанная 6 месяцев в дубовой бочке из-под виски.
+110,Юбилейный,/BakuninBrewery,Bakunin Brewing Co.,13% ABV,40 IBU,(4.02),429 Ratings,Added 10/11/18,This massive imperial stout was brewed in small batch for our 5-th Anniversary. Powerful and silky imperial stout which we brewed with old school soviet… Read More
+111,Old Sparky,/AntiFactory,AF Brew,10% ABV,100 IBU,(4.02),"2,335 Ratings",Added 12/11/15,"Old Sparky is the nickname of the electric chairs in Arkansas, Connecticut, Florida, Georgia, Illinois, Kentucky, Nebraska, New York, Ohio, Oklahoma,… Read More"
+112,Big Black Maple Mash,/AntiFactory,AF Brew,10% ABV,30 IBU,(4.02),"1,486 Ratings",Added 09/07/18,On the break of the seasons we collaborate with our like-minders from the clothes' brand SH'U. They make a special edition of their signature raincoat… Read More
+113,URALS BA Bourbon Barrel,/StammBeer,STAMM BEER,12% ABV,50 IBU,(4.02),858 Ratings,Added 03/10/17,
+114,Eat the Dust! DDH Citra,/AntiFactory,AF Brew,8% ABV,40 IBU,(4.02),"1,990 Ratings",Added 07/06/17,"Eat the Dust! is a new round in our 'haze craze and juicy race'. It's a DDH all-Citra, and nothing but 20 g/l of pellets and 3 g/l of lupulin powder literally… Read More"
+115,DDH IPA,/Arpus,Ārpus Brewing Co.,6.8% ABV,N/A IBU,(3.86),280 Ratings,Added 11/13/18,"Double dry hopped for intense aroma, tropical fruit flavour and juicy body. Drink fresh! Hops: Vic Secret, Citra, Mosaic BBC Yeast: London Fog Ale Read More"
+116,Tumšā Puse,/Malduguns,Malduguns,11.2% ABV,N/A IBU,(3.84),583 Ratings,Added 02/26/17,
+117,Lauvas Pacietība,/Malduguns,Malduguns,8.9% ABV,63 IBU,(3.79),713 Ratings,Added 01/18/14,
+118,DDH Pale Ale,/Arpus,Ārpus Brewing Co.,6.2% ABV,N/A IBU,(3.78),383 Ratings,Added 05/15/18,New England style Pale Ale brewed using the best malts from ‘Simpsons Malt’ and double dry-hopped with the freshest New World hops. Open and enjoy! Malts:… Read More
+119,Gustavs,/w/aldaris/19,Aldaris,8.5% ABV,60 IBU,(3.78),207 Ratings,Added 11/15/17,“Mežpils Prove 2017” homebrewers competition winner’s beer brewed by Uģis Narvils.
+120,Lentenu Kavejs (Tapeworm Slayer),/AlusLabietis,Alus Darbnīca Labietis,7.2% ABV,90 IBU,(3.77),815 Ratings,Added 04/30/14,Dark and fullbodied beer with distinct roasted malt taste and flavour. Heavily hopped and dryhopped with Galaxy and Jade hops for an extremely intense… Read More
+121,Pēteris Apinis (Peter The Hop),/AlusLabietis,Alus Darbnīca Labietis,8.2% ABV,79 IBU,(3.76),459 Ratings,Added 11/28/13,"An imperial indian pale ale. It is all about the hops with this beer. Five pillars of new age craft brewing - Amarillo, Cascade, Centennial, Citra, Columbus,… Read More"
+122,Gaismas Ragana (Witch Of Light),/AlusLabietis,Alus Darbnīca Labietis,8% ABV,5 IBU,(3.73),524 Ratings,Added 03/04/17,3400 years ago a girl was burried with a bucket of fermented beverage in Egtved. In 1929 archeologists recovered this grave and recently found out that… Read More
+123,Sānslīde,/Malduguns,Malduguns,6.5% ABV,55 IBU,(3.72),"2,095 Ratings",Added 05/31/14,Nice touch of roasted caramel. A real gem from small local brewery.
+124,1984,/Malduguns,Malduguns,9.4% ABV,65 IBU,(3.72),576 Ratings,Added 05/09/17,Imperial Red Rye Ale in collaboration with Zagovor Brewery (RUS)
+125,Akacis,/Malduguns,Malduguns,6.9% ABV,N/A IBU,(3.71),433 Ratings,Added 02/03/14,
+126,Jungle Hop,/Malduguns,Malduguns,6.7% ABV,N/A IBU,(3.71),308 Ratings,Added 07/12/17,
+127,Tumsas Ragana,/AlusLabietis,Alus Darbnīca Labietis,15.6% ABV,N/A IBU,(3.71),324 Ratings,Added 02/24/18,
+128,Pa Ķirbi,/Malduguns,Malduguns,9% ABV,34 IBU,(3.7),302 Ratings,Added 02/07/15,Ķirbju stauts. Pumpkin stout.
+129,Pelēcis,/Malduguns,Malduguns,6.8% ABV,N/A IBU,(3.7),480 Ratings,Added 02/14/16,Brown ale with Earl Grey tea
+130,Saules Dūriens,/Malduguns,Malduguns,4.9% ABV,25 IBU,(3.69),586 Ratings,Added 05/18/14,
+131,Triangulum,/Nurme,Nurme,6% ABV,35 IBU,(3.69),555 Ratings,Added 10/21/16,Hoppy Pale Ale with Mosaic hops
+132,Oker,/Nurme,Nurme,7% ABV,50 IBU,(3.69),249 Ratings,Added 02/23/17,"New England style IPA with oats, lactose sugar and massive dry-hop of Citra, Amarillo and Hallertau Blanc"
+133,Lielais Kristaps (Legendary Ferryman Of Riga),/AlusLabietis,Alus Darbnīca Labietis,7.2% ABV,21 IBU,(3.69),394 Ratings,Added 05/01/14,"An all in oat stout with a silky mouthfeel, distinct roasted malt taste and aroma, brewed with coffe beans from Yirgachefe district, Ethiopia."
+134,Auzu IPA,/w/indie-ja-nis/347104,Indie Jānis,7% ABV,N/A IBU,(3.68),159 Ratings,Added 12/28/17,
+135,Pilota Nakts,/Malduguns,Malduguns,6.7% ABV,N/A IBU,(3.68),822 Ratings,Added 12/19/13,"Pours dark golden brown with a slight brownish head. Aroma consists of dark chocolate and sweet toffe with some hops as a contrast... Taste is quite sweet,… Read More"
+136,Noburtais Kristaps,/AlusLabietis,Alus Darbnīca Labietis,6.8% ABV,N/A IBU,(3.68),283 Ratings,Added 02/23/18,Fruit blended BA brett stout
+137,Migla (Peach Milkshake IPA),/Nurme,Nurme,6.6% ABV,55 IBU,(3.67),165 Ratings,Added 11/16/17,"Milkshake NEW-England IPA with lactose, peaches and HBC-431 and Azacca hops"
+138,Zaļā Bise,/Malduguns,Malduguns,6.3% ABV,60 IBU,(3.67),"1,242 Ratings",Added 05/16/14,
+139,Purva Medus (Barrel Aged),/AlusLabietis,Alus Darbnīca Labietis,6.5% ABV,N/A IBU,(3.67),240 Ratings,Added 06/01/18,
+140,Virsaitis,/AlusLabietis,Alus Darbnīca Labietis,6% ABV,71 IBU,(3.66),992 Ratings,Added 05/29/15,"An american style IPA brewed and dryhopped with lavish amount of Mosaic hops, that are known for their wel balanced citrus and fruity character."
+141,Enigmatic IPA,/Nurme,Nurme,5.9% ABV,50 IBU,(3.66),400 Ratings,Added 03/10/18,DDH IPA with Nelson Sauvin and Enigma hops and Lallemand New-england ale yeast.
+142,Kampēju Kampējs,/Malduguns,Malduguns,6.7% ABV,N/A IBU,(3.66),256 Ratings,Added 03/03/17,
+143,Hitchops,/Alkimikis,Alķīmiķis,8% ABV,N/A IBU,(3.66),281 Ratings,Added 04/22/17,"Dubultā IPA - dubultā piesātināta IPA, vairāk visa, vairāk iesala, no tā vairāk stipruma, vairāk apiņu, no tā burvīgs aromāts. Hitchops is pamatīgi apiņots… Read More"
+144,Rietumu Eils,/w/aldaris/19,Aldaris,5.8% ABV,40 IBU,(3.65),168 Ratings,Added 04/25/15,
+145,Dravnieka Atraitne (Bee Keeper`S Widow),/AlusLabietis,Alus Darbnīca Labietis,13% ABV,13 IBU,(3.64),425 Ratings,Added 10/13/14,Mesmerizing braggot with a backbone from roasted malts. Two yeast blend allows high alcohol content as well as a protwinish feel with notes of black plums.… Read More
+146,Kapracis (Grave Digger),/AlusLabietis,Alus Darbnīca Labietis,10.2% ABV,80 IBU,(3.64),308 Ratings,Added 03/03/17,Beer with the aroma of smouldering rubble and a deeply smoked flavour is brewed with a choice of peat bog smoked and roasted malts. Apocalyptic flavour… Read More
+147,Baltais Zvirbulis (White Sparrow),/AlusLabietis,Alus Darbnīca Labietis,4.8% ABV,15 IBU,(3.64),219 Ratings,Added 07/16/14,A refreshing belgian style wit with german style weiss yeast. Lavishly spiced with coriander and lemongrass as well as Wakatu hops to create an easy drinking… Read More
+148,Sazobe,/Viedalus,Viedi,5.8% ABV,23 IBU,(3.63),743 Ratings,Added 08/14/15,
+149,Iezemiete (Indigenous woman),/AlusLabietis,Alus Darbnīca Labietis,6% ABV,32 IBU,(3.63),244 Ratings,Added 04/16/16,"Savdabīgi saldenrūgtens alus ar Jaunās pasaules garšu. Tā raksturu veido spilgtu Jaunās pasaules apiņu savienība - Citra, Mosaic un Galaxy. Apiņu rūgtuma… Read More"
+150,Cilpa,/Malduguns,Malduguns,5.3% ABV,N/A IBU,(3.63),"1,787 Ratings",Added 02/24/16,Easy drinking pale ale with loads of hops.
+151,Krubera,/Nurme,Nurme,8% ABV,65 IBU,(3.63),376 Ratings,Added 02/23/17,"Double Black IPA hopped with Simcoe, Columbus and Chinook"
+152,Smagsvars,/Malduguns,Malduguns,9.6% ABV,N/A IBU,(3.63),175 Ratings,Added 02/24/18,Scottish style herbal braggot. Collaboration with Brewlok (RU)
+153,Stokholmas Sindroms,/Malduguns,Malduguns,6.3% ABV,N/A IBU,(3.62),390 Ratings,Added 03/29/15,Chili cacao porter
+154,Eņģeļu Kaislības,/Viedalus,Viedi,5.1% ABV,N/A IBU,(3.62),168 Ratings,Added 05/07/18,
+155,Pale Ale,/Arpus,Ārpus Brewing Co.,5.4% ABV,30 IBU,(3.62),205 Ratings,Added 01/26/18,American Pale Ale with Mosaic and Citra hops that will surprise you with citrusy aroma and fruity bitterness.
+156,Vilkme,/Malduguns,Malduguns,5.4% ABV,N/A IBU,(3.62),409 Ratings,Added 05/16/18,
+157,Ganuzēns (Shepherd`S Boy),/AlusLabietis,Alus Darbnīca Labietis,4.5% ABV,23 IBU,(3.61),159 Ratings,Added 09/22/13,"Light and refreshing seasonal beer brewed with the distinct yeast of Wallonia, underlined by Citra hops."
+158,Pelašķu velns (The Yarrow Devil),/AlusLabietis,Alus Darbnīca Labietis,8.8% ABV,47 IBU,(3.61),"2,348 Ratings",Added 03/22/14,"Dark, aromatic and highly inebriating beer made from selected roasted malts, boiled and severely dryhopped with Citra hops and yarrow. Enjoy responsibly.… Read More"
+159,Jaunais Vilnis,/Viedalus,Viedi,4.5% ABV,N/A IBU,(3.6),264 Ratings,Added 04/02/16,
+160,Pinefruit IPA,/Nurme,Nurme,5.7% ABV,N/A IBU,(3.6),418 Ratings,Added 02/13/18,IPA brewed with grapefruit zest and pine buds and hopped with Mosaic and Simcoe
+161,Pipars (Pepper),/AlusLabietis,Alus Darbnīca Labietis,5.5% ABV,25 IBU,(3.6),230 Ratings,Added 02/26/14,"Red coloured beer with Cayenne pepper. A selection of three malts and Amarillo hops make the backbone of the beer, but the pepper will tickle your throat… Read More"
+162,Ādažu Meistara Citra Alus,/w/rose-brewery/239990,Rose Brewery,5.2% ABV,N/A IBU,(3.6),168 Ratings,Added 12/07/15,
+163,Kramplauzis,/Malduguns,Malduguns,5.1% ABV,N/A IBU,(3.59),384 Ratings,Added 06/13/15,
+164,Mežpils Viesulis,/w/aldaris/19,Aldaris,6.5% ABV,58 IBU,(3.59),176 Ratings,Added 04/13/17,"American style India Pale Ale brewed with Centennial, Chinook, Cascade and Citra hops"
+165,"Hatuey Clásica (The Original One, Made In Cuba)",/w/cerveceria-santiago-de-cuba-hatuey/181616,Cerveceria Santiago De Cuba Hatuey,4.5% ABV,N/A IBU,(3.43),366 Ratings,Added 01/18/15,"The original Hatuey beer, still made in Cuba, sold only in bars for Cuban locals. Found in Santiago de Cuba."
+166,Clara,/w/cerveceria-antiguo-almacen-de-la-madera-y-el-tabaco/318181,Cerveceria Antiguo Almacen De La Madera Y El Tabaco,4.2% ABV,N/A IBU,(3.42),154 Ratings,Added 01/02/17,
+167,Negra,/w/taberna-de-la-muralla-factoria-plaza-vieja/71538,Taberna De La Muralla / Factoria Plaza Vieja,4.2% ABV,N/A IBU,(3.24),367 Ratings,Added 07/08/13,
+168,Oscura,/w/taberna-de-la-muralla-factoria-plaza-vieja/71538,Taberna De La Muralla / Factoria Plaza Vieja,4.2% ABV,N/A IBU,(3.22),400 Ratings,Added 07/08/13,
+169,Cerveza Guama,/w/cervezeria-guama/48739,Cervezeria Guama,5.1% ABV,N/A IBU,(3.18),243 Ratings,Added 12/19/12,
+170,Clara,/w/taberna-de-la-muralla-factoria-plaza-vieja/71538,Taberna De La Muralla / Factoria Plaza Vieja,4.2% ABV,N/A IBU,(3.17),434 Ratings,Added 07/08/13,
+171,Malta,/w/cerveceria-bucanero/365,Cerveceria Bucanero,N/A ABV,N/A IBU,(2.95),154 Ratings,Added 03/04/14,Beer before the yeast
+172,Cacique,/w/cerveceria-bucanero/365,Cerveceria Bucanero,4.5% ABV,N/A IBU,(2.94),384 Ratings,Added 04/17/13,
+173,Bucanero Fuerte / Cubanero Fuerte,/w/cerveceria-bucanero/365,Cerveceria Bucanero,5.4% ABV,N/A IBU,(2.93),"13,151 Ratings",Added 08/21/10,"Also sold as Cubanero Fuerte. Bucanero brings the mystery and passion of Cuba in a golden beer, with a vigourous and robust flavour. Our ancient and secret… Read More"
+174,Cristal,/w/cerveceria-bucanero/365,Cerveceria Bucanero,4.9% ABV,N/A IBU,(2.82),"11,429 Ratings",Added 11/21/12,Made in Cuba.
+175,Mayabe,/w/cerveceria-bucanero/365,Cerveceria Bucanero,4% ABV,N/A IBU,(2.69),918 Ratings,Added 03/23/12,
+176,C4,/novarunda,Nova Runda,6.3% ABV,70 IBU,(4.02),"1,551 Ratings",Added 04/07/16,"IPA made with 4 hops. Chinook, Citra, Centennial and Cascade."
+177,RIS Barrel Aged,/ZmajskaPivovaraDoo,Zmajska Pivovara D.o.o.,10.1% ABV,85 IBU,(3.94),244 Ratings,Added 09/15/17,
+178,ThroaTTwisteR,/novarunda,Nova Runda,9% ABV,87 IBU,(3.94),393 Ratings,Added 06/03/17,"Juicy and dry DIPA, collaboration with ThroaTTwisteR band from Zagreb."
+179,Milkshake IPA,/TheGardenBrewery,The Garden Brewery,6.2% ABV,35 IBU,(3.94),"1,945 Ratings",Added 11/09/17,"Sweet creamy and juicy. Super Milky - With 3 times more lactose than we have ever used! Subtle sweet notes of passion-fruit, mango, strawberry, and vanilla.… Read More"
+180,NEIPA 03,/TheGardenBrewery,The Garden Brewery,6.7% ABV,30 IBU,(3.91),650 Ratings,Added 06/05/18,"Our first Serbo- Croatian Collaboration with the masters of the hop - Dogma brewing from Belgrade. A revolving experimental series where we try new ingredients,… Read More"
+181,Imperial IPA Barba,/LabSplit,Lab Split,8% ABV,70 IBU,(3.9),247 Ratings,Added 11/29/17,Surely the best Split beer in the World!!! 1st class malts combined with YCH CryoHops and pellets. 28g of hops per liter! -Columbus as first wort hop.… Read More
+182,Croatian Imperial Stout,/TheGardenBrewery,The Garden Brewery,10.3% ABV,82 IBU,(3.9),600 Ratings,Added 11/21/17,"Our 100th brew! Inspired by the dark delicacies that dot the Dalmatian coast – Figs, Carobs, Red wine oak - our thick, complex, satiating imperial stout… Read More"
+183,RIS,/ZmajskaPivovaraDoo,Zmajska Pivovara D.o.o.,10.1% ABV,85 IBU,(3.9),486 Ratings,Added 09/15/17,
+184,Beckers Pale Ale,/BeckersCraftBrewery,Beckers Craft Brewery,5.2% ABV,40 IBU,(3.88),330 Ratings,Added 05/30/17,"Pale ale koji slobodno može stati rame uz rame mnogim IPA-ma. Bogat hmeljem u čijoj kombinaciji do izražaja dolaze arome tropskog voća, ananasa, borovine… Read More"
+185,Fireball,/novarunda,Nova Runda,6.2% ABV,62 IBU,(3.88),449 Ratings,Added 11/23/16,"Seasonal IPA ideal for winter period. Full bodied, malty and hopped with Comet hops."
+186,Hill 438,/novarunda,Nova Runda,6.5% ABV,70 IBU,(3.86),278 Ratings,Added 04/20/18,American IPA brewed with experimental HBC 438 hops
+187,Vanilla & Chocolate Porter,/TheGardenBrewery,The Garden Brewery,6.7% ABV,35 IBU,(3.86),"1,485 Ratings",Added 11/29/16,"A vanilla and chocolate porter aged on French oak and rested on organic cocoa nibs and Madagascar vanilla pods. Like velvet on the tongue - chocolate,… Read More"
+188,Pulfer Hefeweizen,/Pulfer,Pulfer,4.8% ABV,17 IBU,(3.85),245 Ratings,Added 04/06/18,"Our version of weissbier! When you brew hefeweizen, do as the Germans do! Wheat and Pilsner malt, german hop Tettnanger and famous Weihenstephaner's yeast.… Read More"
+189,APA,/novarunda,Nova Runda,5.2% ABV,42 IBU,(3.83),"1,586 Ratings",Added 06/07/14,
+190,Pulfer IPA,/Pulfer,Pulfer,7% ABV,66 IBU,(3.82),183 Ratings,Added 03/01/18,"Finally we made our IPA. Since homebrew version, we always wanted to produce it on bigger scale. After winning bronze medal at VII.HHP we knew that it's… Read More"
+191,Pulfer Black IPA,/Pulfer,Pulfer,6.9% ABV,60 IBU,(3.82),331 Ratings,Added 10/28/17,"We combined american hops (Amarillo & Centennial) with dark special malts to create our special dark beer - Black IPA. Citrusy, herbal, subtle coffe background… Read More"
+192,Pulfer Hoppy Saison,/Pulfer,Pulfer,5.7% ABV,27 IBU,(3.81),379 Ratings,Added 08/06/17,"Great collaboration with Zao Gnom for great summer beer - saison. We used belgian yeast which produced spicy and fruit flavours, wheat and pils malt for… Read More"
+193,Pozoj,/ZmajskaPivovaraDoo,Zmajska Pivovara D.o.o.,7.3% ABV,70 IBU,(3.81),"3,526 Ratings",Added 05/22/15,Snažna gorčina hmelja zmajski će ugristi tvoje nepce a nos preplaviti aromama grejpa i ananasa.
+194,Baltic Porter,/TheGardenBrewery,The Garden Brewery,10.1% ABV,45 IBU,(3.8),295 Ratings,Added 09/13/18,"A silky and robust baltic porter reminiscent of raisin, burnt caramel, roasted coffee and molasses. Very malty and somewhat sweet, it finishes with a… Read More"
+195,Hladovina,/novarunda,Nova Runda,4.9% ABV,50 IBU,(3.79),385 Ratings,Added 06/28/17,"What could be better for hot summer days then an IPA with low ABV. This Session IPA is hopped with Columbus and Mosaic hops which give spicy, juicy and… Read More"
+196,Triple I.P.A,/TheGardenBrewery,The Garden Brewery,10.4% ABV,100 IBU,(3.78),539 Ratings,Added 09/07/17,"An imperial IPA packed with a huge punch of eye watering hops. Its continuously hopped, in small doses, over its 60 minute boil, then a heavily whirlpool… Read More"
+197,Ringišpil,/PriMariusCraftPivovara,PriMarius craft pivovara,4% ABV,45 IBU,(3.77),265 Ratings,Added 07/04/18,
+198,Goa,/DubrovnikBeerCo,Dubrovnik Beer Co.,6.5% ABV,45 IBU,(3.77),386 Ratings,Added 05/25/18,
+199,Zornjak,/PriMariusCraftPivovara,PriMarius craft pivovara,5.1% ABV,40 IBU,(3.76),345 Ratings,Added 02/11/18,HÖPPY AMBER
+200,Regoč,/LepiDeckiBrewery,Lepi Dečki Brewery,8.2% ABV,112 IBU,(3.76),157 Ratings,Added 10/02/18,"A mountain of hops and malts, a mountain of a man - a hill giant Regoč and his favorite little faerie Kosjenka will take you on a trip of flavours! Read More"
+201,B-day IPA,/Varionica,Varionica,6.6% ABV,70 IBU,(3.76),228 Ratings,Added 02/01/17,
+202,Katapult,/PriMariusCraftPivovara,PriMarius craft pivovara,7.5% ABV,64 IBU,(3.76),233 Ratings,Added 03/08/18,
+203,Aljaški Mrgud,/VUNETOVO,Vunetovo Craft Beer,5.9% ABV,63 IBU,(3.76),185 Ratings,Added 12/17/15,
+204,NEIPA 02,/TheGardenBrewery,The Garden Brewery,6.9% ABV,35 IBU,(3.76),704 Ratings,Added 09/07/17,"A revolving experimental series where we try new ingredients, techniques, and equipment. Pours a hazy orange body with a creamy, thick lasting white head.… Read More"
+205,Crni Jack,/PivovaraiPivnicaMedvedgrad,Pivovara Medvedgrad,6.3% ABV,55 IBU,(3.75),745 Ratings,Added 12/04/15,Black India pale ale dominated by notes of roasted malt and American hops.
+206,Into the Rye,/Varionica,Varionica,7% ABV,63 IBU,(3.75),280 Ratings,Added 04/20/17,
+207,Spirit,/Crafters,Crafter's,8% ABV,N/A IBU,(3.75),176 Ratings,Added 12/11/16,Tamno pivo punog kompleksnog tijela koji odmah nakon laganih okusa prženog i karamelnog slada otkriva salvu voćnih okusa koje smo postigli induciranjem… Read More
+208,Pivo Svetog Martina,/PivovaraiPivnicaMedvedgrad,Pivovara Medvedgrad,10.3% ABV,60 IBU,(3.75),321 Ratings,Added 11/11/16,
+209,Nitro Stout,/TheGardenBrewery,The Garden Brewery,5.6% ABV,20 IBU,(3.74),200 Ratings,Added 11/16/16,"Our stout
+On Nitrogen"
+210,Bitter Kiss IPA,/w/mlinarica/255013,Mlinarica,7.2% ABV,76 IBU,(3.74),165 Ratings,Added 08/24/17,
+211,New World Stout,/ZmajskaPivovaraDoo,Zmajska Pivovara D.o.o.,5.8% ABV,45 IBU,(3.74),237 Ratings,Added 03/16/18,
+212,Profesor,/PivovaraiPivnicaMedvedgrad,Pivovara Medvedgrad,7.3% ABV,70 IBU,(3.74),159 Ratings,Added 05/30/18,Imperial India Pale Lager ilitiga Baltazar na kvadrat!
+213,Simcoe Pale,/TheGardenBrewery,The Garden Brewery,4.9% ABV,40 IBU,(3.72),170 Ratings,Added 09/19/17,"Single hop pale ale using Simcoe hops. Grown in the ‘hop belt’ of America’s Northwest by Select Botanicals Group, Palisade is an aroma hop known for its… Read More"
+214,Pulfer Stout,/Pulfer,Pulfer,6% ABV,33 IBU,(3.72),248 Ratings,Added 01/11/17,"Chocolate and roasty, touch of caramel and enough sweet to be very drinkable. Who wouldn't like that?"
+215,5th Element Imperial IPA,/w/pivovara-daruvar/6248,Pivovara Daruvar,7.5% ABV,75 IBU,(3.72),"1,287 Ratings",Added 04/21/17,LJUBAV / ZRAK - Svaka receptura dobiva svoju istinsku moć tek u trenutku kada joj se doda peti element. Iz zemlje potekao hmelj u zrak ispušta zamamne… Read More
+216,Barba IPA,/LabSplit,Lab Split,7% ABV,60 IBU,(3.72),531 Ratings,Added 03/22/18,"Barba IPA is our juicy attempt on IPA style beer. Hugely popular around the globe, it is getting more and more recognized in Croatian craft beer community… Read More"
+217,Baltazar,/PivovaraiPivnicaMedvedgrad,Pivovara Medvedgrad,5.6% ABV,45 IBU,(3.71),"2,720 Ratings",Added 04/28/16,"Hoppy lager with a fruity flavour and a slight bitterness of 45 IBU. For this unusual lager we used Simcoe, Citra and Mandarin Bavaria hops."
+218,HabaNeon Stout,/Varionica,Varionica,6.2% ABV,N/A IBU,(3.7),212 Ratings,Added 03/01/17,Made with fresh Habanero peppers. Collaboration with volimljuto.com
+219,NEIPA 04,/TheGardenBrewery,The Garden Brewery,6.5% ABV,28 IBU,(3.7),732 Ratings,Added 10/15/18,"The fourth in our ever-evolving NEIPA series. Pouring deep golden, tropical hints of mango & passionfruit shine through on the nose. Chewy, resinous mouthfeel,… Read More"
+220,Porter,/w/prvo-visko-pivo/279459,Prvo Visko Pivo,7% ABV,30 IBU,(3.69),716 Ratings,Added 07/07/16,
+221,Bijelo,/PriMariusCraftPivovara,PriMarius craft pivovara,5.2% ABV,16 IBU,(3.69),274 Ratings,Added 04/17/18,
+222,Vragec,/PivovaraiPivnicaMedvedgrad,Pivovara Medvedgrad,4.8% ABV,45 IBU,(3.68),698 Ratings,Added 09/01/16,"Refreshing red beer with an emphasized hoppy character, bitterness of 45 IBU and irresistible fruit flavours Hops used: East Kent Golding, Mandarina Bavaria,… Read More"
+223,Boom Bap IPA,/Positive_Brewery,Positive Brewery,7.7% ABV,N/A IBU,(3.67),169 Ratings,Added 01/12/18,"Medium light bitterness with a dry finish, flavour and aromas of grapefruit, guava and pineapple imparted by Simcoe, Mosaic and Amarillo!"
+224,Trapula,/TapBSplit,Tap B Split Craft Brewery,5% ABV,30 IBU,(3.67),208 Ratings,Added 05/12/18,"American Pale Ale. Brewed by Tap B Split Craft Brewery. APA with perfect balace, amarillo as a dominant hop."
+225,Jam Session IPA,/ZmajskaPivovaraDoo,Zmajska Pivovara D.o.o.,4.5% ABV,42 IBU,(3.66),376 Ratings,Added 06/18/18,
+226,Lorelei (Barrel Aged Extra Maple),/Omnipollo,Omnipollo,10.5% ABV,N/A IBU,(4.46),"2,344 Ratings",Added 03/18/17,
+227,Aon Pecan Mud Cake Stout (Bourbon Barrel Aged),/Omnipollo,Omnipollo,11% ABV,60 IBU,(4.42),"6,308 Ratings",Added 11/05/15,"Yes you got it. It’s Aon* Pecan Mud Cake Stout on freshly emptied bourbon barrels. Henok
+*Formerly known as Noa."
+228,Jesus Mud,/Omnipollo,Omnipollo,13% ABV,N/A IBU,(4.36),"2,176 Ratings",Added 06/27/17,Cross between Even More Jesus and Noa Pecan Mud Cake aged in blueberrycheesecake barrels.
+229,Lorelei,/Omnipollo,Omnipollo,10.5% ABV,N/A IBU,(4.35),"4,707 Ratings",Added 10/30/16,"The fourth time we invite a home brewer to join us and Siren in a collaborative brew. Once a year, home brewers are encouraged to send us their best brews.… Read More"
+230,Original Maple Truffle Ice Cream Waffle,/Omnipollo,Omnipollo,11.5% ABV,N/A IBU,(4.33),"5,521 Ratings",Added 08/03/17,
+231,Gideon's Pancake Stack,/Omnipollo,Omnipollo,12.5% ABV,N/A IBU,(4.33),"5,216 Ratings",Added 05/25/17,
+232,Anagram Bourbon Barrel Aged Blueberry Cheesecake Stout,/Dugges,Dugges Bryggeri,14.5% ABV,N/A IBU,(4.31),"2,411 Ratings",Added 11/05/16,The barrel aged version of the Dugges/Omnipollo collaboration Anagram Blueberry Cheesecake Imperial Stout. This beer has been sitting on Heaven Hill bourbon… Read More
+233,Agamemnon Bourbon,/Omnipollo,Omnipollo,13.2% ABV,N/A IBU,(4.31),"3,299 Ratings",Added 06/18/15,"Double mash, 7 hour boil, Vermont maple syrup and 10 months of maturation in freshly emptied Kentucky bourbon barrels. Enjoy thoroughly.
+Henok"
+234,Anagram Blueberry Cheesecake Stout,/Omnipollo,Omnipollo,12% ABV,N/A IBU,(4.31),"12,111 Ratings",Added 04/08/16,"Friends, family, kindred spirits. Inspiration comes in many shapes and forms. In this case it’s in a Blueberry Cheesecake Stout. Cheers, Henok."
+235,Omniprairie,/Omnipollo,Omnipollo,10% ABV,N/A IBU,(4.27),"2,999 Ratings",Added 05/03/15,"Imperial Stout brewed with fresh salted caramel sauce, vanilla and cocoa nibs."
+236,Aon Pecan Mud Cake,/Omnipollo,Omnipollo,11% ABV,60 IBU,(4.27),"59,421 Ratings",Added 04/12/15,"When I was 12 I dreamed of becoming a pastry chef. Call this a creative outlet. Thick, rich and excessively decadent, this beer aims to bring back childhood… Read More"
+237,I Wanna Be Your Dog,/Omnipollo,Omnipollo,12% ABV,40 IBU,(4.26),"6,658 Ratings",Added 08/31/17,Collaboration with Brewdog. Whisky barrel aged coffee pecan mud cake stout
+238,Aon Hazelnut Cupcake,/Omnipollo,Omnipollo,11% ABV,N/A IBU,(4.25),"3,957 Ratings",Added 07/22/17,"Aon, formerly known as Noa, is a continuation on our pecan mud cake stout. Bourbon barrel aging and post barrel treatment takes this beer on a dessert… Read More"
+239,Speyside Cacao,/Dugges,Dugges Bryggeri,14% ABV,N/A IBU,(4.25),"2,111 Ratings",Added 07/03/17,"Together with Stillwater Artisanal we made a beer inspired by everyone’s favorite candy. We made a chocolate bar in a bottle. Then, we aged that beer… Read More"
+240,Magnus Opus,/Omnipollo,Omnipollo,14.5% ABV,N/A IBU,(4.25),"1,997 Ratings",Added 11/04/16,"Bourbon barrel-aged cinnamon, bacon, and poppy seed imperial stout."
+241,Noa Pecan Mud Cake Stout (Double Barrel Aged Islay Whisky/Cognac),/Omnipollo,Omnipollo,11% ABV,60 IBU,(4.24),"3,117 Ratings",Added 04/09/16,The pinnacle of our first run barrel project. An Islay and Cognac Barrel Aged Pecan Mudcake Imperial Stout.
+242,Tropic Punch Ale,/Dugges,Dugges Bryggeri,4.5% ABV,N/A IBU,(4.22),"12,813 Ratings",Added 02/15/16,Tropic Punch Ale is a joint effort with nomadic brewer Brian Strumke of Stillwater Artisanal. We brewed this sour ale with lactobacillus and let it ferment… Read More
+243,Hypnopompa Rum BA,/Omnipollo,Omnipollo,11% ABV,N/A IBU,(4.2),"4,514 Ratings",Added 03/04/17,
+244,Quadruple Dry Hopped Fatamorgana,/Omnipollo,Omnipollo,8% ABV,N/A IBU,(4.18),"1,495 Ratings",Added 06/03/18,
+245,Super Size Hilma,/Omnipollo,Omnipollo,9% ABV,N/A IBU,(4.17),"1,235 Ratings",Added 12/09/17,"Double dry-hopped Imperial IPA (9%). Brewed with vanilla, crispy fries, and burger buns."
+246,Konjaks Kaggen! Stormaktsporter,/narke-hg,Närke Kulturbryggeri,13% ABV,N/A IBU,(4.15),858 Ratings,Added 11/14/10,
+247,Kaggen! Stormaktsporter Börb'nåhallon (2015),/narke-hg,Närke Kulturbryggeri,9% ABV,N/A IBU,(4.15),707 Ratings,Added 12/27/15,
+248,Cocoa Cacao,/Dugges,Dugges Bryggeri,11.5% ABV,N/A IBU,(4.14),"10,996 Ratings",Added 05/02/17,"In collaborating with Stillwater Artisanal we always focus on distinct, clear, punchy flavors. This beer is no exception. Inspired by everyone’s favorite… Read More"
+249,GBG Beer Week IPA 2016,/stigbergetsbryggeri,Stigbergets Bryggeri,6.5% ABV,N/A IBU,(4.13),"7,316 Ratings",Added 04/15/16,
+250,Anagram Maple Blueberry Cheesecake Stout,/Omnipollo,Omnipollo,12% ABV,N/A IBU,(4.13),939 Ratings,Added 03/02/17,
+251,Hypnopompa Bourbon Barrel Aged,/Omnipollo,Omnipollo,11% ABV,66 IBU,(4.11),"1,524 Ratings",Added 12/27/13,"Brewed with marshmallows, Tahitian vanilla beans, aged in bourbon barrels."
+252,Agamemnon,/Omnipollo,Omnipollo,12.5% ABV,N/A IBU,(4.11),"5,237 Ratings",Added 04/16/13,Invited to brew in the US I wanted to use local ingredients. Agamemnon is an Imperial Stout brewed with maple syrup. Boiled 7 hours.
+253,Thurbo Kaggen Stormaktsporter,/OppigardsBryggeri,Oppigårds Bryggeri,13% ABV,65 IBU,(4.11),"2,195 Ratings",Added 09/28/18,En samarbetsöl med Närke Kulturbryggeri. Två bryggerier som firar 15 år! Det firar vi genom att brygga ett öl tillsammans. Först bryggde vi en batch Thurbo… Read More
+254,Coconut Agamemnon,/Omnipollo,Omnipollo,12% ABV,N/A IBU,(4.1),"1,188 Ratings",Added 10/19/18,Imperial Stout with Maple Syrup and Coconut.
+255,Aon Cocoalmond Coffee Imperial Stout,/Omnipollo,Omnipollo,11% ABV,N/A IBU,(4.1),"2,028 Ratings",Added 08/25/18,
+256,Coffee Vanilla Black,/Dugges,Dugges Bryggeri,13% ABV,N/A IBU,(4.1),"2,845 Ratings",Added 01/08/18,"This flavored beer is a layered dream! It’s sweetly soft from the malts. It’s robust from da Matteo roasted Colombian Tabi coffee. And, it’s made elegant… Read More"
+257,Boxed Idjit,/Dugges,Dugges Bryggeri,12.1% ABV,N/A IBU,(4.09),"1,413 Ratings",Added 08/25/16,"This beer is a take on our iconic imperial stout, Idjit. Aged for eleven months on Angermannian Box Destilleri AB barrels to heighten the flavor and give… Read More"
+258,Selassie,/Omnipollo,Omnipollo,11% ABV,N/A IBU,(4.09),"22,697 Ratings",Added 08/29/16,"10 specialty malts make up this majestic imperial stout conditioned on heaps of coffee and vanilla beans. Simple, yet complex."
+259,Kaggen! Stormaktsporter,/narke-hg,Närke Kulturbryggeri,9% ABV,N/A IBU,(4.09),314 Ratings,Added 12/28/10,
+260,We Are Beer Bristol,/Dugges,Dugges Bryggeri,12.5% ABV,N/A IBU,(4.09),984 Ratings,Added 08/24/18,A five way collaboration beer that comes in three varieties. Each variety connected to one of the We Are Beer festivals. This is Bristol. A cognac barrel… Read More
+261,Nautilus,/Omnipollo,Omnipollo,4.5% ABV,15 IBU,(4.07),"10,433 Ratings",Added 01/05/16,"Sour Ale with Vanilla, Lactose Sugar & Blueberries"
+262,Bianca Raspberry Lassi Gose (6%),/Omnipollo,Omnipollo,6% ABV,N/A IBU,(4.07),"3,331 Ratings",Added 08/05/16,
+263,We Are Beer London,/Dugges,Dugges Bryggeri,11% ABV,N/A IBU,(4.06),"1,030 Ratings",Added 05/24/18,A five way collaboration beer that comes in three varieties. Each variety connected to one of the We Are Beer beer festivals. This is London. A plush… Read More
+264,Wedding Stout,/Omnipollo,Omnipollo,12.3% ABV,N/A IBU,(4.06),875 Ratings,Added 08/21/15,"A punch inspired imperial stout spiced with cinnamon, vanilla, toasted coconut and raisins soaked in the finest Barbados rum."
+265,Lorelei Extra Extra Extra Maple Coconut Toast,/Omnipollo,Omnipollo,12% ABV,N/A IBU,(4.05),334 Ratings,Added 04/28/18,
+266,Uno IIPA,/stigbergetsbryggeri,Stigbergets Bryggeri,8% ABV,N/A IBU,(4.05),"6,014 Ratings",Added 03/18/17,
+267,Indexoutofbounds Oak Aged Imperial Vanilla Stout,/Nerdbrewing,Nerdbrewing,11.6% ABV,90 IBU,(4.05),"1,539 Ratings",Added 08/03/16,Oak Aged Imperial Vanilla Stout
+268,Aon High Altitude Dry & Wet Fermented Gesha Village Estate Coffee,/Omnipollo,Omnipollo,11% ABV,N/A IBU,(4.04),"1,402 Ratings",Added 08/25/18,Bourbon dry and wet fermented high altitude Ethiopian coffee bean
+269,"¡Buena Para El Papa! ¿Si, No?",/brewski_se,Brewski,11% ABV,N/A IBU,(4.04),"1,073 Ratings",Added 04/22/16,
+270,Symzonia,/Omnipollo,Omnipollo,13% ABV,N/A IBU,(4.04),"9,584 Ratings",Added 02/03/16,"Imperial Stout conditioned on Ethiopian coffe, Madagascan vanilla beans, Brazilian cocoa nibs & carefully weighed cinnamon sticks."
+271,Narangi,/oobrewing,O/O Brewing,6.8% ABV,N/A IBU,(4.03),"10,851 Ratings",Added 08/16/16,Mosaic
+272,We Are Beer Edinburgh,/Dugges,Dugges Bryggeri,11% ABV,N/A IBU,(4.03),941 Ratings,Added 05/07/18,A five way collaboration beer that comes in three varieties. Each variety connected to one of the We Are Beer festivals. This is Edinburgh. A big stout… Read More
+273,Polimango,/Omnipollo,Omnipollo,8.5% ABV,80 IBU,(4.03),"2,994 Ratings",Added 09/15/16,A beach ready double IPA brewed with Polenta and Mosaic hops. Brewed in collaboration with Tupiniquim in Brazil.
+274,Milkshake IPA (Strawberry),/Omnipollo,Omnipollo,7.2% ABV,N/A IBU,(4.03),"13,380 Ratings",Added 03/25/15,IPA brewed with oats and lactose sugar. Fermented atop strawberries (a high pectin fruit) and vanilla beans. Hopped intensely with Mosaic and Citra. We… Read More
+275,Sidamo Dimtu*,/Dugges,Dugges Bryggeri,11.5% ABV,N/A IBU,(4.03),857 Ratings,Added 06/10/17,"So, we did a stout with Hunter & Sons and Round Hill Roastery of Bath, England. They brought the coffee. We brewed the beer. Then we let it rest in bourbon… Read More"
+276,Nation'Ale,/w/flying-dodo-brewing-company/47466,Flying Dodo Brewing Company,5.9% ABV,17 IBU,(3.59),179 Ratings,Added 07/08/15,"Flying Dodo NATION’ALE 5.9% alc, 17 IBU, 14° Plato Top fermented with Belgian Abbey malt, Pilsner & Carabelge malts"
+277,Blonde,/w/flying-dodo-brewing-company/47466,Flying Dodo Brewing Company,5% ABV,32 IBU,(3.54),250 Ratings,Added 12/05/12,
+278,Gister,/PhoenixBev,Phoenix Beverages,4.8% ABV,N/A IBU,(3.2),339 Ratings,Added 06/19/16,
+279,Phoenix Special Brew,/PhoenixBev,Phoenix Beverages,6.5% ABV,N/A IBU,(3.2),515 Ratings,Added 06/11/13,"Phoenix Special Brew, launched in 2005, is the beer for the connoisseurs. It has a specific and stronger taste than Phoenix Beer, as well as having 6.5%… Read More"
+280,Stella Pils,/PhoenixBev,Phoenix Beverages,4.8% ABV,N/A IBU,(3.13),291 Ratings,Added 10/05/13,"In 1964, the shining Stella Pils was launched for the first time in Mauritius with a 4.8% ABV. Its uniqueness lies in its crisp, aromatic and dry taste… Read More"
+281,Phoenix Fresh,/PhoenixBev,Phoenix Beverages,3.5% ABV,N/A IBU,(3),377 Ratings,Added 10/23/11,"Phoenix Fresh targets young, health conscious adults who want to have fun and who love to party. Phoenix Fresh is a natural lemon flavoured beer mixed… Read More"
+282,Blue Marlin,/PhoenixBev,Phoenix Beverages,6% ABV,N/A IBU,(2.99),"1,726 Ratings",Added 10/15/11,Blue Marlin has been in our market since 1990. It is positioned as a Premium Beer with 6% alcohol content. Blue Marlin has become a very familiar brand… Read More
+283,Phoenix Beer,/PhoenixBev,Phoenix Beverages,5% ABV,N/A IBU,(2.91),"4,096 Ratings",Added 02/09/11,Phoenix Beer was launched to the public during the Maiden Day – on Sunday 26th August 1963. It has since been enjoyed by all Mauritians and is their most… Read More
+284,Africana Beer,/w/african-beverages-company-ltd/302993,African Beverages Company Ltd.,5.2% ABV,N/A IBU,(2.83),799 Ratings,Added 10/18/16,
+285,02 Kolaboracija Caramel Stout,/KabinetBrewery,Kabinet Brewery,10% ABV,N/A IBU,(3.97),751 Ratings,Added 08/25/16,Caramel stout aged for almost 6 months in oak barrels previously containing Arkanj brandy (Calvados) made by the Kovilj Monastery.
+286,Vista Mikkeller IPA#2,/KabinetBrewery,Kabinet Brewery,7.5% ABV,54 IBU,(3.86),"1,106 Ratings",Added 12/28/14,"Vista series dramatically continues, as the label story unfolds so does the new IPA style! Number two represents a powerful blend of fruit flavors, beside… Read More"
+287,Ludilo,/KORS-Srbija,Kors,6% ABV,35 IBU,(3.83),264 Ratings,Added 07/28/17,"Milkshake ipa.
+Collaboration with Bottle Share (RU)."
+288,Mikkeller Vista Milk Stout,/KabinetBrewery,Kabinet Brewery,5.8% ABV,50 IBU,(3.83),503 Ratings,Added 12/15/14,"Milk Stout, smooth, full mouth feel. Strong body with distinctive flavours of coffee, cocoa, vanilla and tropical notes in the back, a real treat for… Read More"
+289,Mikkeller Vista,/KabinetBrewery,Kabinet Brewery,6.8% ABV,54 IBU,(3.8),531 Ratings,Added 10/05/14,"Vista, IPA style, directed by one of the world most progressive and best brewers and in our execution. Strong character, full and oily body, with crisp… Read More"
+290,Flying Dogma Galaxy IPA,/DogmaBrewery,Dogma Brewery,6.6% ABV,65 IBU,(3.79),365 Ratings,Added 04/13/18,"Flying Dogma Galaxy IPA is the first collaboration between two breweries between Serbia and USA! Crispy, fruity and a little bit spicy American style… Read More"
+291,Black Widow,/crowbrewery,Crow Brewery,9.1% ABV,60 IBU,(3.77),162 Ratings,Added 02/25/17,"Black Widow is Russian Imperial Stout brewed with mix of pils, caramel malts, chocolate malt, and roast barley."
+292,Albino,/DogmaBrewery,Dogma Brewery,6.5% ABV,60 IBU,(3.77),"1,632 Ratings",Added 05/03/17,"Albino is a WIPA. Why? Well, because we believe in hops, but also we like to get into new fields. Now, we're in fields of wheat which gave us an ""hybrid""… Read More"
+293,Hoptopod,/DogmaBrewery,Dogma Brewery,6.5% ABV,58 IBU,(3.77),"5,286 Ratings",Added 05/19/16,Hoptopod is a real hoppy monster which was brought up in our fermenter for five weeks. We fed him with finest aromatic hops from Yakima valley. Feel free… Read More
+294,Lollihop,/ZebrewBrewery,Zebrew,7% ABV,60 IBU,(3.76),195 Ratings,Added 04/22/17,"Zaboravite na uzdržavanje od slatkiša, Zebrew Lollihop je stigao, sa svojih 7% alkohola, ekstremnom mutnoćom i neverovatnom aromom bombona, citrusa i… Read More"
+295,NAKA TUKA TE TOĐA,/DogmaBrewery,Dogma Brewery,6.7% ABV,60 IBU,(3.75),208 Ratings,Added 10/03/18,"This West Coast IPA is a special brew for ""Hop Growers of America Competition"" which will be held at Brau Beviale 2018. Combination of four ""public"" hops… Read More"
+296,Plutonium,/DogmaBrewery,Dogma Brewery,7.5% ABV,65 IBU,(3.75),554 Ratings,Added 12/16/17,Plutonium Orange Milkshake Double IPA is a beer with a radioactive name. But also it has radioactive taste! Brewed in collab with our Russian friends… Read More
+297,Ice Cream Stout,/ZebrewBrewery,Zebrew,5% ABV,30 IBU,(3.74),312 Ratings,Added 08/08/15,Milk stout sa 8 vrsta slada i dodatkom štapića vanile.
+298,Olga,/KabinetBrewery,Kabinet Brewery,7.5% ABV,N/A IBU,(3.74),415 Ratings,Added 09/02/17,
+299,Sansho,/ZebrewBrewery,Zebrew,5.5% ABV,60 IBU,(3.73),189 Ratings,Added 08/14/16,"Sansho, aromatični IPA, sa dodatkom istoimenog bibera, koji dodatno ističe arome bora i mente koje potiču od hmeljeva: Nelson Sauvin, Mosaic, Centennial… Read More"
+300,Cassius,/KabinetBrewery,Kabinet Brewery,6.3% ABV,37 IBU,(3.73),444 Ratings,Added 10/25/14,"Macchiato flavore with vanilla, cinnamon and dark chocolate. Cassius, floats like a butterfly stings like a bee."
+301,Slovenski Kollab,/KORS-Srbija,Kors,9.3% ABV,69 IBU,(3.73),259 Ratings,Added 06/14/17,"Dosta hmelja, slada i ruske duše je uloženo u ovaj IPA specijalitet. Pred Vama je Slovenski Kollab pripremljen sa istinski ruskim zanosom. Kolaboracija… Read More"
+302,Salto Pale Ale,/SaltoPivo,Salto Pivo,5.7% ABV,35 IBU,(3.73),918 Ratings,Added 04/02/16,"Dry hopped like IPA, drinkable as APA. Loads of hops, hint of caramel in background. That is the the secret to this all-seasons classic."
+303,Olga On Cardamom,/KabinetBrewery,Kabinet Brewery,10% ABV,N/A IBU,(3.72),"1,242 Ratings",Added 11/07/17,
+304,Stalker,/RazBeerbriga,RazBeerbriga,7.7% ABV,77 IBU,(3.72),417 Ratings,Added 10/19/15,Love at first sip? A rush of passion? Sudden obsession? A wave of pungent aromas and exquisite flavors washes over you: Stalker has arrived. One sip and… Read More
+305,Single Hop Centennial,/KabinetBrewery,Kabinet Brewery,5.4% ABV,54 IBU,(3.72),225 Ratings,Added 07/13/16,Pure centennial hop beer. 11 EBC
+306,Belgrade IPA,/SaltoPivo,Salto Pivo,6.5% ABV,N/A IBU,(3.71),266 Ratings,Added 06/15/18,"This is the first beer we brewed in our new brewery in Belgrade. In addition to the name it carries, we are particularly proud of it's balance. By combining… Read More"
+307,Apache,/ZebrewBrewery,Zebrew,6% ABV,50 IBU,(3.71),228 Ratings,Added 05/21/16,"Izrazito zahmeljeni pale ale, sa dodatkom ovsenih pahuljica i korijandera.
+Dry hop: Galaxy i Mosaic"
+308,Scorpio,/tronbrewery,Tron Brewery,6.3% ABV,N/A IBU,(3.71),178 Ratings,Added 10/20/17,
+309,Pablo,/KabinetBrewery,Kabinet Brewery,6.5% ABV,65 IBU,(3.7),953 Ratings,Added 10/09/15,"Refreshing and hoppy, a remedy from many travels, inspired by a true story of a soldier Pablo. Done in cooperation with the first craft beer pub Samo… Read More"
+310,Caiman,/crowbrewery,Crow Brewery,6.5% ABV,50 IBU,(3.7),319 Ratings,Added 09/16/17,"American IPA brewed with Mosaic, Citra, Amarillo and Rakau hops."
+311,Uteha,/KabinetBrewery,Kabinet Brewery,6.7% ABV,25 IBU,(3.7),555 Ratings,Added 01/23/17,This honey porter
+312,SuperNova,/KabinetBrewery,Kabinet Brewery,6.8% ABV,51 IBU,(3.7),"3,850 Ratings",Added 09/14/14,"Basket full of fruits whose flavors explode and spill over when you approach. A harmonious complex that only an IPA can offer. Be ready to fly away, on… Read More"
+313,Tropical IPA,/ZebrewBrewery,Zebrew,6% ABV,80 IBU,(3.7),181 Ratings,Added 10/18/15,"Dry hopped: Columbus, Centennial, Simcoe, Enigma."
+314,Single Hop Citra,/KabinetBrewery,Kabinet Brewery,5.4% ABV,54 IBU,(3.69),596 Ratings,Added 04/11/16,Autocratic attack on the heat. Bring the citrus freshness in each warm day and more importantly relax a heated situation with the freshness of the Citra… Read More
+315,To the Moon & Back,/KabinetBrewery,Kabinet Brewery,7.6% ABV,70 IBU,(3.69),557 Ratings,Added 01/20/18,
+316,Ryezen,/w/kas-balkan-brewtopia/196037,Kaš Balkan Brewtopia,6.5% ABV,50 IBU,(3.69),744 Ratings,Added 03/01/15,
+317,Svarog,/juznivepar,Juzni Vepar,5.5% ABV,35 IBU,(3.68),185 Ratings,Added 07/02/16,
+318,Pevac,/crowbrewery,Crow Brewery,7.2% ABV,60 IBU,(3.68),197 Ratings,Added 11/01/16,"Red IPA brewed with Columbus, Citra and Nelson Sauvin."
+319,Brate!,/DogmaBrewery,Dogma Brewery,4.5% ABV,25 IBU,(3.67),220 Ratings,Added 06/01/18,"Brate! is the beer produced by two brother breweries Dogma & Lambrate. Sessionable, clean and hoppy lager ideal for summer days!"
+320,Gecko,/crowbrewery,Crow Brewery,5.5% ABV,40 IBU,(3.66),388 Ratings,Added 05/14/16,"American Pale ale from Serbian Crow brewery. Nice aromatic taste and pleasant bitterness. Mosaic and Equinox hops, as per description. Good beer!"
+321,Loco About Coco,/KabinetBrewery,Kabinet Brewery,6.9% ABV,35 IBU,(3.66),223 Ratings,Added 06/09/18,Black NEIPA with Toasted Coconut
+322,Ayahuasca Jungle Ale,/DogmaBrewery,Dogma Brewery,5.2% ABV,60 IBU,(3.66),248 Ratings,Added 06/07/18,"Ayahuasca is a special plant. Ayahuasca Jungle ale is special IPA brewed & loaded with aromatic hops, juniper and orange peel. Funky, funky, funky! Read More"
+323,Korsar,/KORS-Srbija,Kors,7% ABV,72 IBU,(3.66),226 Ratings,Added 07/01/16,"From distant India, over the oceans in the KORSAR ship arrives IPA with the scent of tropical fruits. With carefully selected 5 types of specialty malts… Read More"
+324,Pandora,/tronbrewery,Tron Brewery,4% ABV,25 IBU,(3.65),170 Ratings,Added 09/01/17,
+325,Disko,/KabinetBrewery,Kabinet Brewery,5.6% ABV,N/A IBU,(3.65),170 Ratings,Added 03/16/18,
+326,Grizzly,/KORS-Srbija,Kors,5.8% ABV,55 IBU,(3.65),295 Ratings,Added 07/01/16,"Hops in your veins, lime and pineapple in the mouth. With pale, caramel, wheat and a pinch of rye malt we created this mighty beast that will overwhelm… Read More"
+327,"You Happy, Me Happy",/KabinetBrewery,Kabinet Brewery,8% ABV,N/A IBU,(3.64),227 Ratings,Added 02/03/18,
+328,Nova Engleska IPA,/KabinetBrewery,Kabinet Brewery,5.8% ABV,45 IBU,(3.63),679 Ratings,Added 02/19/17,"ITA - Prodotta insieme al birrificio serbo Kabinet ed ispirata al celebre stile originario del Vermont, è una birra a cui l’abbondante utilizzo di avena… Read More"
+329,IPA,/w/dilemma-pivara/345104,Dilemma Pivara,6.5% ABV,60 IBU,(3.63),258 Ratings,Added 06/10/17,
+330,Mozaik,/KabinetBrewery,Kabinet Brewery,5.2% ABV,35 IBU,(3.63),"1,288 Ratings",Added 02/07/15,"A walk by the pine trees in your mouth, mango and caramel, enjoy the spicy finish."
+331,Gunners Pub APA,/crowbrewery,Crow Brewery,5.3% ABV,N/A IBU,(3.63),151 Ratings,Added 05/11/17,"Gunners Pub (Braće Jugovića 2a) u saradnji sa Crow Brewery (Vranovo) je napravio Gunners Pub pivo.
+Stil: American Pale Ale (APA)
+Alc: 5.3%"
+332,S.M.A.S.H. Chinook,/DogmaBrewery,Dogma Brewery,4.7% ABV,55 IBU,(3.61),291 Ratings,Added 11/03/17,"First from S.M.A.S.H. series where Dogma will present distinct hop aromas from hops which they use for all their beers. First is Chinook, dual purpose… Read More"
+333,Bad Copy,/KabinetBrewery,Kabinet Brewery,5.3% ABV,30 IBU,(3.61),373 Ratings,Added 12/12/15,"When Bad Copy rhymes became a beer, this is the result. Bitterness that puts a smile on your face, fat rhymes and beats that flow through your body and… Read More"
+334,S.M.A.S.H. Mosaic,/DogmaBrewery,Dogma Brewery,4.7% ABV,60 IBU,(3.61),"1,381 Ratings",Added 02/27/18,"Second in our ""S.M.A.S.H. Session IPA"" series, this beer brings you aroma and flavour of one of our favourite hops - Mosaic! Explosion of tropical aromas… Read More"
+335,Imperial Chocolate Stay Puft,/tinyrebel,Tiny Rebel Brewing Co,9% ABV,28 IBU,(4.09),"1,814 Ratings",Added 07/18/18,"Imagine Imperial Puft with shed loads of chocolate. If you can't picture that, think about Chocolate Stay Puft, but an imperial version. Yep, we've crossed… Read More"
+336,Imperial Puft,/tinyrebel,Tiny Rebel Brewing Co,9% ABV,30 IBU,(4.06),"6,228 Ratings",Added 10/26/17,A flavour explosion that’s like a proton torpedo in your exhaust port. An Imperial March into your mouth. Return of the Marshmallow. We've taken everything… Read More
+337,Mosaic Simcoe Double IPA,/LOKAPOLLY,LOKA POLLY,8.2% ABV,N/A IBU,(4.02),518 Ratings,Added 08/16/18,"Our two favourite hops in a DIPA. Super low bitterness with juicy, fruity esters. Expect pineapple, citrus and bags of stone fruit. An 8.2% fruit salad? Read More"
+338,Chinook Mosaic Double IPA,/LOKAPOLLY,LOKA POLLY,8.6% ABV,N/A IBU,(4.02),486 Ratings,Added 11/16/18,
+339,Citra Simcoe Double IPA,/LOKAPOLLY,LOKA POLLY,8.5% ABV,N/A IBU,(4),676 Ratings,Added 10/01/18,
+340,Simcoe Waimea Double IPA,/LOKAPOLLY,LOKA POLLY,8% ABV,N/A IBU,(3.97),451 Ratings,Added 09/12/18,
+341,Didgeridank,/tinyrebel,Tiny Rebel Brewing Co,8.4% ABV,45 IBU,(3.96),"3,323 Ratings",Added 02/16/18,"For our collab with Siren we decided to go all out with hops. No special ingredients, no additional fruit or spices, just loads more hops! Like, loooooooads… Read More"
+342,Citra Ekuanot India Pale Ale,/LOKAPOLLY,LOKA POLLY,7% ABV,N/A IBU,(3.95),579 Ratings,Added 06/09/18,
+343,Ekuanot Mosaic Double IPA,/LOKAPOLLY,LOKA POLLY,8% ABV,N/A IBU,(3.94),596 Ratings,Added 07/02/18,
+344,El Dorado Mosaic India Pale Ale,/LOKAPOLLY,LOKA POLLY,6.4% ABV,N/A IBU,(3.91),"1,138 Ratings",Added 04/26/18,
+345,Chocolate Stay Puft,/tinyrebel,Tiny Rebel Brewing Co,5.2% ABV,30 IBU,(3.9),"3,114 Ratings",Added 11/23/17,"How do you make something great better? Take something like Stay Puft - it’s fab, but could it be better? Could we make it bigger and stronger? We’ve… Read More"
+346,Citra Double IPA,/LOKAPOLLY,LOKA POLLY,8% ABV,N/A IBU,(3.89),642 Ratings,Added 04/27/18,
+347,Citra Simcoe India Pale Ale,/LOKAPOLLY,LOKA POLLY,6.1% ABV,N/A IBU,(3.89),"1,457 Ratings",Added 01/28/18,
+348,Citra Ekuanot Double IPA,/LOKAPOLLY,LOKA POLLY,8% ABV,N/A IBU,(3.88),271 Ratings,Added 07/02/18,
+349,Citra Columbus India Pale Ale,/LOKAPOLLY,LOKA POLLY,6.1% ABV,N/A IBU,(3.87),370 Ratings,Added 11/16/18,
+350,Not So Safe As Milk,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,7.3% ABV,N/A IBU,(3.86),228 Ratings,Added 08/20/16,
+351,Citra DDH Pale,/LOKAPOLLY,LOKA POLLY,5.5% ABV,N/A IBU,(3.86),506 Ratings,Added 08/27/18,
+352,Ogham Ash,/CeltBrewing,Celt Brewing,10.5% ABV,N/A IBU,(3.85),516 Ratings,Added 05/03/13,
+353,Bonsai,/tinyrebel,Tiny Rebel Brewing Co,6.5% ABV,60 IBU,(3.85),391 Ratings,Added 05/22/15,"""International"" collaborations like this don't come along very often, but when they do, someone's supply of hops usually gets rinsed! Brewed with ALL… Read More"
+354,Galaxy Mosaic India Pale Ale,/LOKAPOLLY,LOKA POLLY,6.5% ABV,45 IBU,(3.84),393 Ratings,Added 01/04/18,
+355,Ekuanot Simcoe DDH IPA,/LOKAPOLLY,LOKA POLLY,6.5% ABV,N/A IBU,(3.84),394 Ratings,Added 09/13/18,
+356,Tax Man,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,9.4% ABV,N/A IBU,(3.84),498 Ratings,Added 11/18/16,Hoppy explosive tasty Double IPA
+357,Mosaic Simcoe Pale Ale,/LOKAPOLLY,LOKA POLLY,5.4% ABV,N/A IBU,(3.83),462 Ratings,Added 06/07/18,
+358,Captain Insano,/tinyrebel,Tiny Rebel Brewing Co,10% ABV,60 IBU,(3.83),"2,281 Ratings",Added 05/22/17,"Introducing the biggest, baddest most brilliant beer the world has ever seen. The Triple to Cripple. The meanest IPA in the Milky Way. Weighing in at… Read More"
+359,Clwb Tropicana,/tinyrebel,Tiny Rebel Brewing Co,5.5% ABV,40 IBU,(3.83),"25,492 Ratings",Added 02/13/16,This grown up fruit salad is as colourful as the most hideous Hawaiian shirt you’ve ever seen. It’s super juicy and crammed full of fruity hop flavours… Read More
+360,Stay Puft,/tinyrebel,Tiny Rebel Brewing Co,5.2% ABV,30 IBU,(3.83),"17,708 Ratings",Added 01/29/16,"“I’m terrified beyond the capacity for rational thought.” This marshmallow porter has the classic roasty qualities of a proper dark ale, whilst the marshmallow… Read More"
+361,Amarillo Mosaic India Pale Ale,/LOKAPOLLY,LOKA POLLY,6% ABV,N/A IBU,(3.82),388 Ratings,Added 08/27/18,
+362,Magic Bus,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,6.7% ABV,N/A IBU,(3.81),379 Ratings,Added 03/08/18,
+363,Chinook Vic Secret India Pale Ale,/LOKAPOLLY,LOKA POLLY,6.3% ABV,N/A IBU,(3.81),209 Ratings,Added 12/14/18,
+364,Chocolate Moose,/PurpleMooseBreweryBragdyMwsPiws,Purple Moose Brewery (Bragdy Mws Piws),4.5% ABV,N/A IBU,(3.81),879 Ratings,Added 10/13/16,"Chocolate Moose is a smooth, rich stout with lingering chocolate and vanilla flavours, followed up with a nicely balanced subtle bitterness."
+365,Cry Baby,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,5.3% ABV,N/A IBU,(3.8),323 Ratings,Added 01/13/17,Hoppy milkshake.
+366,Rhubarb & Custard Sour,/tinyrebel,Tiny Rebel Brewing Co,4% ABV,10 IBU,(3.8),900 Ratings,Added 08/09/18,"Now here's a throwback! The sharp tang of rhubarb gets a big boost in a sour beer, but it's mellowed out nicely by the sweet, creamy, vanilla custard… Read More"
+367,But Did You Die?,/tinyrebel,Tiny Rebel Brewing Co,6% ABV,30 IBU,(3.8),533 Ratings,Added 10/02/18,Hazier than your memory of that night we agreed to never talk about and packed with more fruit than the peach orchard you woke up in. But Did You Die?… Read More
+368,Snowball,/WaenBrewery,The Waen Brewery,7% ABV,N/A IBU,(3.8),714 Ratings,Added 11/20/13,
+369,Aurora Espresso Breakfast Stout,/LOKAPOLLY,LOKA POLLY,5.1% ABV,30 IBU,(3.8),313 Ratings,Added 01/04/18,
+370,You Love Us,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,6.5% ABV,N/A IBU,(3.8),"1,095 Ratings",Added 12/19/15,"West Coast IPA. Bitter, dry, clean and hoppy."
+371,Safe As Milk,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,4.6% ABV,N/A IBU,(3.8),"1,467 Ratings",Added 06/27/15,Velvet smooth coffee milk stout
+372,Hadouken,/tinyrebel,Tiny Rebel Brewing Co,7.4% ABV,80 IBU,(3.8),"11,894 Ratings",Added 06/07/12,Hadouken is our Amplified IPA. A dedication to the classic finishing move from one of our favourite video games from back in the 90’s. Massively hopped… Read More
+373,Hallertau Blanc India Pale Ale,/LOKAPOLLY,LOKA POLLY,6.6% ABV,N/A IBU,(3.79),436 Ratings,Added 08/27/18,
+374,Ekuanot DDH Pale,/LOKAPOLLY,LOKA POLLY,5.5% ABV,N/A IBU,(3.79),263 Ratings,Added 12/03/18,
+375,Simcoe DDH Pale,/LOKAPOLLY,LOKA POLLY,5.5% ABV,N/A IBU,(3.79),590 Ratings,Added 03/24/18,
+376,Lock Stock (Tiny Batch Edition),/tinyrebel,Tiny Rebel Brewing Co,13% ABV,N/A IBU,(3.79),337 Ratings,Added 08/16/18,"LOCK STOCK is the first big release from our super-duper top secret special barrel ageing project. We banged a heavy hitting, heavily hopped IPA into… Read More"
+377,In & Around The Mouth,/tinyrebel,Tiny Rebel Brewing Co,6% ABV,60 IBU,(3.79),"2,857 Ratings",Added 08/08/16,"Our first Tiny Batch Edition Graduate! First released as a TBE edition in June 2015, this was our experiment to find a strong, fruity IPA. It was such… Read More"
+378,Peaches And Cream IPA,/tinyrebel,Tiny Rebel Brewing Co,5.5% ABV,60 IBU,(3.79),"5,896 Ratings",Added 09/29/16,"Peaches & Cream IPA! Does exactly what it says on the tin! Peach flavours from, you guessed it, peaches! The cream comes from sweet, smooth lactose and… Read More"
+379,Power of Grayskull,/tinyrebel,Tiny Rebel Brewing Co,8.5% ABV,80 IBU,(3.79),230 Ratings,Added 03/18/16,"I have the POWEEER! We reached a huge milestone in February 2016. Nearly 4 years to the day after Tiny Rebel opened, we reached our 1000th brew! Such… Read More"
+380,Chinook Ekuanot Pale Ale,/LOKAPOLLY,LOKA POLLY,5.1% ABV,N/A IBU,(3.78),588 Ratings,Added 04/27/18,
+381,The Devil We Know,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,10.4% ABV,N/A IBU,(3.78),180 Ratings,Added 06/23/17,"Crafty Devil Brewing and Left Handed Giant Colab..
+Big Triple IPA Hoppy Dank Bitter and Fruity"
+382,Sweet Emotion,/CraftyDevilBrewingCo,Crafty Devil Brewing Co,6% ABV,N/A IBU,(3.78),158 Ratings,Added 03/08/18,Juicy and hazy IPA
+383,Citra Milkshake,/tinyrebel,Tiny Rebel Brewing Co,4.2% ABV,40 IBU,(3.77),"1,862 Ratings",Added 05/03/18,"The first in a series of beers that milkshake-ify flavours with the addition of lactose! We've brewed up a single-hop IPA with one of our favourite hops,… Read More"
+384,The Great Cornholio,/tinyrebel,Tiny Rebel Brewing Co,8.4% ABV,N/A IBU,(3.77),"2,345 Ratings",Added 04/18/18,"A really full-bodied, thick double IPA, backed full of really multi-dimensional hops. Mosaic and Chinook combine with a pair of South Pacific varieties… Read More"
+385,Lupum Imperial Stout Cocoa & Coffee,/Lupum,Lupum,13.4% ABV,48 IBU,(3.99),329 Ratings,Added 02/01/17,"Russian imperial stout with cocoa and Ethiopia coffee, roasted by 7g roaster and a vanilla."
+386,LETRA LERVIG MEAN SARDINE - Collab Port BA Barley Wine,/LETRABREWERY,LETRA brewery,13% ABV,30 IBU,(3.89),"1,012 Ratings",Added 05/12/17,A Portuguese (LETRA and Mean Sardine) and Norwegian (Lervig) collaboration. This Barley Wine was aged in Port Barrels for 10 Months.
+387,Catraio 3.0 by Lupum,/Lupum,Lupum,10% ABV,90 IBU,(3.86),207 Ratings,Added 01/29/18,there is a urban myth saying its more than 100 ibus..
+388,Tovarisch,/OitavaColina,Oitava Colina,11% ABV,65 IBU,(3.85),490 Ratings,Added 02/13/18,4 months oak barrel aged.
+389,Cryo Hoperation,/PedroSousa,Post Scriptum Brewery,7% ABV,65 IBU,(3.85),"1,665 Ratings",Added 06/18/17,
+390,Blommer I Madeira,/MeanSardineBrewery,Mean Sardine Brewery,12% ABV,80 IBU,(3.84),748 Ratings,Added 03/15/16,Collaboration with To Øl. Imperial stout aged in Madeira barrels with plums.
+391,Tordesilhas Imperial Stout,/MeanSardineBrewery,Mean Sardine Brewery,10% ABV,N/A IBU,(3.83),625 Ratings,Added 10/21/17,"Imperial Stout w/ Cocoa, Cinnamon, Gindungo Chilli and Vanilla. There was a time that all the New World was divided by two between Portugal and Spain,… Read More"
+392,Plantageneta,/OitavaColina,Oitava Colina,11.5% ABV,75 IBU,(3.83),411 Ratings,Added 11/03/17,Barley Wine aged on Madeira Wine barrels.
+393,Lupum Belgian Strong Dark Ale,/Lupum,Lupum,10.5% ABV,21 IBU,(3.82),257 Ratings,Added 10/13/15,
+394,NANQUIM - Barrel Aged Imperial Stout,/LETRABREWERY,LETRA brewery,12.05% ABV,80 IBU,(3.81),293 Ratings,Added 02/18/16,Nanquim is the first collaboration between a portuguese and a brazilian brewery (LETRA-PT and CEVADA PURA-BR). This Imperial Stout was fermented with… Read More
+395,Babilónia,/DoisCorvos,Dois Corvos,10% ABV,N/A IBU,(3.81),500 Ratings,Added 03/03/17,"Babilónia is a Barleywine aged in Portuguese Abafado fortified wine barrels. A full bodied ale, with a flavor reminiscent of dark fruits, with notes of… Read More"
+396,Imperial Stout (Whiskey Oak),/burguesa,Burguesa,10% ABV,85 IBU,(3.8),222 Ratings,Added 06/18/16,"Whiskey oak
+Vannilla and lactose"
+397,Imperial Stout 2016 - Pinot Noir BA,/MeanSardineBrewery,Mean Sardine Brewery,12% ABV,N/A IBU,(3.8),243 Ratings,Added 12/21/17,
+398,Lupum Imperial Stout Cognac BA,/Lupum,Lupum,9.4% ABV,43 IBU,(3.79),175 Ratings,Added 10/13/15,
+399,Maldita Russian Imperial Stout,/w/faustino-microcervejeira/79690,Faustino Microcervejeira,10% ABV,N/A IBU,(3.79),259 Ratings,Added 12/27/14,
+400,Oak Series - Cognac,/PedroSousa,Post Scriptum Brewery,10% ABV,N/A IBU,(3.79),420 Ratings,Added 04/27/16,
+401,Finisterra Imperial Porter (Lourinhã barrel-aged),/DoisCorvos,Dois Corvos,10% ABV,N/A IBU,(3.78),159 Ratings,Added 06/25/16,"Our Finisterra Imperial Porter that was aged for six months in barrels that previously held Aguardente DOC Lourinhã XO - Portuguese brandy, 10% version. Read More"
+402,Into the Woods - Scotch Whisky BA,/DoisCorvos,Dois Corvos,10.1% ABV,N/A IBU,(3.78),320 Ratings,Added 03/20/17,"We took our Into the Woods recipe, increased the strength a bit and aged the beer for three months in Scotch Whiskey barrels."
+403,Ginja Ninja,/MeanSardineBrewery,Mean Sardine Brewery,10% ABV,60 IBU,(3.78),957 Ratings,Added 06/17/16,"Collaboration with Brouwerij De Molen. An Imperial Stout with Ginja (portuguese sour cherry) and ""Ginjinha"", a portuguese traditional liqueur made of… Read More"
+404,20|02,/cervejaduquebrewpub,Cerveja Duque Brewpub,12.9% ABV,N/A IBU,(3.78),191 Ratings,Added 02/20/17,"Russian Imperial Stout bourbon barrel aged
+1st year anniversary Limited edition"
+405,Rebendita - MilkShake Passion IPA,/LETRABREWERY,LETRA brewery,6% ABV,14 IBU,(3.78),408 Ratings,Added 04/27/18,"Rebendita is a milkshake passion fruit IPA, with sweet notes of malt and lactose where lots of passion fruit from Madeira island were added. In dry hopping… Read More"
+406,KSI Strawberry Sour IPA,/LETRABREWERY,LETRA brewery,6.5% ABV,N/A IBU,(3.77),302 Ratings,Added 10/24/18,Uma receita que nem lembra a Gregos nem a Minhotos. Com aroma a morango e final cítrico característico dos lúpulos americanos. Uma cerveja ácida de corpo… Read More
+407,Passarola Double Oatmeal Stout (DOS) (2014-2016),/PassarolaBrewing,Passarola Brewing,8% ABV,50 IBU,(3.77),467 Ratings,Added 10/06/14,"From September 2014 to May 2015 brewed at Faustino Microcervejeira; From May 2015 onwards brewed at Post Scriptum Brewery. Starting in 2017, there are… Read More"
+408,Harvest & Friends 2017,/LETRABREWERY,LETRA brewery,10% ABV,N/A IBU,(3.77),330 Ratings,Added 10/23/17,"This beer was made in the same day of the harvest of our Cascade hops, from the crop that we have near our brewery in Vila Verde. On this day we host… Read More"
+409,Urraca Vendaval,/OitavaColina,Oitava Colina,6% ABV,56 IBU,(3.77),"5,794 Ratings",Added 01/30/15,"Cult IPA in Portugal, and at the same time the beer of the future in the soon-to-be-after-hazy era. Urraca is the Queen, the one you can trust, now and… Read More"
+410,Passarola Double Oatmeal Stout DOS (Café Da Guatemala) (2017),/PassarolaBrewing,Passarola Brewing,8% ABV,N/A IBU,(3.76),285 Ratings,Added 02/02/17,Our Double Oatmeal Stout with Huehuetenango organic coffee added.
+411,Imperial Stout Bourbon Barrel Aged,/PedroSousa,Post Scriptum Brewery,11.6% ABV,N/A IBU,(3.76),353 Ratings,Added 05/07/17,Bourbon barrel aged version.
+412,BAYLET 3.0,/LETRABREWERY,LETRA brewery,8.5% ABV,130 IBU,(3.75),158 Ratings,Added 05/02/16,"This Rye Imperial IPA was brewed in April 2016 and is the third batch of a collab between LETRA (PT) and Bayura (ES). With hops Summit, Wimea, Citra,… Read More"
+413,Solera Baby (2017),/Brewhands,BrewHands,5% ABV,N/A IBU,(3.75),161 Ratings,Added 03/11/18,Blend of Sour Ales fermented and matured in Alentejano wine casks for 12+ months.
+414,Finisterra Imperial Porter,/DoisCorvos,Dois Corvos,8.5% ABV,50 IBU,(3.75),"3,168 Ratings",Added 09/28/15,Finisterra is a name the ancient Romans used when referring to Portugal: the end of the known world. Roasted flavors dark enough to stain your clothes. Read More
+415,Portucale,/MeanSardineBrewery,Mean Sardine Brewery,11% ABV,N/A IBU,(3.75),281 Ratings,Added 12/11/17,Com Figo e Vinho do Porto
+416,Oak Series - Whiskey,/PedroSousa,Post Scriptum Brewery,10% ABV,N/A IBU,(3.75),358 Ratings,Added 04/27/16,
+417,Vila Iolanda,/OitavaColina,Oitava Colina,9% ABV,90 IBU,(3.75),"1,480 Ratings",Added 03/19/16,
+418,Bolo De Mel,/DoisCorvos,Dois Corvos,9.3% ABV,40 IBU,(3.74),373 Ratings,Added 03/30/18,"Bolo de Mel is a 9.3% Imperial Stout inspired in the traditional Madeira's dessert with the same name. To brew this bold beer, we used different kinds… Read More"
+419,Imperial Stout By Pedro Sousa,/PedroSousa,Post Scriptum Brewery,11.6% ABV,N/A IBU,(3.74),"1,717 Ratings",Added 07/26/15,
+420,Guanabana Manaña,/DoisCorvos,Dois Corvos,7.6% ABV,40 IBU,(3.74),820 Ratings,Added 04/04/17,"A fruit smoothie IPA with loads of guanabana, for a hoppy and juicy mañana."
+421,Horácio Muscateer (BA Moscatel),/DoisCorvos,Dois Corvos,9% ABV,20 IBU,(3.73),288 Ratings,Added 10/08/16,A Belgian Golden ale aged in Moscatel barrels from Horácio Simões.
+422,Passarola Chindogu IPA,/PassarolaBrewing,Passarola Brewing,6.5% ABV,80 IBU,(3.73),"1,040 Ratings",Added 05/05/16,"#1 It is fundamental to the spirit of Chindogu that inventions claiming Chindogu status must be, from a practical point of view, (almost) completely useless. Read More"
+423,LETRA On OAK - Port Barrel Aged Sour Ale,/LETRABREWERY,LETRA brewery,12% ABV,N/A IBU,(3.73),896 Ratings,Added 03/31/16,"Aged for one year in Quinta do Portal Port barrel where wort was let to ferment with the wild flora from the Port barrel, distinctive sour aroma and flavor… Read More"
+424,LETRA On OAK - Port Barrel Aged Dark Ale,/LETRABREWERY,LETRA brewery,10% ABV,20 IBU,(3.73),523 Ratings,Added 11/26/15,"This crafted Dark Ale was aged in Port casks for two years, resulting in a surprisingly unique beer. With a reddish hue, we can feel the Port and some… Read More"
+425,SeteAis,/sincervejaartesanal,MAG8 Craft Beer,6.3% ABV,48 IBU,(3.73),619 Ratings,Added 03/23/17,Hazy hoppy beer with Tropical fruit aromas and silky smooth mouthfeel.
+426,Café 1930,/OPO74,OPO 74 Brewing Co.,8% ABV,N/A IBU,(3.73),343 Ratings,Added 12/28/16,
+427,Oak Series - Moscatel,/PedroSousa,Post Scriptum Brewery,10% ABV,N/A IBU,(3.73),387 Ratings,Added 04/27/16,
+428,Plum Smuggler,/DoisCorvos,Dois Corvos,10.5% ABV,60 IBU,(3.72),820 Ratings,Added 01/24/17,"Plum Smuggler is a 10.5% Imperial Stout with smoked plums. While it is a powerful roasty stout, it also raises a new layer of complexity with the dried… Read More"
+429,Chihuahua,/DoisCorvos,Dois Corvos,9.5% ABV,34 IBU,(3.72),262 Ratings,Added 03/02/18,"Chihuahua is a 9.5% Imperial Stout, inspired by Mexican hot chocolate recipes. It was brewed with cocoa nibs and cinnamon along with Ancho, Guajillo,… Read More"
+430,IMP5RIO (Quinto Império) - Moscatel BA Imperial Saison,/LETRABREWERY,LETRA brewery,10% ABV,15 IBU,(3.72),"1,159 Ratings",Added 09/16/16,"A collaboration imperial saison with Dois Corvos, aged eight months in Moscatel barrels."
+431,Vila Berta,/OitavaColina,Oitava Colina,6.5% ABV,N/A IBU,(3.72),"1,243 Ratings",Added 12/14/17,Triple dry-hopped.
+432,Vasco,/ColossusCraftBrewery,Colossus Craft Brewery,9% ABV,61 IBU,(3.72),512 Ratings,Added 01/27/18,A Imperial Stout that tries to balance its influences with a drinkability that allows it to be appreciated for longer. With a beautiful head and smooth… Read More
+433,Periscope,/DoisCorvos,Dois Corvos,9% ABV,N/A IBU,(3.72),241 Ratings,Added 07/21/16,Baltic Porter aged in red wine barrels.
+434,Fuzeta,/DoisCorvos,Dois Corvos,9% ABV,80 IBU,(3.72),"1,517 Ratings",Added 01/08/16,"Fuzeta is named for the island in the Algarve, whose warm water activities makes the perfect pairing for this daring beer. Fuzeta has a big fruity and… Read More"
+435,India Pale Ale,/w/manush/96147,Manush,7.3% ABV,N/A IBU,(3.7),210 Ratings,Added 12/10/13,"Londres, Portugal, la costa entera de África pasando el Cabo de Buena Esperanza, Océano Índico, India. Después de un viaje demasiado largo y agitado por… Read More"
+436,2 Bondis APA,/Cerveza-Minga,Cerveza Minga,5.7% ABV,40 IBU,(3.68),159 Ratings,Added 07/18/18,
+437,IPA,/w/la-zorra/186088,La Zorra,6.8% ABV,45 IBU,(3.68),275 Ratings,Added 03/29/15,
+438,IPA,/CerveceraAntares,Cervecería Antares,6.6% ABV,58 IBU,(3.66),"1,108 Ratings",Added 12/26/10,
+439,Caravana,/CerveceraAntares,Cervecería Antares,4.2% ABV,30 IBU,(3.61),181 Ratings,Added 10/13/15,Cerveza de Estación
+440,Imperial Stout,/CerveceraAntares,Cervecería Antares,8.5% ABV,36 IBU,(3.6),"1,256 Ratings",Added 12/02/10,"Catalina la Grande amaba las emociones fuertes. Por eso, la Imperial Stout, negra y tostada, empapada de alcohol y pasas, amarga y ahumada, era su cerveza… Read More"
+441,Oatmeal Stout,/w/cerveceria-cape-horn/15855,Cervecería Cape Horn,4.8% ABV,N/A IBU,(3.6),280 Ratings,Added 07/19/14,
+442,Patagonia Foreign Stout,/w/berlina-patagonia-brewery/9155,Berlina Patagonia Brewery,6% ABV,38 IBU,(3.59),351 Ratings,Added 06/10/12,"Its name should be Patagonia Foreign Stout (not just Foreign Stout), which is the reason why there is another duplicate with just 25 ratings with the… Read More"
+443,Hop Shot IPA,/w/cerveceria-blest/4738,Cerveceria Blest,6.5% ABV,48 IBU,(3.59),172 Ratings,Added 05/29/16,Con lúpulos de la Patagonia Argentina
+444,Cream Stout,/CerveceraAntares,Cervecería Antares,7% ABV,35 IBU,(3.58),586 Ratings,Added 12/02/10,"It is a stout of Irish origin. In her flavors of chocolate and nuts in paladar are discovered, with a licoroso and placentero post-taste. He is very corpulenta,… Read More"
+445,Sudestada,/CerveceraAntares,Cervecería Antares,6.2% ABV,25 IBU,(3.58),181 Ratings,Added 05/23/15,
+446,Old Ale,/w/berlina-patagonia-brewery/9155,Berlina Patagonia Brewery,7.5% ABV,19 IBU,(3.58),191 Ratings,Added 05/16/14,Seasonal Beer.
+447,Beastie Ale,/w/otro-mundo-brewing-company-ccu-argentina/4608,Otro Mundo Brewing Company (CCU Argentina),8.5% ABV,N/A IBU,(3.57),150 Ratings,Added 10/20/17,
+448,Mumbai 1947 - India Pale Ale (IPA),/w/grunge-brewing-company/101887,Grunge Brewing Company,6% ABV,45 IBU,(3.56),158 Ratings,Added 03/05/15,
+449,Barleywine,/CerveceraAntares,Cervecería Antares,10% ABV,50 IBU,(3.56),"1,393 Ratings",Added 12/02/10,"Nuestra cerveza de mayor graduación alcohólica. Una hermandad de malta y licor, con rastros de nuez, caramelo y dulce de leche. Harley Wine, cuando la… Read More"
+450,Honey,/w/cerveceria-cape-horn/15855,Cervecería Cape Horn,7.2% ABV,N/A IBU,(3.55),171 Ratings,Added 03/14/14,
+451,Patagonia 24.7,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,4.5% ABV,36 IBU,(3.54),"2,043 Ratings",Added 11/23/16,"Una nueva variedad de Patagonia, creada en la cervecería de Circuito Chico, justamente, en el KM 24,7. De un color dorado ayudado por el sauco es, como… Read More"
+452,Scottish Red Ale,/w/siete-colores/70536,Siete Colores,5.5% ABV,18 IBU,(3.54),153 Ratings,Added 01/05/14,
+453,India Pale Ale,/w/otro-mundo-brewing-company-ccu-argentina/4608,Otro Mundo Brewing Company (CCU Argentina),6.3% ABV,50 IBU,(3.52),574 Ratings,Added 05/18/16,
+454,Colonia Suiza,/w/berlina-patagonia-brewery/9155,Berlina Patagonia Brewery,7% ABV,N/A IBU,(3.52),158 Ratings,Added 05/11/14,
+455,Beagle Negra Cream Stout,/w/fuegian-beverage-company-sa-cerveza-beagle/17806,Fuegian Beverage Company S.A. (Cerveza Beagle),6.2% ABV,N/A IBU,(3.52),545 Ratings,Added 05/16/13,
+456,Pale Ale,/w/cerveceria-cape-horn/15855,Cervecería Cape Horn,N/A ABV,N/A IBU,(3.51),406 Ratings,Added 10/26/11,
+457,Nina's Pumpkin Ale,/w/berlina-patagonia-brewery/9155,Berlina Patagonia Brewery,5% ABV,30 IBU,(3.5),220 Ratings,Added 08/17/14,
+458,Patagonia Octubrefest,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,5.1% ABV,20 IBU,(3.49),233 Ratings,Added 09/23/17,
+459,Salta Negra,/w/compania-industrial-cervecera-s-a-ccu-argentina/5419,Compañía Industrial Cervecera S.A (CCU Argentina),3.9% ABV,N/A IBU,(3.49),159 Ratings,Added 12/05/12,
+460,Wheat,/w/cerveceria-cape-horn/15855,Cervecería Cape Horn,4.08% ABV,N/A IBU,(3.49),181 Ratings,Added 06/29/13,"Original Recipe Wheat
+Cape Horn Patagonian Beer"
+461,Patagonia India Pale Ale,/w/berlina-patagonia-brewery/9155,Berlina Patagonia Brewery,5% ABV,56 IBU,(3.49),853 Ratings,Added 12/06/11,
+462,Me Echó La Burra Roja,/w/la-finca-buena-vista-brewery/78889,La Finca Buena Vista Brewery,8% ABV,N/A IBU,(3.49),199 Ratings,Added 08/29/13,
+463,Patagonia Golden Ale,/w/berlina-patagonia-brewery/9155,Berlina Patagonia Brewery,4.5% ABV,23 IBU,(3.48),359 Ratings,Added 11/07/13,Con Nobreza y Espiritu
+464,Patagonia Weisse,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,4.2% ABV,N/A IBU,(3.47),"7,735 Ratings",Added 11/08/11,"Los encantos de las Witbier's o Weisse bier son fáciles de entender. La cerveza es atractiva, dorada pálida opalescente, cubierta de una blanca y cremosa… Read More"
+465,Pilsen,/w/cerveceria-cape-horn/15855,Cervecería Cape Horn,5% ABV,N/A IBU,(3.47),279 Ratings,Added 09/18/12,
+466,Imperial IPA,/w/compania-industrial-cervecera-s-a-ccu-argentina/5419,Compañía Industrial Cervecera S.A (CCU Argentina),6% ABV,42 IBU,(3.46),336 Ratings,Added 10/15/17,
+467,Oktoberfest,/w/penon-del-aguila/162911,Peñón del Águila,4.8% ABV,18 IBU,(3.46),174 Ratings,Added 10/15/14,
+468,Gaelic Pale Ale,/w/gambrinus-brewers/59768,Gambrinus Brewers,5% ABV,45 IBU,(3.46),247 Ratings,Added 03/31/13,
+469,Stout,/w/buller-brewing-company/4741,Buller Brewing Company,5.8% ABV,N/A IBU,(3.45),620 Ratings,Added 01/05/12,Stout
+470,Oktoberfest,/w/buller-brewing-company/4741,Buller Brewing Company,5.5% ABV,N/A IBU,(3.45),284 Ratings,Added 01/05/12,Oktoberfest brew
+471,Golden Ale,/w/buller-brewing-company/4741,Buller Brewing Company,5% ABV,20 IBU,(3.44),191 Ratings,Added 04/04/17,
+472,Playa Grande,/CerveceraAntares,Cervecería Antares,5% ABV,15 IBU,(3.44),355 Ratings,Added 11/16/13,
+473,India Pale Ale,/w/buller-brewing-company/4741,Buller Brewing Company,6% ABV,45 IBU,(3.44),939 Ratings,Added 12/26/10,
+474,Beagle Roja Red Ale,/w/fuegian-beverage-company-sa-cerveza-beagle/17806,Fuegian Beverage Company S.A. (Cerveza Beagle),6.1% ABV,N/A IBU,(3.43),821 Ratings,Added 06/13/12,"Clear amber color, small white head. Caramelly, some harsh grainyness in the nose. Medium-bodied. Front is fruity caramel, then some malty and a bit harsh… Read More"
+475,Imperial Scotch Ale,/w/compania-industrial-cervecera-s-a-ccu-argentina/5419,Compañía Industrial Cervecera S.A (CCU Argentina),6.5% ABV,N/A IBU,(3.43),273 Ratings,Added 08/21/12,
+476,Andes Origen Rubia,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,5.1% ABV,16 IBU,(3.42),174 Ratings,Added 07/21/18,
+477,Patagonia Amber Lager,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,4.7% ABV,N/A IBU,(3.41),"11,923 Ratings",Added 05/28/11,
+478,Me Echó La Burra Rubia,/w/la-finca-buena-vista-brewery/78889,La Finca Buena Vista Brewery,8% ABV,N/A IBU,(3.41),185 Ratings,Added 08/31/13,
+479,Quilmes Red Lager,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,4.7% ABV,N/A IBU,(3.4),164 Ratings,Added 10/27/11,
+480,Honey Beer,/CerveceraAntares,Cervecería Antares,7.5% ABV,N/A IBU,(3.39),986 Ratings,Added 12/02/10,
+481,Strong Red Ale,/w/otro-mundo-brewing-company-ccu-argentina/4608,Otro Mundo Brewing Company (CCU Argentina),7.5% ABV,N/A IBU,(3.39),"1,158 Ratings",Added 12/26/10,"Using the highest quality ingredients, our brewmaster took full advantage from the experience of generations to produce this beer robustly full of flavors… Read More"
+482,Patagonia Küné,/w/cerveceria-y-malteria-quilmes/5415,Cervecería y Maltería Quilmes,5% ABV,20 IBU,(3.39),"2,404 Ratings",Added 09/06/15,"""Patagonia Pale Ale"""
+483,Scotch,/CerveceraAntares,Cervecería Antares,6% ABV,18 IBU,(3.39),"1,345 Ratings",Added 12/02/10,
+484,Amber Ale,/w/buller-brewing-company/4741,Buller Brewing Company,5.5% ABV,25 IBU,(3.38),376 Ratings,Added 10/11/15,
+485,Super A,/BrasserieAuvalBrewingco,Brasserie Auval Brewing,8% ABV,N/A IBU,(4.34),"1,660 Ratings",Added 12/24/15,
+486,Péché Mortel Bourbon,/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.5% ABV,N/A IBU,(4.3),"4,301 Ratings",Added 11/30/11,Bourbon barrel-aged
+487,Nordet IPA,/BrasserieAuvalBrewingco,Brasserie Auval Brewing,6% ABV,N/A IBU,(4.29),"1,701 Ratings",Added 07/19/16,"Bière qui varie au gré des houblons disponibles. Elle est toujours voilée, juteuse et bien houblonnée / Beer recipe varies with hop availability. Always… Read More"
+488,Motley Cru (2017),/BellwoodsBrewery,Bellwoods Brewery,6.3% ABV,N/A IBU,(4.29),"1,306 Ratings",Added 06/10/17,"Motley Cru is our anniversary release, with the only requirement being that the final beer must incorporate a blend of various barrels. This year's edition… Read More"
+489,Porter Baltique Édition Spéciale 2015 (Bourbon & Brandy),/lestroismousquetaires,LTM - Les Trois Mousquetaires,10.5% ABV,30 IBU,(4.28),"2,200 Ratings",Added 11/02/15,"Élevée 6 mois en fûts fe bourbon & brandy De 12 à 25 Ans d'âge.
+Aged 6 months in bourbon and brandy barrels of 12 to 25 years of age."
+490,Porter Baltique Édition Spéciale 2014 (Bourbon & Brandy),/lestroismousquetaires,LTM - Les Trois Mousquetaires,10.5% ABV,27 IBU,(4.26),"1,215 Ratings",Added 10/04/14,Porter Baltique oak aged in 12 to 25 years old Brandy and Bourbon barrels.
+491,IPA du Nord-Est,/LesBrasseursduNord,Boréale,6% ABV,75 IBU,(4.23),"5,878 Ratings",Added 12/24/16,"Sortie d'abord sous le programme ÉPISODE, et ensuite rendue disponible de manière régulière dans la Série Artisan de Boréale."
+492,Raspberry Jelly King,/BellwoodsBrewery,Bellwoods Brewery,5.6% ABV,N/A IBU,(4.21),920 Ratings,Added 06/09/18,"He is a ruler, an overlord, a top dog, a crowned head. In the richly varied domain of prokaryotic microorganisms, Jelly King reigns supreme. Rather than… Read More"
+493,Péché Mortel Édition Spéciale (2016),/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.5% ABV,76 IBU,(4.19),"1,715 Ratings",Added 01/27/16,We do like to try new varieties of coffee in Péché Mortel. Each year a variety with the help of our friends at Café St-Henri. The new variety gives a… Read More
+494,IPA Du Nord-Est (Galaxy),/LesBrasseursduNord,Boréale,6% ABV,75 IBU,(4.19),"1,078 Ratings",Added 03/09/18,Version Galaxy
+495,Arcane 17 IPA,/BrasserieAuvalBrewingco,Brasserie Auval Brewing,5.2% ABV,60 IBU,(4.18),"1,605 Ratings",Added 08/17/15,"Parce qu’on aime le houblon! Mélange de levures et beaucoup de houblons(citra, simcoe, amarillo) Because we love hops! House yeast blend and a lot of… Read More"
+496,Colour & Shape,/SuperfluxBeerCompany,Superflux Beer Company,6.8% ABV,N/A IBU,(4.18),"1,947 Ratings",Added 11/29/16,"India Pale Ale. Soft, tropical, herbaceous."
+497,Collective Project: IPA No. 5,/CollectiveArts,Collective Arts Brewing,8.2% ABV,N/A IBU,(4.17),"6,809 Ratings",Added 01/17/18,"The 5th in our IPA Series. New England Double Dry Hopped Double IPA. Brewed with massive amounts of Simcoe and Citra hops, this IPA comes in at 8.2% ABV. Read More"
+498,Tangerine Milkshark,/BellwoodsBrewery,Bellwoods Brewery,7% ABV,N/A IBU,(4.16),537 Ratings,Added 07/28/18,"Milkshake beers are a strange but delicious phenomenon brewed with lactose sugar and apple pectin. They're hazy, slightly sweet, and hoppy, with a velvety… Read More"
+499,Porter Baltique Édition Spéciale 2013 (Bourbon & Brandy),/lestroismousquetaires,LTM - Les Trois Mousquetaires,10.5% ABV,27 IBU,(4.16),491 Ratings,Added 09/22/13,"Un assemblage de fûts de bourbon et de fûts de brandy. Bien qu'elle se rapproche plus de la version 2010 que de la 2011, l'élevage dans deux types de… Read More"
+500,Guava Mango Passionfruit Jelly King,/BellwoodsBrewery,Bellwoods Brewery,5.6% ABV,N/A IBU,(4.16),"1,525 Ratings",Added 03/04/18,"He is a ruler, an overlord, a top dog, a crowned head. In the richly varied domain of prokaryotic microorganisms, Jelly King reigns supreme. Rather than… Read More"
+501,HYPA #5,/BrasserieduBasCanada,Brasserie du Bas-Canada,6.5% ABV,N/A IBU,(4.15),"1,032 Ratings",Added 06/04/18,Cette version de HYPA fait briller les houblons américains Mosaic et Simcoe ainsi que le malt anglais Golden Promise.
+502,Péché Mortel (Barriques De Cognac Et Brandy),/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.5% ABV,N/A IBU,(4.15),401 Ratings,Added 03/31/16,"For this special double barrel release, part was aged in Cognac casks for nine months and part was aged in Brandy barrels for 12 months. Then they were… Read More"
+503,Double Descente,/LesBrasseursduNord,Boréale,8% ABV,100 IBU,(4.15),"2,703 Ratings",Added 11/28/17,
+504,Nectarous,/FourWindsBrewing,Four Winds Brewing,5.5% ABV,6 IBU,(4.15),"5,897 Ratings",Added 01/29/14,"In pursuit of sour, complex acidity balanced by tropical fruit esters, gives way to a clean, tart finish. Winner: Beer of the Year - Canadian Brewing… Read More"
+505,Pink Guava Jelly King,/BellwoodsBrewery,Bellwoods Brewery,5.6% ABV,10 IBU,(4.15),"2,094 Ratings",Added 09/08/17,"This limited edition version of Jelly King includes a large dose of guava puree, blended on top of a mixed fermentation sour ale with a hefty dry hop.… Read More"
+506,Porter Baltique Édition Spéciale 2017 (Bourbon & Brandy),/lestroismousquetaires,LTM - Les Trois Mousquetaires,10.5% ABV,27 IBU,(4.15),"1,212 Ratings",Added 11/01/17,Édition Spéciale 2017 (fût de bourbon & brandy de plus de 12 ans d'âge)
+507,Sartori Harvest IPA,/DriftwoodBrewery,Driftwood Brewery,7% ABV,N/A IBU,(4.15),"2,325 Ratings",Added 11/06/10,"This wet-hopped IPA can only be brewed once a year when, in the midst of the hop harvest, fresh Centennial hops are spirited from Sartori Cedar Ranch… Read More"
+508,Cafe Del Bastardo,/nickelbrook,Nickel Brook Brewing Co.,12% ABV,70 IBU,(4.14),"2,761 Ratings",Added 12/19/15,Bourbon barrel aged imperial stout on coffee beans.
+509,Déjeuner Impérial,/lestroismousquetaires,LTM - Les Trois Mousquetaires,11.5% ABV,50 IBU,(4.14),384 Ratings,Added 10/08/16,"2018 : aged 9 month in 12 years bourbon barrels with maple staves, maple syrup and cold brew coffee. 2016 Aged 3 months in a 14-years bourbon barrel with… Read More"
+510,Péché Mortel,/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.5% ABV,76 IBU,(4.14),"50,178 Ratings",Added 12/31/10,"Péché Mortel (French for ""Mortal Sin"") is an intensely black and dense beer with very pronounced roasted flavours. Coffee is infused during the brewing… Read More"
+511,Vexillum,/FourWindsBrewing,Four Winds Brewing,9% ABV,100 IBU,(4.13),"1,578 Ratings",Added 02/15/15,"Vexillum, an ancient imperial Roman symbol for strength and nobility. This insistently hoppy OPS reveals notes of grapefruit and melon while finishing… Read More"
+512,Neuvain (2016),/MicrobrasseriePitCaribou,Microbrasserie Pit Caribou,4.5% ABV,N/A IBU,(4.13),616 Ratings,Added 03/31/17,"Assemblage de bière de blé vieilli 7 mois en barrique de Whiskey, de bière sûre vieilli 10 mois en barrique de pinot noir avec houblons suranné et d’une… Read More"
+513,Life Sentence IIIPA (2015),/greatlakesbreweryca,Great Lakes Brewery,10% ABV,100 IBU,(4.13),935 Ratings,Added 12/17/15,A collaboration beer between Great Lakes Brewery + Amsterdam Brewery - 2015 edition. This beer was brewed in collaboration with Amsterdam at Great Lakes… Read More
+514,HYPA #2,/BrasserieduBasCanada,Brasserie du Bas-Canada,6.5% ABV,N/A IBU,(4.13),"1,188 Ratings",Added 02/10/18,"Cette version de HYPA fait briller les houblons américains Citra, Amarillo et Mosaic."
+515,Néron,/BrasserieduBasCanada,Brasserie du Bas-Canada,8% ABV,N/A IBU,(4.13),449 Ratings,Added 10/02/18,"Double IPA aux houblons Galaxy, Citra & Amarillo."
+516,Saison Espinay,/BrasserieAuvalBrewingco,Brasserie Auval Brewing,6.5% ABV,30 IBU,(4.12),"1,923 Ratings",Added 08/17/15,Saison nouveau monde/interprétation libre. Bière fermentée en cuve d’inox et affinée en fût de chêne. Stainless steel fermented ale refined in oak barrels Read More
+517,Pablo Esco Gnar,/SuperfluxBeerCompany,Superflux Beer Company,6.5% ABV,N/A IBU,(4.12),567 Ratings,Added 02/27/18,India Pale Ale. Collaboration with Boombox.
+518,Motley Cru: Black Raspberry (2018),/BellwoodsBrewery,Bellwoods Brewery,6.2% ABV,N/A IBU,(4.12),679 Ratings,Added 06/09/18,"Motley Cru is our anniversary barrel blend, released (fashionably late) each year to commemorate another lap around the sun. It represents a lot of planning,… Read More"
+519,Double Los Tabarnacos - Mangue,/BrasserieduBasCanada,Brasserie du Bas-Canada,8% ABV,N/A IBU,(4.12),471 Ratings,Added 11/12/18,"La version double de notre Milkshake IPA avec lactose, mangue et noix de coco grillée. Vous aurez compris : deux fois plus de houblon, deux fois plus… Read More"
+520,Needless Luxury TIPA,/DominionCityBrewingCo,Dominion City Brewing Co.,10% ABV,N/A IBU,(4.12),620 Ratings,Added 02/25/18,"Brewed in collaboration with our friends at Bar Lupulus, this beer was showered with the most opulent hop varieties we could source in a bid to lavish… Read More"
+521,The Chocolate Manifesto - Triple Chocolate Milk Stout,/FlyingMonkeysCraftBrewery,Flying Monkeys Craft Brewery,10% ABV,60 IBU,(4.12),"27,077 Ratings",Added 10/31/13,Are three kinds of chocolate overkill in this sweet stout? Heck no. Not with 10% abv cupping all that rich cacao in it’s beautiful warmth. The magic number… Read More
+522,Los Tabarnacos - Mangue,/BrasserieduBasCanada,Brasserie du Bas-Canada,6.5% ABV,N/A IBU,(4.11),"1,789 Ratings",Added 01/14/18,"Cette IPA aux houblons Citra et Mosaic a également été agrémentée d’une quantité appréciable de mangues et de noix de coco grillées, lui conférant un… Read More"
+523,Péché Latté,/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.5% ABV,N/A IBU,(4.11),"1,332 Ratings",Added 03/12/17,"La Péché Latté est un stout imperial brassé avec du café et du lactose. Plus ronde que notre version classique, son puissant goût de café est complété… Read More"
+524,HYPA #4,/BrasserieduBasCanada,Brasserie du Bas-Canada,6.5% ABV,N/A IBU,(4.11),736 Ratings,Added 05/07/18,Cette version de HYPA fait briller les houblons américains Citra et Mosaic ainsi que le malt anglais Golden Promise.
+525,Raspberry Peach Jelly King,/BellwoodsBrewery,Bellwoods Brewery,5.6% ABV,N/A IBU,(4.11),"1,523 Ratings",Added 04/22/18,"He is a ruler, an overlord, a top dog, a crowned head. In the richly varied domain of prokaryotic microorganisms, Jelly King reigns supreme. Rather than… Read More"
+526,Pomona,/FourWindsBrewing,Four Winds Brewing,5.5% ABV,8 IBU,(4.11),997 Ratings,Added 10/07/16,Wheat Ale aged on nectarines in red wine barrels for 12 months then blended with witbier and aged on apricots in an oak foudre for 3 months.
+527,Assemblage Numéro 6,/BrasserieDunham,Brasserie Dunham,5.5% ABV,10 IBU,(4.11),"1,482 Ratings",Added 04/21/16,"Une nouveauté fort fruitée! Cet assemblage numéro 6 se veut une ode aux fruits rouges, et à ce qu’ils peuvent donner lorsque les levures sauvages se mettent… Read More"
+528,Ceci N'est Pas Une Gueuze,/lestroismousquetaires,LTM - Les Trois Mousquetaires,5.5% ABV,8 IBU,(4.1),"2,035 Ratings",Added 08/05/15,"Fermentée et élevée en fûts de chêne avec une flore de bactéries acidifiantes et de levures brettanomyces. Assemblage de 1, 2 et 3 ans."
+529,Immoralité,/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.2% ABV,80 IBU,(4.1),"4,403 Ratings",Added 09/14/14,
+530,Strawberry Rhubarb Jelly King,/BellwoodsBrewery,Bellwoods Brewery,5.6% ABV,N/A IBU,(4.1),"1,051 Ratings",Added 07/26/17,"This limited edition version of Jelly King includes a large dose of strawberry and rhubarb purees, blended on top of a mixed fermentation sour ale. In… Read More"
+531,Péché Mortel Édition Speciale (2017),/BrasserieDieuduCiel,Brasserie Dieu du Ciel!,9.5% ABV,N/A IBU,(4.1),999 Ratings,Added 03/11/17,
+532,Passionfruit Milkshark,/BellwoodsBrewery,Bellwoods Brewery,7% ABV,N/A IBU,(4.09),684 Ratings,Added 09/22/17,"This heavily dry-hopped Milkshake-style IPA was brewed with lactose sugar and apple pectin, and was conditioned on vanilla and a huge amount of passionfruit… Read More"
+533,Witchshark,/BellwoodsBrewery,Bellwoods Brewery,9% ABV,85 IBU,(4.09),"6,221 Ratings",Added 04/01/12,"Named after the elusive creature with the head of a shark and the body of a boy that first swooped in on a broom during construction of the brew pub,… Read More"
+534,HYPA #7,/BrasserieduBasCanada,Brasserie du Bas-Canada,6.5% ABV,N/A IBU,(4.09),879 Ratings,Added 09/06/18,"Cette version de HYPA fait briller les houblons australiens Galaxy, Vic Secret et Enigma."
+535,Brewlander Love (Wild IPA),/Brewlander_Beers,Brewlander & Co. (Singapore),6.5% ABV,65 IBU,(3.75),"1,054 Ratings",Added 02/08/17,Brewlander's Love is brewed with bucket loads of New World hops and fermented with a wild .... . We went for a simple malt bill instead of the crystal… Read More
+536,Courage,/Brewlander_Beers,Brewlander & Co. (Singapore),8.2% ABV,115 IBU,(3.74),458 Ratings,Added 02/08/17,"Courage, the strongest of our IPA, is not for the faint hearted. This double IPA features Columbus,Simcoe, Waimea, and a touch of Citra and Centennial… Read More"
+537,XIPA (2003 - 2018),/Brewerkz,Brewerkz,7.5% ABV,60 IBU,(3.68),"1,329 Ratings",Added 01/05/11,"WINNER OF BEST BEER IN SINGAPORE 2015 BY RATEBEER.COM! World Beer Cup Gold Medal Winner for English IPA. This bigger, brawnier version of our IPA has… Read More"
+538,Single Hop Series: Galaxy,/Brewerkz,Brewerkz,5% ABV,40 IBU,(3.66),171 Ratings,Added 10/08/15,"Tasty exploration into hop education. This Australian hop has gentle notes of citrus, peach, and passionfruit. However, the later the addition, the more… Read More"
+539,Brewlander Peace (N.E.W. Ale),/Brewlander_Beers,Brewlander & Co. (Singapore),5.1% ABV,28 IBU,(3.64),258 Ratings,Added 05/20/17,"We decided to fused an American wheat ale with a New Yeast touch on it, to create a creamy yet juiced up hoppy New England Wheat ale. We use Hallertau… Read More"
+540,Single Hop Series: Mandarina Bavaria,/Brewerkz,Brewerkz,5% ABV,40 IBU,(3.63),183 Ratings,Added 02/05/15,"Tasty exploration into hop education. Originating from Germany, Mandarina Bavaria leaves you with an aroma reminiscent of mandarin orange and grapefruit.… Read More"
+541,Single Hop Series: Centennial,/Brewerkz,Brewerkz,5% ABV,40 IBU,(3.63),271 Ratings,Added 03/25/15,"Tasty exploration into hop education. 1 of the famous Three C’s. Centennial hails from the craft beer capitol of Washington, USA. It is mostly recognizable… Read More"
+542,Blonde Hoppy Monk,/Brewerkz,Brewerkz,6.5% ABV,65 IBU,(3.63),170 Ratings,Added 01/30/16,A blonde version of the original Hoppy Monk. A collaboration ale with BIIR based in Barcelona. Slightly sweet with traces of that traditional Belgian… Read More
+543,Stars & Bars,/LittleIslandBrewingCompany,Little Island Brewing Company,6.8% ABV,50 IBU,(3.62),246 Ratings,Added 06/23/17,Full of fruity flavour up front with sweeter caramel malth that balances the aggressive hop flavours of stonefruit plums and mixed berries
+544,Brewlander Respect (Porter),/Brewlander_Beers,Brewlander & Co. (Singapore),5.8% ABV,33 IBU,(3.62),333 Ratings,Added 05/20/17,"The combination of Maris Otter, and a special selection of the very best specialty malts results in creating a lush full-bodied Porter, showcasing rich… Read More"
+545,Singapore Pale Ale,/LittleIslandBrewingCompany,Little Island Brewing Company,5.7% ABV,N/A IBU,(3.62),205 Ratings,Added 12/18/15,
+546,Brewlander Hope,/Brewlander_Beers,Brewlander & Co. (Singapore),4.5% ABV,28 IBU,(3.59),432 Ratings,Added 01/25/17,"Hope is a beautiful Summer Ale with a smooth malt presence, where aromatic southern hemisphere hops are added in good measure. The crisp dry lager-like… Read More"
+547,Brewlander Joy (Session IPA),/Brewlander_Beers,Brewlander & Co. (Singapore),4.5% ABV,46 IBU,(3.58),448 Ratings,Added 05/20/17,"Brewlander Joy is a session strength beer that does not compromise on the flavour, aroma and body of an IPA. Using Amarillo, Ahtanum and Moutere hops,… Read More"
+548,Brewlander Pride,/Brewlander_Beers,Brewlander & Co. (Singapore),5.5% ABV,22 IBU,(3.58),371 Ratings,Added 01/25/17,"At Brewlander, we have pride in the modern interpretation of Saison, traditionally brewed in Belgian farmhouses during the Pre-20th century. By using… Read More"
+549,Oktoberfest,/Brewerkz,Brewerkz,6% ABV,20 IBU,(3.56),305 Ratings,Added 09/15/11,A light amber colored beer with a strong nutty malt character. Gives homage to the famous Bavarian festival.
+550,Black Pig,/Brewerkz,Brewerkz,8% ABV,60 IBU,(3.56),359 Ratings,Added 05/30/12,Dark and malty with bold American hops and flavor.
+551,IPA,/Brewerkz,Brewerkz,5.6% ABV,45 IBU,(3.55),310 Ratings,Added 03/29/18,"This amber coloured beer presents a fruity, floral aroma, and a clean and balanced malt profile with a rounded bitterness across the palate."
+552,Punchin' Rye,/Rye-pint,Rye & Pint,5% ABV,25 IBU,(3.55),319 Ratings,Added 03/03/17,"Passionfruit aroma and a light touch of rye.
+Sessionable and moderately hoppy. A pale ale that delivers a smooth finish"
+553,A Whiter Shade of Pale,/LittleIslandBrewingCompany,Little Island Brewing Company,4.6% ABV,N/A IBU,(3.55),309 Ratings,Added 11/21/15,"Golden color, light on hops, finishes dry, medium-body"
+554,American Pale Ale,/Brewerkz,Brewerkz,5% ABV,40 IBU,(3.55),188 Ratings,Added 07/23/11,Known for its strong citrus and pine hops.
+555,That Black Old Magic,/LittleIslandBrewingCompany,Little Island Brewing Company,5.2% ABV,N/A IBU,(3.55),257 Ratings,Added 11/21/15,
+556,Oatmeal Stout (1997 - 2018),/Brewerkz,Brewerkz,6.2% ABV,40 IBU,(3.54),"1,091 Ratings",Added 01/05/11,WINNER OF BEST BEER IN SINGAPORE 2016 BY RATEBEER.COM! Oats give this rich and very dark beer a silky mouth-feel with rich notes of chocolate and coffee. Read More
+557,Cask IPA,/Brewerkz,Brewerkz,5.6% ABV,50 IBU,(3.54),165 Ratings,Added 04/13/18,"Fermented with British Ale yeast, this one got a big dose of late kettle hops, but no dry hopping after. Classic, full-bodied, and bold. Nothing better… Read More"
+558,India Pale Ale,/w/pump-room-microbrewery/8593,Pump Room Microbrewery,6.2% ABV,N/A IBU,(3.54),375 Ratings,Added 07/28/11,"Copper coloured, strong hop aroma, big malt flavor."
+559,Kwirk Wit / Blanche,/w/dester-craft-brew/290646,Dester Craft Brew,4.9% ABV,N/A IBU,(3.53),187 Ratings,Added 08/15/16,
+560,Wheat Beer (1997 - 2018),/Brewerkz,Brewerkz,5% ABV,15 IBU,(3.53),544 Ratings,Added 01/30/11,"Notes of wheat, fruit, spice and very lightly hopped."
+561,Hoppy Monk,/Brewerkz,Brewerkz,6.8% ABV,64 IBU,(3.53),858 Ratings,Added 06/11/14,Hoppy Monk is a collaboration project with our friends at BIIR from Barcelona. It starts off with a malty aroma with roasted notes and tropical fruit.… Read More
+562,Sunday's Brew,/Rye-pint,Rye & Pint,5% ABV,N/A IBU,(3.53),177 Ratings,Added 03/03/17,"Refreshing and tasy Pilsner with citrus and floras notes.
+Rounding off with a malty finish."
+563,BLK6.22,/The1925,The 1925 Microbrewery & Restaurant,6.2% ABV,N/A IBU,(3.53),217 Ratings,Added 09/08/14,The BLK6.22 Dark Ale (6.2% ABV) is a jet black dark ale with a smooth creamy head that floats at the top of our gold rimmed glass. The taste? Bold flavours… Read More
+564,Tropical Pale Ale,/ArchipelagoBrewery,Archipelago Brewery (Singapore),4.3% ABV,25 IBU,(3.52),232 Ratings,Added 07/08/17,A Pale Ale with moderate malty flavour and sweetness. Four different hop varieties are used to create a distinct tropical and citrus aroma. Generous quantities… Read More
+565,Farmhouse Ale,/Brewerkz,Brewerkz,6% ABV,35 IBU,(3.52),168 Ratings,Added 11/11/13,"A refreshing, complex, light colored beer that is perfect for any hot day."
+566,Cascade IPA,/CrossroadsBeer,Crossroads Brewing Co.,4.7% ABV,N/A IBU,(3.52),220 Ratings,Added 06/28/17,"We dial back the bitterness in our full-flavored session IPA, which is generously spiked with fresh Cascade hops that impart fragrant citrus aromas and… Read More"
+567,Endless Summer Ale,/CrossroadsBeer,Crossroads Brewing Co.,4.7% ABV,28 IBU,(3.51),270 Ratings,Added 05/26/16,"A mildly hopped, easy-drinking ale with hints of tropical fruit flavor and a crisp finish. Silver Medal at Asia Beer Awards 2017."
+568,The Yellow Van,/The1925,The 1925 Microbrewery & Restaurant,4.8% ABV,N/A IBU,(3.51),185 Ratings,Added 09/09/14,"YELLOW VAN (4.82% ABV) is brewed in house by The 1925 Brewing Co. with primarily the hop, Citra. A great session beer, the pale ale maintains a great… Read More"
+569,Irish Red Ale,/Brewerkz,Brewerkz,5.5% ABV,15 IBU,(3.51),264 Ratings,Added 03/14/11,"This caramel colored beer
+features a low hop bitterness with a smooth, malty flavor."
+570,Summer IPA,/ArchipelagoBrewery,Archipelago Brewery (Singapore),5.5% ABV,40 IBU,(3.5),"1,429 Ratings",Added 10/16/10,Maris otter ale malt provides a distinct malt flavour and mouth feel for this medium bodied IPA. New world hops are added at four different stages of… Read More
+571,India Pale Ale (1997 - 2018),/Brewerkz,Brewerkz,6% ABV,40 IBU,(3.5),"1,528 Ratings",Added 01/05/11,One of our most popular beers and features a strong malt and hop character.
+572,Sister Golden Ale,/LittleIslandBrewingCompany,Little Island Brewing Company,5% ABV,N/A IBU,(3.5),258 Ratings,Added 11/21/15,A golden beer with a European character. Big malt and fruit in the mouth with a distinctive hoppy nose. A lovely round finish.
+573,Apricot Ale,/Brewerkz,Brewerkz,6% ABV,7 IBU,(3.5),216 Ratings,Added 03/29/18,Soft aromas of apricots will become apparent before the mildly tart character of the fruit’s acidity crosses your pallet for a crisp and refreshing balance. Read More
+574,Tok Gong IPA,/ArchipelagoBrewery,Archipelago Brewery (Singapore),5.5% ABV,40 IBU,(3.5),454 Ratings,Added 08/01/17,"An IPA that knows no bounds. When Nugget, Cascade, Chinook, Pacifica and Centennial hops smash Maris Otter ale malt, you’ll get a citrus aroma slap in… Read More"
+575,Indian Pale Ale,/RedDotBrewhouse,RedDot Brewhouse,5.96% ABV,N/A IBU,(3.49),396 Ratings,Added 06/29/13,
+576,Ki Siao brown ale,/ArchipelagoBrewery,Archipelago Brewery (Singapore),5% ABV,22 IBU,(3.49),218 Ratings,Added 07/30/17,"Six malts did a bender with English ale yeast to create a nutty array of delicious brown flavours including chocolate, caramel and coffee. The malty sweetness… Read More"
+577,Mad Bee Honey Ale,/Brewerkz,Brewerkz,6% ABV,5 IBU,(3.47),238 Ratings,Added 12/22/10,"Amber in color, deliciously off-dry with strong notes of honey and a dash of hoppiness."
+578,Sauvignon Ale,/RedDotBrewhouse,RedDot Brewhouse,4.5% ABV,N/A IBU,(3.47),360 Ratings,Added 02/12/12,
+579,Steam Beer,/Brewerkz,Brewerkz,5% ABV,35 IBU,(3.47),312 Ratings,Added 02/06/11,"This refreshing, medium
+bodied brew is a perfect drink for a hot summer afternoon."
+580,Golden Ale,/Brewerkz,Brewerkz,4.5% ABV,20 IBU,(3.45),192 Ratings,Added 03/29/18,"Compared to its predecessor, this beer features stronger biscuity aromas, a lighter body, and mild hop bitterness in the finish."
+581,Craft Lager,/CrossroadsBeer,Crossroads Brewing Co.,5% ABV,18 IBU,(3.45),171 Ratings,Added 01/19/17,"Our flagship lager has a subtle, smooth malty backbone balanced by premium European hops."
+582,Kölsch,/Brewerkz,Brewerkz,5% ABV,25 IBU,(3.45),200 Ratings,Added 02/08/12,The straw-colored beer is dry and light-bodied with medium bitterness.
+583,Kölsch,/RedDotBrewhouse,RedDot Brewhouse,5.5% ABV,N/A IBU,(3.45),239 Ratings,Added 03/03/11,
+584,Sibeh Ho witbier,/ArchipelagoBrewery,Archipelago Brewery (Singapore),4.2% ABV,12 IBU,(3.45),200 Ratings,Added 08/04/17,"This superb witbier is full of unfiltered goodness. Traditional Belgian yeast, Curacao orange peel and coriander gives it a punch of fresh, exhilarating… Read More"
+585,Abbaye de Saint Bon-Chien,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(4.18),"24,511 Ratings",Added 10/07/12,"L’Abbaye de Saint Bon-Chien is an antique beer, a strong sour ale with 11% abv aged in old wine oak barrels during one year. After the aging period, the… Read More"
+586,"Abbaye de Saint Bon-Chien Grand Cru (2015, Vin Jaune)",/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(4.11),402 Ratings,Added 12/26/15,
+587,Abbaye de Saint Bon-Chien (Champagne),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(4.08),420 Ratings,Added 03/17/14,Aged in single barrel champagne
+588,Abbaye De Saint Bon-Chien Grand Cru 2017,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(4.08),353 Ratings,Added 04/01/17,Best of Pinot Noir and another barrel. 698 bottles produced. Brewed in 2015 bottled in 2017.
+589,Abbaye De Saint Bon Chien Grand Cru - Lasciatemi Chiantare,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(4.06),323 Ratings,Added 06/04/16,
+590,Abbaye De Saint Bon-Chien Special 20th Anniversary Edition Aged In Bordeaux Grand Cru Oak Barrels,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(4.05),465 Ratings,Added 09/27/17,
+591,√400 Saison 20th Anniversary Special Edition I - Ale Brewed With Grapes,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),6% ABV,N/A IBU,(4.02),606 Ratings,Added 10/30/17,"Special Edition I
+20th Anniversary.
+18th Century Historical Ale.
+Matured in Saint Bon-Chien Oak Barrels."
+592,Brut des Franches,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),8% ABV,N/A IBU,(3.97),344 Ratings,Added 11/03/17,
+593,Abbaye De Saint Bon-Chien (2014 Blend 4),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,40 IBU,(3.97),263 Ratings,Added 01/28/17,Swiss Ale de Garde - Limited Edition
+594,Abbaye De Saint Bon-Chien Grand Cru MEGAMIX (vol.2),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(3.96),288 Ratings,Added 03/14/15,
+595,Abbaye De Saint Bon-Chien 2011 (Blend 2),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(3.96),215 Ratings,Added 12/05/14,
+596,Procrastinator 2,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),8.99% ABV,N/A IBU,(3.96),"1,168 Ratings",Added 03/21/14,"Eisbock unfrozen accidentally forgotten in a tank outside the Brewery during several months breathing fresh air of the Swiss Mountains, aged in a Rum… Read More"
+597,Jeandy Paplus 10th Anniversary Moeder Lambic Original,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),7.27% ABV,N/A IBU,(3.96),680 Ratings,Added 07/06/17,
+598,Abbaye De Saint Bon-Chien 2015 (Blend 2),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(3.94),278 Ratings,Added 12/25/17,Swiss Ale de Garde aged in oak.
+599,Abbaye De Saint Bon-Chien 2012 (Blend 5),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(3.93),239 Ratings,Added 12/05/14,
+600,Schwarz Mönch,/PensionGimmelwald,Schwarz Mönch,5% ABV,N/A IBU,(3.92),259 Ratings,Added 07/11/16,Our own twist on a monastic Schwarzbier. A special ingredient gives it the smoothness and taste that has made it so highly rated. Lighter than a stout… Read More
+601,How Soon Is Now?,/WhiteFrontier,WhiteFrontier,8.2% ABV,N/A IBU,(3.91),586 Ratings,Added 06/20/18,DIPA brewed in collaboration with the insanely talented Wylam Brewery. Coming together to brew the largest hop bill we've used to date. This juicy & hazy… Read More
+602,"Abbaye de Saint Bon-Chien Grand Cru (2013, Rosé Spicy)",/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(3.9),157 Ratings,Added 04/26/14,
+603,√225 Saison - Grapes,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),6% ABV,85 IBU,(3.9),687 Ratings,Added 03/17/14,
+604,Cerveza Sin Frontera (Cognac Barrel Aged),/BrasserieTroisDames,Brasserie Trois Dames,7.8% ABV,N/A IBU,(3.89),514 Ratings,Added 06/24/17,"This collaboration beer with Jester King of Texas and Crooked Stave of Colorado, showcases the unique mixed culture of yeast and brewing bacteria used… Read More"
+605,√225 Saison,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),6% ABV,18 IBU,(3.89),"19,934 Ratings",Added 11/28/12,"√225 saison historical is the little sister of the Bon-Chien, a slighlty sour and bitter rustical saison aged in oak barrels for about 4-5 months."
+606,La Tentation,/BrasserieTroisDames,Brasserie Trois Dames,7.3% ABV,N/A IBU,(3.89),"2,216 Ratings",Added 06/19/13,"A taste of fall greets those who open Tentation. A tempting blend of a pale sour beer and cider from Cidrerie du Vulcain. Prior to blending, the sour… Read More"
+607,Abbaye De St. Bon Chien Zymatore (Chardonnay Barrel Aged) 2014,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),11% ABV,N/A IBU,(3.89),189 Ratings,Added 11/14/15,
+608,Fiancée Pinot Noir,/BrasserieTroisDames,Brasserie Trois Dames,8% ABV,N/A IBU,(3.88),"1,326 Ratings",Added 08/20/14,"Même recette, même type der fermentation que l’Amoureuse, mais avec
+Pinot Noir et Pinot Gris."
+609,Wheat Vieille Cave Saison,/BrasserieTroisDames,Brasserie Trois Dames,6.8% ABV,N/A IBU,(3.88),394 Ratings,Added 10/02/16,"Wheat sour ale aged 18 months in our old cellar, blended with our saison brett. Dry hopped with Saaz, Citra and Cascade."
+610,Saison Brett,/BrasserieTroisDames,Brasserie Trois Dames,6% ABV,N/A IBU,(3.87),891 Ratings,Added 07/01/15,
+611,√225th Anniversary Saison,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),5% ABV,N/A IBU,(3.87),660 Ratings,Added 02/26/14,
+612,Degustator - Vin Santo (2016),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),6.5% ABV,N/A IBU,(3.86),221 Ratings,Added 04/15/17,"Barrel Aged IGA Italian Grape Ale
+la prima IGA svissera"
+613,Sauvageonne Dark,/BrasserieTroisDames,Brasserie Trois Dames,6% ABV,N/A IBU,(3.86),341 Ratings,Added 09/03/16,Lambic inspired ale. 3 year old blend of sour ale. Solar aging in Cabernet Sauvignon wine barrels. Full of wild yeast and Brettanomyces. Released in 2015. Read More
+614,Sainte Ni Touche,/BrasserieTroisDames,Brasserie Trois Dames,9% ABV,N/A IBU,(3.85),"1,782 Ratings",Added 04/15/12,"This beer undergoes an incredible metamorphosis. Beginning its life as a double IPA, Sainte Ni Touche is aged in barrels with our house yeast culture… Read More"
+615,India Pale Ale,/523brewery,523,7.2% ABV,55 IBU,(3.85),286 Ratings,Added 06/27/14,"Geradliniges American IPA.
+Mit Warrior gebittert,
+mit Simcoe abgerundet.
+Keine Kompromisse.
+Dryhopping for president."
+616,Beast,/StormAnchor,S&A Brewing,9.5% ABV,N/A IBU,(3.84),355 Ratings,Added 03/25/12,ABV range from 8.1% up to 9.7%
+617,Vieille Saison,/BrasserieTroisDames,Brasserie Trois Dames,8% ABV,N/A IBU,(3.84),600 Ratings,Added 03/17/16,"Vieille Saison – Version forte d’une bière en barrqiue qui a séjourné 6 mois dans des barriques de Jerez – 8 % vol.alc. Strong Saison with Brettanomyces,brewed… Read More"
+618,Pacific Imperial IPA,/523brewery,523,7.31% ABV,67 IBU,(3.84),156 Ratings,Added 03/11/14,"Imperial India Pale Ale mit Hopfen
+von der Pazifikküste gebraut: Millenium und Galaxy aus Australien und Simcoe aus Washington State."
+619,Forêt Noire,/BrasserieTroisDames,Brasserie Trois Dames,6.8% ABV,N/A IBU,(3.84),"3,332 Ratings",Added 05/17/14,"La Forêt Noire is a reddish-black ale brewed with a mixture of malts (Carafa, Special B) which give it real body and depth – a color and texture reminiscent… Read More"
+620,Envoutée Single Barrel Cognac (Limitée),/BrasserieTroisDames,Brasserie Trois Dames,6.6% ABV,N/A IBU,(3.84),155 Ratings,Added 02/09/18,"Before even entering a single Cognac barrel, this hand blended beer of more than two years old, was the result of uniting beer aged in both oak and stainless… Read More"
+621,Grande Dame,/BrasserieTroisDames,Brasserie Trois Dames,7% ABV,35 IBU,(3.83),"4,823 Ratings",Added 02/07/11,"Unorthodox and intricate, Grande Dame is the result of the marriage between mature barrel aged Oud Bruin and fermented apricots from the Valis region… Read More"
+622,TIPA 2018,/WhiteFrontier,WhiteFrontier,11.5% ABV,N/A IBU,(3.83),204 Ratings,Added 04/21/18,Triple IPA brewed with New England yeast and 25g/L dry hop 50:50 Pellets and Lupulin Powder. Brewed for our sins and the festival season equally. May… Read More
+623,Degustatoro (Saison Champêtre BFM-NEB) (2016),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),6.276% ABV,N/A IBU,(3.83),298 Ratings,Added 03/09/18,Un premier brassin expérimantal avec notre levain spécial produit à la Nébuleuse a nûri dans nos barriques durant 6 mois. Assemblé avec une deuxième cuite… Read More
+624,New England DIPA,/WhiteFrontier,WhiteFrontier,9.3% ABV,N/A IBU,(3.83),497 Ratings,Added 03/10/17,
+625,15th Anniversary,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),5% ABV,N/A IBU,(3.83),192 Ratings,Added 03/14/13,Part of the Zymatore Project. Saison Aged In Abbaye De Saint Bon-Chien Barrels
+626,KULAKS,/WhiteFrontier,WhiteFrontier,6% ABV,N/A IBU,(3.82),384 Ratings,Added 05/03/18,"Multigrain IPA (Rye, Spelt, Oats and Barley) Collaboration with Lervig and Echec et Malt."
+627,Sauvageonne,/BrasserieTroisDames,Brasserie Trois Dames,6% ABV,N/A IBU,(3.82),479 Ratings,Added 04/15/12,The Wild One - This solera aged beer takes inspiration from the lambic tradition. A 3-year-old blend of sour ale made with Brettanomyces and souring bacteria… Read More
+628,Cuvée Alex Le Rouge,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),10.276% ABV,N/A IBU,(3.82),"7,787 Ratings",Added 11/08/13,"Jurassian Imperial Stout brewed with black pepper, vanilla, and Russian tea."
+629,Hold'hop,/LaNebuleuse,La Nébuleuse,8% ABV,85 IBU,(3.82),461 Ratings,Added 06/22/17,"Les pintes en l'air, ceci est un hold-hop! Cette fois-ci on n'essaie pas de vous tendre une embuscade, ce sera une action directe. Un maltage complexe,… Read More"
+630,La Cuvée Alex Le Rouge (2015),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),10.276% ABV,N/A IBU,(3.81),425 Ratings,Added 08/02/15,
+631,√225 Saison Rhubarbe (2016),/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),6% ABV,N/A IBU,(3.81),373 Ratings,Added 04/24/16,
+632,Cuvee Alex Le Rouge Zymatore Pedro Ximenez,/w/brasserie-des-franches-montagnes-bfm/4719,Brasserie des Franches-Montagnes (BFM),10.3% ABV,N/A IBU,(3.81),193 Ratings,Added 08/07/15,
+633,Fiancée Pinot Gris,/BrasserieTroisDames,Brasserie Trois Dames,8% ABV,N/A IBU,(3.8),322 Ratings,Added 08/25/14,A dry saison fermented with pinot Gris must & wild yeast
+634,La Transparente,/w/cidrerie-du-vulcain/80533,Cidrerie Du Vulcain,4.5% ABV,N/A IBU,(3.8),167 Ratings,Added 10/16/14,
+635,Airpocalypse Double IPA (空气大爆表双),/JingABrewingCo,Jing A (京A) Brewing Co.,8.8% ABV,100 IBU,(3.82),437 Ratings,Added 04/04/14,"Our hazy, unfiltered tribute to the city we know and love and to the people who, whether it’s a blue-sky day or a no-sky day, make it so great. Intensely… Read More"
+636,Lychee Xanadu,/JingABrewingCo,Jing A (京A) Brewing Co.,5.6% ABV,20 IBU,(3.8),377 Ratings,Added 07/05/17,This cloudy straw-colored ale was soured with lactobacillus and infused with loads of juicy Chinese Lychees. The enticing flavor of white peach and lychee… Read More
+637,Seeing Double IPA 断片儿,/ArrowFactoryBrewing,Arrow Factory Brewing 箭厂啤酒,8.1% ABV,77 IBU,(3.76),297 Ratings,Added 12/06/14,"As the name suggests, this beer packs a punch. Being a proper American IPA, it balances a strong bitterness with a zesty flavour profile of tropical fruits… Read More"
+638,Hutong Clan CDA,/JingABrewingCo,Jing A (京A) Brewing Co.,9% ABV,75 IBU,(3.74),653 Ratings,Added 11/13/15,"An aggressively hopped dark ale, this beer brings the ruckus with a big dose of Pacific Northwest hops and a fiery kick of Chinese ginger. Originally… Read More"
+639,Black Velvet Oatmeal Vanilla Stout,/JingABrewingCo,Jing A (京A) Brewing Co.,6.2% ABV,15 IBU,(3.74),331 Ratings,Added 11/19/13,Our year-round stout seduces with a decadent bouquet of bourbon-soaked vanilla beans. Velvety-smooth flavors of chocolate and coffee lead on to a touch… Read More
+640,Flying Fist IPA (飞拳),/JingABrewingCo,Jing A (京A) Brewing Co.,6.5% ABV,60 IBU,(3.74),877 Ratings,Added 06/22/13,"Our flagship American IPA is abundantly dry-hopped with Citra and Simcoe for an intense burst of tropical fruit aromas, including passionfruit and pineapple.… Read More"
+641,Sea Anchor Imperial Vanilla Stout,/slowboatbrewery,Slow Boat Brewery 悠航鲜啤,8.5% ABV,28 IBU,(3.74),245 Ratings,Added 12/28/12,"Our vanilla stout is a full bodied stout with some malty sweetness and mild hop notes, which are generally characteristic of an imperial stout. This beer… Read More"
+642,Chesty Puller American IPA 子龙IPA,/greatleapbeer,Great Leap Brewing,6.3% ABV,60 IBU,(3.72),551 Ratings,Added 11/19/13,This is one for the hop lovers. This American IPA was created specially for the Marine Detachment at the US Embassy in Beijing. Named after Lewis Burwell… Read More
+643,Dongbei IPA,/JingABrewingCo,Jing A (京A) Brewing Co.,7.6% ABV,55 IBU,(3.71),175 Ratings,Added 02/10/17,"A hazy and intensely dry-hopped Northeast-style IPA that's all about the fresh, unfiltered aroma. Pull it in close and drown your nose in a juicy spill… Read More"
+644,The First Immortal Double IPA,/slowboatbrewery,Slow Boat Brewery 悠航鲜啤,8% ABV,65 IBU,(3.71),399 Ratings,Added 11/23/13,
+645,Explorer General IPA 定遠侯IPA,/greatleapbeer,Great Leap Brewing,6.6% ABV,80 IBU,(3.71),172 Ratings,Added 08/24/15,"Brewed with American Chinook hops, our Explorer General IPA starts with an aroma of ripe grapefruit and finishes with a dry, piney bitterness. The Explorer… Read More"
+646,Black Tentacle,/JingABrewingCo,Jing A (京A) Brewing Co.,11% ABV,50 IBU,(3.7),299 Ratings,Added 03/21/18,"The wall couldn't keep out this monster! We brewed this menacing imperial stout in collaboration with Barnaby Struve, a brooding brewer from Gothenberg's… Read More"
+647,Monkey's Fist IPA,/slowboatbrewery,Slow Boat Brewery 悠航鲜啤,6.2% ABV,50 IBU,(3.7),801 Ratings,Added 04/18/12,Slow Boat’s first IPA was originally named Monkey’s Fist Mango IPA for its plentiful additions of Citra hops that resulted in a strong passionfruit and… Read More
+648,Muddled Fixation IPA,/NBeerPub,NBeer,6.2% ABV,40 IBU,(3.7),153 Ratings,Added 04/20/17,
+649,Big Boy Double IPA,/boxingcatbrewery,Boxing Cat Brewery,9.4% ABV,95 IBU,(3.69),268 Ratings,Added 09/30/11,A massive ale dedicated to the true hop lover! This huge India Pale Ale is brewed with twice the amount of malt and an absurd amount of hops. Only the… Read More
+650,Imperial Honey Ma 凤谷甫子,/greatleapbeer,Great Leap Brewing,8.3% ABV,25 IBU,(3.69),217 Ratings,Added 01/05/15,"This is the amped up imperial version of GLB's first brew and signature beer creation, the Honey Ma Gold. The Imperial Honey Ma features the same ingredients… Read More"
+651,Hoppy Bugger IPA,/boxingcatbrewery,Boxing Cat Brewery,7.5% ABV,75 IBU,(3.68),334 Ratings,Added 07/26/14,A West Coast IPA brewed for our friend of the brewery named David Hopley. This beer is beastly as it has some hop dankness as well as massive hop aroma.… Read More
+652,King Louie Imperial Stout,/boxingcatbrewery,Boxing Cat Brewery,8.5% ABV,47 IBU,(3.66),651 Ratings,Added 04/21/12,"This beer is named after Louie, the original cat that inspired Boxing Cat as the company name. This velvety beer contains several roasted malts including… Read More"
+653,Bourbon Barrel Aged King Louie Imperial Stout,/boxingcatbrewery,Boxing Cat Brewery,9.9% ABV,47 IBU,(3.66),313 Ratings,Added 04/06/13,Aged in used Jim Beam Bourbon Barrels for 13 months. Very Limited Release.
+654,Liu the Brave Stout 刘勇乌啤,/greatleapbeer,Great Leap Brewing,6.5% ABV,30 IBU,(3.66),229 Ratings,Added 12/16/14,"Named after our founder's father, the late Liu the Brave, is our benchmark stout infused with various spices depending on the time of the year and reflects… Read More"
+655,Worker's Pale Ale,/JingABrewingCo,Jing A (京A) Brewing Co.,5% ABV,40 IBU,(3.66),490 Ratings,Added 06/22/13,"*Gold Medal, International Beer Cup & Brussels Beer Challenge, 2017 A full-flavored American Pale Ale for the Beijing working man. Pronounced notes of… Read More"
+656,Sugar Daddy,/boxingcatbrewery,Boxing Cat Brewery,10.5% ABV,40 IBU,(3.66),333 Ratings,Added 11/27/14,"A limited release beer that is modeled after Creme Brûlée dessert. Flavors of vanilla, chocolate, caramel and coconut should be apparent. Enjoy!"
+657,Sucker Punch Pale Ale,/boxingcatbrewery,Boxing Cat Brewery,5.5% ABV,36 IBU,(3.65),913 Ratings,Added 12/09/11,An ale that's fruity and estery with some crystal malt providing a bit of residual sweetness and slight orange hue. An American Pale Ale of distinction… Read More
+658,North Star IPA,/ShanghaiBrewery,Shanghai Brewery,6.5% ABV,60 IBU,(3.64),917 Ratings,Added 02/24/13,"Shanghai Brewery's American-style India Pale Ale is brewed with delicious, aromatic red malts to balance with loads of American hops for a full bitterness… Read More"
+659,Guanxi Pale Ale 关系,/ArrowFactoryBrewing,Arrow Factory Brewing 箭厂啤酒,5.3% ABV,40 IBU,(3.64),224 Ratings,Added 08/10/14,"Sometimes the best beer for the job is a simple style done well. Copper and gold in colour, with hints of grapefruit from the Amarillo hops, this American… Read More"
+660,TKO IPA,/boxingcatbrewery,Boxing Cat Brewery,6.3% ABV,62 IBU,(3.64),"2,084 Ratings",Added 12/09/11,An American IPA brewed with 4 different US hops including a generous dose of Amarillo hops for dry-hopping. China's original American-Style IPA since… Read More
+661,Gaige Kaifang,/JingABrewingCo,Jing A (京A) Brewing Co.,12% ABV,100 IBU,(3.64),232 Ratings,Added 05/20/16,"A revolution is brewing! Gaige Kaifang refers to ""Reform and Opening Up"", the program of economic reform that China initiated in the late 1970s. Inspired… Read More"
+662,Southpaw Winter Warmer,/boxingcatbrewery,Boxing Cat Brewery,7.1% ABV,42 IBU,(3.64),242 Ratings,Added 11/19/11,"An English Brown Ale brewed with orange peel, star anise and coffee. This Winter Seasonal beer is available from late November until late February."
+663,Aggressor 孟德,/greatleapbeer,Great Leap Brewing,7% ABV,44 IBU,(3.63),376 Ratings,Added 02/10/13,"Full-bodied, bold with sweet undertones, the Aggressor is our earthy dark ale. Our take on a Scotch Ale has a complex palate with a myriad of flavors… Read More"
+664,Glasgow Kiss Scotch Ale,/boxingcatbrewery,Boxing Cat Brewery,6.4% ABV,28 IBU,(3.63),151 Ratings,Added 04/21/12,A traditional Scotch Ale that has undergone a long boil in the kettle for caramelization of the wort. This produces a deep copper to brown colored brew.… Read More
+665,Full Moon Farmhouse Ale,/JingABrewingCo,Jing A (京A) Brewing Co.,6.2% ABV,20 IBU,(3.63),232 Ratings,Added 09/15/13,"A farmhouse ale originally brewed to celebrate China's Mid-Autumn festival. On the nose, this beer features the sweet Osmanthus flower (Gui Hua, a traditional… Read More"
+666,爱啤 IPA,/w/shanghai-love/287560,申爱 Shanghai Love,7.2% ABV,75 IBU,(3.63),238 Ratings,Added 07/31/16,
+667,Old Driver IPA,/w/dream-brewers/369858,Dream Brewers (梦想酿造),6.1% ABV,55 IBU,(3.62),187 Ratings,Added 02/26/17,
+668,Roshambo Session IPA,/boxingcatbrewery,Boxing Cat Brewery,4.8% ABV,50 IBU,(3.62),158 Ratings,Added 11/21/13,A West Coast IPA with lower alcohol content. Double Dry-Hopped for an intense aroma.
+669,India Pale Ale,/TheBREWShanghai,The BREW,5.3% ABV,N/A IBU,(3.62),250 Ratings,Added 11/20/11,
+670,Enlightenment,/JingABrewingCo,Jing A (京A) Brewing Co.,8% ABV,64 IBU,(3.62),174 Ratings,Added 06/16/17,An ink-black imperial stout brewed with roasted barley from the Tibetan Highlands. A generous dose of New World hops strikes a balance with its rich malt… Read More
+671,Watermelon Xanadu,/JingABrewingCo,Jing A (京A) Brewing Co.,5.6% ABV,10 IBU,(3.62),447 Ratings,Added 07/21/16,"A refreshing Berliner Weisse brewed with the best local Watermelons from Daxing and a hint of hibiscus, for a big melon kick and a dry, tart finish. Read More"
+672,Sleepless In Saison,/LiquidLaundry,Liquid Laundry,7% ABV,48 IBU,(3.62),165 Ratings,Added 10/08/14,A Saison beer using yeast from Belgium and generous amounts of New Zealand Hops. Dry hopped with Nelson Sauvin hops.
+673,The Pride of 020 IPA,/w/bravo-brewing-co/290538,Bravo Brewing Co.,6.5% ABV,60 IBU,(3.61),158 Ratings,Added 08/14/16,
+674,Beijing Gose Modern,/NBeerPub,NBeer,4.5% ABV,5 IBU,(3.61),171 Ratings,Added 12/27/16,
+675,Beverly Hills Hop,/LiquidLaundry,Liquid Laundry,5.1% ABV,33 IBU,(3.61),181 Ratings,Added 08/06/14,"An American Pale Ale brewed with Pacific Gem, Galaxy and HBC 462 hops. Galaxy and HBC 462 are also used to dry-hop this beer."
+676,Sweet Science Summer Ale,/boxingcatbrewery,Boxing Cat Brewery,5.4% ABV,20 IBU,(3.61),166 Ratings,Added 07/25/14,"Brewmaster Michael calls this an elderflower ale. It ain't sweet and it ain't (rocket) science. It is a clean, crisp, dry golden ale, with true floral… Read More"
+677,Mocking Imperial Stout,/w/panda-brew/108789,Panda Brew,10% ABV,66 IBU,(3.6),176 Ratings,Added 07/14/17,
+678,Citra IPA,/w/xian-brewery/182482,Xian Brewery,5.5% ABV,35 IBU,(3.6),179 Ratings,Added 03/20/15,
+679,Hoppy Ending White IPA,/boxingcatbrewery,Boxing Cat Brewery,5.6% ABV,55 IBU,(3.6),169 Ratings,Added 07/27/12,"An cross between a Belgian Wit and American IPA. Brewed with orange peel, coriander and pear sugar. American hop influence of Cascade and Citra hops. Read More"
+680,Hidden General IPA 不讓鬚眉,/greatleapbeer,Great Leap Brewing,4.5% ABV,35 IBU,(3.6),168 Ratings,Added 06/07/14,"Named after the legend of Hua Mulan, a rare female military hero in Chinese history. Her story is part myth and part oral history, but her impact on gender… Read More"
+681,Bare Knuckle Barleywine,/boxingcatbrewery,Boxing Cat Brewery,10.2% ABV,45 IBU,(3.6),374 Ratings,Added 11/27/12,A limited release beer! Brewed with some Malaysian Gula Malacca sugar. Notes of raisins and toffee along with a citrus hop note from Galaxy hops.
+682,Captain's Pale Ale,/slowboatbrewery,Slow Boat Brewery 悠航鲜啤,4.9% ABV,38 IBU,(3.6),303 Ratings,Added 12/30/12,Captain’s Pale Ale is Slow Boat’s flagship beer. This dark copper ale is made with four varieties of hops from the American Pacific Northwest to give… Read More
+683,Nose Breaking Red IPA,/boxingcatbrewery,Boxing Cat Brewery,7.3% ABV,83 IBU,(3.6),175 Ratings,Added 11/06/15,An ale with a deep amber color from the use of crystal malt as well as a light touch of chocolate malt. The malt undertones provide a caramel richness… Read More
+684,Full Nelson Saison,/boxingcatbrewery,Boxing Cat Brewery,6.9% ABV,70 IBU,(3.59),228 Ratings,Added 08/06/15,We’ve taken our fantastic Belgian Saison yeast and created a hoppy Saison full of flavor and hop character. The light use of Munich and caramel malts… Read More
+685,Sakara Weizen,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,5% ABV,N/A IBU,(3.13),394 Ratings,Added 06/02/13,Sakara Weizen is the specialty wheat beer of the Sakara family aimed at the beer connoisseurs who are looking for a unique and alternative European taste.… Read More
+686,Sakara King,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,10% ABV,N/A IBU,(2.98),288 Ratings,Added 02/01/11,Sakara King is the highest alcohol beer in the Sakara family with alcohol content of 10%. It is aimed at those who as seeking a more daring drinking experience.… Read More
+687,Meister Max,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,8% ABV,N/A IBU,(2.91),692 Ratings,Added 12/26/10,"With its 8% alcohol, Meister Max is a beer for a new and daring men generation. Meister Max was the first high alcohol beer to be launched in the Egyptian… Read More"
+688,Pharaohs,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,4% ABV,N/A IBU,(2.88),616 Ratings,Added 06/15/15,
+689,Luxor Classic,/w/egyptian-international-beverages-co/4975,Egyptian International Beverages Co.,5% ABV,N/A IBU,(2.88),635 Ratings,Added 02/01/11,
+690,Stella Lager,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,4.5% ABV,N/A IBU,(2.8),"3,108 Ratings",Added 01/22/12,
+691,Sakara Gold,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,4% ABV,N/A IBU,(2.8),"2,565 Ratings",Added 02/01/11,Sakara Gold is the premium quality Egyptian beer with a European taste for those who appreciate a sophisticated beer. It is easy to drink and suitable… Read More
+692,Birell,/w/al-ahram-beverages-company/7628,Al Ahram Beverages Company,N/A ABV,N/A IBU,(2.8),170 Ratings,Added 11/03/14,
+693,Asmara Lager Beer,/w/asmara-brewery/7881,Asmara Brewery,5% ABV,N/A IBU,(3),"1,060 Ratings",Added 02/06/11,"Pours unclear golden with a small white head. Aroma is weak grainy malts, sugars. Taste is light sweet, some harsh bitter hops towards the long finish.… Read More"

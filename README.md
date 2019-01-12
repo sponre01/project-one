@@ -12,6 +12,7 @@ Beer
 2. What percentage of ciders have yeast (or others?)
      Look for interesting trends in the ingredients
      - Bar chart and clustered bar chart
+     - Presented by Michele
 3. Which is the most award winning style?
       - Which styles are most award winning in different countries? (US, Germany, etc)
 4. Of those styles, what are the most popular types/brands?

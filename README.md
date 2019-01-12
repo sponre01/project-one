@@ -12,7 +12,9 @@ Activity within the brewing industry will organize into routine consumer behavio
 2. Styles: 
      - Are organic options available?
      
-     TEST
+     YES! The North American styles category presented the most organic options. This conclusion required accessing and merging two dictionaries within the API -- Styles and Beers -- and simplying this new data from to contain only the Category (which I called Super Style), Style and Organic (Y/N) indicator for the style. The most challenging part of this clean up was being able to manipulate single-style findings reporting to multiple indexes. 
+     
+     
        
      - Which styles of beers are within a binned range of abv?
      

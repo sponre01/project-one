@@ -8,7 +8,12 @@ Activity within the brewing industry will organize into routine consumer behavio
 # Questions
 1. Do Budweiser and Miller dominate the database?
      JONATHAN 
-2. Organic
+     
+2. Styles: 
+     A) Are organic options available?
+       
+     B) Which styles of beers are within a binned range of abv?
+     
 3. How does the established date of a brewery correlate to its distance from Chicago?
      - Presented by Becky!
      - We expect that the brewerys closer to Chicago will be older, if trends from history are still present.

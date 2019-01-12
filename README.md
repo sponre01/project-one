@@ -10,9 +10,10 @@ Activity within the brewing industry will organize into routine consumer behavio
      JONATHAN 
      
 2. Styles: 
-     A) Are organic options available?
+     - Are organic options available?
+     -- Test
        
-     B) Which styles of beers are within a binned range of abv?
+     - Which styles of beers are within a binned range of abv?
      
 3. How does the established date of a brewery correlate to its distance from Chicago?
      - Presented by Becky!

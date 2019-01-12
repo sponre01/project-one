@@ -1,5 +1,6 @@
 config.py
-
+AY_Exploration_Brewerydb.ipynb
+AY_Exploration_Ratebeer.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

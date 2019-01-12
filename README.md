@@ -11,7 +11,8 @@ Activity within the brewing industry will organize into routine consumer behavio
      
 2. Styles: 
      - Are organic options available?
-     -- Test
+     
+     TEST
        
      - Which styles of beers are within a binned range of abv?
      

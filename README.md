@@ -24,14 +24,14 @@ __3. How does the established date of a brewery correlate to its distance from C
 - _Challenges overcome_: In the data cleaning process, we got stuck on importing data with locations because it was not the default api set up. Jonathan figured out out to access the data with ingredients included, so I used that logic to access the data with locations. Thanks Jonathan! 
 - _More challenges overcome?_: Due to the fact that we were using the sandbox, we only had access to __17 breweries__. Still, plotting the trend using the accessible breweries will give us an idea of whether or not paying for the full version will be worth it. 
 - _Result_: From the scatterplot below, we see there may still be a rough correlation! At the very least, if I wanted to do more with this, I would be convinced by this data to go purchase the full access to the BreweryDB API.
-![alt text](https://github.com/sponre01/project-one/blob/master/Images/Distance%20from%20Chicago%20vs.%20Established%20Year.png "Distance from Chicago vs. Established Year")
+           ![alt text](https://github.com/sponre01/project-one/blob/master/Images/Distance%20from%20Chicago%20vs.%20Established%20Year.png "Distance from Chicago vs. Established Year")
 ***
 __4. How does the alcohol content of a beer coorelate to styles?__
+           ![alt text](https://github.com/sponre01/project-one/blob/master/Images/Alcohol%20by%20Volume%20Distribution%20for%20All%20Beers.png "ABV distribution for all beers")
 - The average alcohol content over all beers is 6.92% by volume. Our data set includes: 1109 individual beers Note: the average abv for beer according to Google is 4.5%. 
 - For this data set, I combined the beer data and the style data and overlayed the two-tailed t-test statistical logic. 
-- (See: Alcohol by Volume Distribution for All Beers.png)
 - In the web application created below highlights the above finding in a user-friendly format. 
-- (See: http://beer-styles.us-east-2.elasticbeanstalk.com/) 
+- [Click here to explore the app!](http://beer-styles.us-east-2.elasticbeanstalk.com/) 
 ***
 __5. Ingredients:__ 
    A. Which breweries report ingredients data base most completely with ingredients data?

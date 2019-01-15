@@ -9,7 +9,9 @@
 
 ## Questions
 __1. Do Budweiser and Miller dominate the database?__
-       - JONATHAN 
+       - No. In-Bev and Miller only added their main labeled beers (i.e. Budweiser and Miller High Life) but not the foreign or "microbrew" beers they own (Stella Atrois, Lienkugel). Budweiser has only the seventh most beers in the database and Miller only has nine making it near the rear.
+![alt text](https://github.com/sponre01/project-one/blob/jzeFix/Images/prolific.png)
+
 ***     
 __2. Styles: Are organic options available?__ 
 - YES! The North American styles category presented the most organic options. 

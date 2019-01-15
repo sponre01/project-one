@@ -23,12 +23,10 @@ Data Science Bootcamp - first project
      - Why Chicago? Chicago was one of the “hot-spots” for brewing in early America, thanks to the large population of German immigrants living here.
      - Due to the fact that we were using the sandbox, we only had access to 17 breweries. Still, plotting the trend using the accessible breweries will give us an idea of whether or not paying for the full version will be worth it. 
      - In the data cleaning process, we got stuck on importing data with locations because it was not the default api set up. Jonathan figured out out to access the data with ingredients included, so I used that logic to access the data with locations. 
-![alt text](https://github.com/sponre01/project-one/tree/master/Images/Distance-from-Chicago-vs.-Established-Year.png "Distance from Chicago vs. Established Year")
+     
+![alt text](https://github.com/sponre01/project-one/blob/master/Images/Distance%20from%20Chicago%20vs.%20Established%20Year.png "Distance from Chicago vs. Established Year")
 
-Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/sponre01/project-one/tree/master/Images/Distance from Chicago vs. Established Year.png "Distance from Chicago vs. Established Year")
 
 
 3. How does the alcohol content of a beer coorelate to styles? 

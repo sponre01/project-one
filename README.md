@@ -27,11 +27,11 @@ __3. How does the established date of a brewery correlate to its distance from C
            ![alt text](https://github.com/sponre01/project-one/blob/master/Images/Distance%20from%20Chicago%20vs.%20Established%20Year.png "Distance from Chicago vs. Established Year")
 ***
 __4. How does the alcohol content of a beer coorelate to styles?__
-           ![alt text](https://github.com/sponre01/project-one/blob/master/Images/Alcohol%20by%20Volume%20Distribution%20for%20All%20Beers.png "ABV distribution for all beers")
 - The average alcohol content over all beers is 6.92% by volume. Our data set includes: 1109 individual beers Note: the average abv for beer according to Google is 4.5%. 
 - For this data set, I combined the beer data and the style data and overlayed the two-tailed t-test statistical logic. 
-- In the web application created below highlights the above finding in a user-friendly format. 
-- [Click here to explore the app!](http://beer-styles.us-east-2.elasticbeanstalk.com/) 
+- The [web application](http://beer-styles.us-east-2.elasticbeanstalk.com/) I created highlights the above finding in a user-friendly format. 
+
+![alt text](https://github.com/sponre01/project-one/blob/master/Images/Alcohol%20by%20Volume%20Distribution%20for%20All%20Beers.png "ABV distribution for all beers")
 ***
 __5. Ingredients:__ 
    A. Which breweries report ingredients data base most completely with ingredients data?

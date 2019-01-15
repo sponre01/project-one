@@ -9,7 +9,7 @@
 
 ## Questions
 __1. Do Budweiser and Miller dominate the database?__
-       - No. In-Bev and Miller only added their main labeled beers (i.e. Budweiser and Miller High Life) but not the foreign or "microbrew" beers they own (Stella Atrois, Lienkugel). Budweiser has only the seventh most beers in the database and Miller only has nine making it near the rear.
+- No. In-Bev and Miller only added their main labeled beers (i.e. Budweiser and Miller High Life) but not the foreign or "microbrew" beers they own (Stella Atrois, Lienkugel). Budweiser has only the seventh most beers in the database and Miller only has nine making it near the rear.
 ![alt text](https://github.com/sponre01/project-one/blob/jzeFix/Images/prolific.png)
 
 ***     
@@ -40,7 +40,11 @@ __5. How does the alcohol content of a beer coorelate to styles?__
 
 ![alt text](https://github.com/sponre01/project-one/blob/master/Images/Alcohol%20by%20Volume%20Distribution%20for%20All%20Beers.png "ABV distribution for all beers")
 ***
-__5. Ingredients:__ 
-   A. Which breweries report ingredients data base most completely with ingredients data?
-   B. SOMETHING WITH HOPS
-     JONATHAN
+__5. Who populates the ingredients inside brewerDB ?__ 
+- A look at who adds the most ingredients per beer shows a top five different from most prolific beers listed
+![alt text](https://github.com/sponre01/project-one/blob/jzeFix/Images/ing.png)
+- Looking specifically at the hops listed finds a slightly different listing. Budweiser and their lagers never add the hops used
+![alt text](https://github.com/sponre01/project-one/blob/jzeFix/Images/hops.png)
+- Hypothesis hoppier beers will more likely list the hops they used in the database. Using IBU as a measure of 'hoppiness', there is a slight correlation between hops added to the database and hoppiness
+![alt text](https://github.com/sponre01/project-one/blob/jzeFix/Images/ibu_regress.png)
+   B. 

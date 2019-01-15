@@ -2,8 +2,8 @@
 Data Science Bootcamp - first project
 
 # Thesis
-- Starting one's own brewery is as easy as an API connection! Jk. Once we started exploring the data we had to change our thesis. 
-# Activity within the brewing industry will organize into routine consumer behaviors and preferences that will provide market research insights for a Brew Crew aka Brewery entrepreneurs. 
+- Starting one's own brewery is as easy as an API connection! Jk. Once we started exploring the data we had to change our thesis: 
+### Activity within the brewing industry will organize into routine consumer behaviors and preferences that will provide market research insights for a Brew Crew aka Brewery entrepreneurs. 
 
 # Questions
 1. Do Budweiser and Miller dominate the database?
@@ -22,7 +22,8 @@ Data Science Bootcamp - first project
 3. How does the established date of a brewery correlate to its distance from Chicago?
      - Why Chicago? Chicago was one of the “hot-spots” for brewing in early America, thanks to the large population of German immigrants living here.
      - Do we still see a clustering of older breweries closer to Chicago? With enough time (and prohibition) this trend might no longer exist.
-     - (See: Distance from Chicago vs. Established Year.png) 
+     - Results:
+![alt text](https://github.com/sponre01/project-one/tree/master/Images/Distance from Chicago vs. Established Year.png "Distance from Chicago vs. Established Year")
      - In the data cleaning process, we got stuck on importing data with locations because it was not the default api set up. Jonathan figured out out to access the data with ingredients included, so I used that logic to access the data with locations. 
 
 3. How does the alcohol content of a beer coorelate to styles? 

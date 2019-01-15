@@ -28,7 +28,7 @@ Data Science Bootcamp - first project
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/sponre01/project-one/tree/master/Images/Distance from Chicago vs. Established Year.png "Distance from Chicago vs. Established Year")
 
 
 3. How does the alcohol content of a beer coorelate to styles? 

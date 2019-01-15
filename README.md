@@ -12,12 +12,12 @@ __1. Do Budweiser and Miller dominate the database?__
        - JONATHAN 
 ***     
 __2. Styles:__ 
-       - Are organic options available?
-       - YES! The North American styles category presented the most organic options. This conclusion required accessing and merging two dictionaries within the API -- Styles and Beers -- and simplying this new data from to contain only the Category (which I called Super Style), Style and Organic (Y/N) indicator for the style. The most challenging part of this clean up was being able to manipulate single-style findings reporting to multiple indexes. 
-       - (See: organic_only_bar.png)
-       - Which styles of beers are within a binned range of abv?
-     The NORTH AMERICAN styles presented the most option for the range of abv bins. The challenging element of synthesizing this data was the same challenge presented in the organic challenge above. 
-       - (See: which_play_bar.png)
+        - Are organic options available?  
+        - YES! The North American styles category presented the most organic options. This conclusion required accessing and merging two dictionaries within the API -- Styles and Beers -- and simplying this new data from to contain only the Category (which I called Super Style), Style and Organic (Y/N) indicator for the style. The most challenging part of this clean up was being able to manipulate single-style findings reporting to multiple indexes.  
+        - (See: organic_only_bar.png)  
+        - Which styles of beers are within a binned range of abv?  
+        - The NORTH AMERICAN styles presented the most option for the range of abv bins. The challenging element of synthesizing this data was the same challenge presented in the organic challenge above.  
+        - (See: which_play_bar.png)
 ***
 __3. How does the established date of a brewery correlate to its distance from Chicago?__
        - _Why Chicago?_ Chicago was one of the “hot-spots” for brewing in early America, thanks to the large population of German immigrants living here. If the trends from this historical context are still present today, then I expect to see a clustering of older American breweries appear closer to Chicago. 
